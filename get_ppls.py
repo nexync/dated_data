@@ -19,7 +19,7 @@ def parse_args():
 	config = argparse.ArgumentParser(parents=[parent_parser])
 
 	config.add_argument("--config_file", required=True)
-	config_args, _ = config_args.parse_known_args()
+	config_args, _ = config.parse_known_args()
 
 	with open(config_args.config_file) as f:
 		cfg = yaml.load(f, Loader = yaml.FullLoader)["default"]
@@ -29,9 +29,10 @@ def parse_args():
 	parser.add_argument("--work_dir", type=str)
 	parser.add_argument("--save_file", type=str)
 	parser.add_argument("--n_months", type=int)
+	parser.add_argument("--b_sz", type=int)
 	parser.add_argument("--cuda", type=bool)
 
-	parser.set_defaults(**config)
+	parser.set_defaults(**cfg)
 	args, _ = parser.parse_known_args()
 
 	return args
@@ -42,12 +43,16 @@ class WikiPerplexity():
 
 		#set device, model and tokenizer
 		self.device = "cuda" if args.cuda else "cpu"
-
-		model.resize_token_embeddings(tokenizer.vocab_size + 1)
-		self.model = model.to(self.device)
-		
+	
 		tokenizer.add_special_tokens({'pad_token': '[PAD]'})
 		self.tokenizer = tokenizer
+
+		model.resize_token_embeddings( max(tokenizer.vocab_size+1, max(tokenizer.added_tokens_decoder.keys())))
+		self.model = model.to(self.device)
+		self.model.eval()
+
+		#print(max(tokenizer.vocab_size+1, max(tokenizer.added_tokens_decoder.keys())))	
+	
 
 		def parse_wiki_data(path_to_data):
 			print("Parsing Wiki Data")
@@ -58,20 +63,20 @@ class WikiPerplexity():
 				subfolder = os.scandir(path_to_data + sf.name + "/")
 				for file in subfolder:
 					arr = file.name.split("-")
-					topic = "_".join(arr[:-2])
+					topic = "_".join(arr[:-1])
 					topic_dict[topic].append((sf.name, file.name))
-
+			
 			return topic_dict
 
 		self.topic_dict = parse_wiki_data(args.data_path)
 		self.path_to_data = args.data_path
-		self.work_dir = args.save_path
+		self.work_dir = args.work_dir
 		self.save_file = args.save_file
 		self.n_months = args.n_months	# Total number of expected versions per topic
 
 		self.save_freq = 100
 		
-	def get_document_perplexities(self, batch_size = 1, start_topic = None):
+	def get_document_perplexities(self, batch_size, start_topic = None):
 		print("Using ", self.device)
 
 		pad_idx = self.tokenizer("[PAD]").input_ids[-1]
@@ -89,7 +94,7 @@ class WikiPerplexity():
 				if topic == start_topic:
 					skip = False
 				continue
-				
+	
 			batch_text = []
 			for i, (date, name) in enumerate(self.topic_dict[topic]):
 				full_path_to_file = self.path_to_data + date + "/" + name
@@ -106,11 +111,11 @@ class WikiPerplexity():
 
 			if count % self.save_freq == 0:
 				df = pd.DataFrame(data = list(zip(topics, *[res[topic] for topic in res.keys()])), columns=["Topic", *list(res.keys())])
-				df.to_csv(self.local_path + self.save_file)
+				df.to_csv(self.work_dir + self.save_file)
 		
 		print("Finished, saving to path")
 		df = pd.DataFrame(data = list(zip(topics, *[res[topic] for topic in res.keys()])), columns=["Topic", *list(res.keys())])
-		df.to_csv(self.local_path + self.save_file)
+		df.to_csv(self.work_dir + self.save_file)
 		
 	def get_perplexity(self, batch_text, pad_idx):
 		res = []
@@ -147,4 +152,4 @@ if __name__ == "__main__":
 	tokenizer = AutoTokenizer.from_pretrained(args.model_path)
 
 	w = WikiPerplexity(model, tokenizer, args)
-	w.get_document_perplexities(start_topic=None, batch_size = 4)
+	w.get_document_perplexities(start_topic=None, batch_size = args.b_sz)
