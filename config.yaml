@@ -1,0 +1,8 @@
+default:
+  model_path: "EleutherAI/pythia-6.9b"
+  data_path: "./data/"
+  work_dir: "./out/"
+  save_file: "file4.csv"
+  n_months: 1
+  b_sz: 1
+  cuda: false
