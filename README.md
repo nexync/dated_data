@@ -6,7 +6,7 @@ This repository accompanies the paper [Dated Data: Tracing Knowledge Cutoffs in 
 
 Large Language Models (LLMs) are often paired with a reported cutoff date, the time at which training data was gathered. However, does the model's demonstrated knowledge align to its cutoff date? We define the notion of an effective cutoff, which indicates when the model's knowledge is most concentrated, and is different from the reported cutoff. We propose a simple approach to estimate effective cutoffs of an LLM on the resource-level by probing across versions of the data. Crucially, our method does not require access to a model's pre-training data. Through our analysis, we find that effective cutoffs often drastically differ from reported cutoffs. This repository contains our results, as well as the code to replicate them.
 
-![alt text](https://github.com/nexync/dated_data/edit/main/images/timestamp.drawio.png?raw=true)
+![alt text](https://github.com/nexync/dated_data/blob/main/images/timestamp.drawio.png?raw=true)
 
 ## Data Collection
 
