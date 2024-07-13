@@ -1,0 +1,7 @@
+default:
+  model_path: MODEL_PATH
+  data_path: PATH_TO_DATA
+  work_dir: PATH_TO_SAVE_OUTPUT_PPLS
+  save_file: PATH_OF_SAVE_FILE
+  n_months: NUMBER OF MONTHS TO EVALUATE PPLS
+  cuda: USE CUDA
