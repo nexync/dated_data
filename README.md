@@ -24,3 +24,18 @@ We provide the perplexities of the versions of the 5000 most popular Wikipedia t
 ```
   python get_ppls.py --config_file ./config.yaml
 ```
+## Citations
+
+If you find this work helpful, please consider citing:
+
+```
+@misc{cheng2024dateddatatracingknowledge,
+      title={Dated Data: Tracing Knowledge Cutoffs in Large Language Models}, 
+      author={Jeffrey Cheng and Marc Marone and Orion Weller and Dawn Lawrie and Daniel Khashabi and Benjamin Van Durme},
+      year={2024},
+      eprint={2403.12958},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2403.12958}, 
+}
+```
