@@ -1,0 +1,25 @@
+But physicists have yet to observe this phenomenon, with the unwieldy name of mixed axial-gravitational anomaly, and confirm the prediction. The imbalance is negligible except when the warping of space-time is extreme — like next to a black hole or the moment after the Big Bang.
+It turns out there was somewhere else to look, and it was much closer. An international team of scientists discovered this anomaly in a tabletop apparatus in Zurich examining the properties of a tiny metallic ribbon.
+“There was no way to test this effect until now,” said Johannes Gooth, a scientist at IBM Research in Zurich who is the lead author of a paper published on Wednesday by the journal Nature.
+The IBM experiment did not involve black holes, or even gravity. Instead, it took advantage of a class of exotic materials known as Weyl semimetals named for a German scientist, Hermann Weyl, whose equation first gave rise to the possibility of such materials. A solid Weyl semimetal crystal was first created a couple of years ago, enabling the IBM study.
+The motion of electrons inside a ribbon of a semimetal is governed by essentially the same space-time-warping equations as the original mixed axial-gravitational anomaly.
+The advance could have practical uses in electronics, similar to how the invention of the transistor led to computer chips.
+“This could be opening the door to something new,” said Bernd Gotsmann, an IBM physicist and a co-author of the Nature paper, who said the company was investigating how the anomaly could be exploited for generating electricity out of waste heat and for other uses.
+The gravitational anomaly popped out from equations that describe how particles called pions moving at close to the speed of light could decay into gravitons, the fundamental particles that carry the force of gravity.
+Usually, the laws of physics prohibit pions from falling apart in this way.
+But under Einstein’s theory of general relativity, the curving of space-time can tip the balance to allow this decay to occur.
+A pion consists of two smaller pieces: a quark, a building block of protons and neutrons, and an antiquark, the antimatter equivalent of a quark.
+Many elementary particles, including quarks and antiquarks, can be thought of as darts that are spinning as they fly through space. They can spin clockwise or they can spin counterclockwise.
+Usually, in the decay of pions, the number of clockwise particles would exactly equal the number of counterclockwise particles.
+But the anomaly resulting from the warping of space-time can flip a clockwise spin to counterclockwise, or vice versa, with more particles spinning in one direction than the other.
+That then circumvents the prohibition, allowing pion-to-gravitons decay to occur.
+But that is currently an impossible experiment. Physicists have yet to find a single graviton.
+Einstein presented his general theory of relativity more than 100 years ago.
+“We would never be able to detect this,” said Karl Landsteiner, one of the authors of the Nature paper and a physicist at the Institute for Theoretical Physics in Spain.
+The same equations became of interest to scientists working in solid state physics, studying the electronic properties of materials.
+In this Weyl semimetal system explored in the experiment, a difference in temperature is analogous to the warping of space-time, and a magnetic field separates electrons into the opposite spins.
+“You can now suddenly use all these concepts in a tabletop experiment,” Dr. Gooth said.
+Dr. Landsteiner said the movement of electrons in a semimetal is very much like the behavior of matter at the event horizon of a black hole, the region where the gravitational pull is so strong that not even light can escape.
+The anomaly leads to more electrons of one spin moving from the hot side to the cold side of the semimetal ribbon, generating an electric current, which the experiment measured.
+The semimetal results could, in turn, improve understanding of black holes, Dr. Landsteiner said.
+The experiment is also a success for string theory, or at least an offshoot of the underlying mathematics. By imagining particles as strings vibrating in 10 or more dimensions, physicists have been trying to tie gravity into the Standard Model, the laws of physics that describe the other forces in the universe. But such attempts at a grand unified explanation of fundamental physics have been maligned because they do not produce testable predictions.

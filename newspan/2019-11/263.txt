@@ -1,0 +1,25 @@
+Business|Free Internet Is Proposed in Britain. Is It Even Possible?
+Free Internet Is Proposed in Britain. Is It Even Possible?
+A Labour Party plan to provide government-sponsored broadband service has raised questions about how it would work, and who would pay for it.
+LONDON — In an election where Britain’s looming exit from the European Union has hung over the campaign, a debate about internet speeds would seem unlikely to enter the race.
+But Britain’s Labour Party injected the topic into the contest last week with a surprise plan to provide high-speed fiber internet service to every household and business in the country by 2030. Free.
+The proposal raised questions about how a free broadband service would work, and who would pay for it.
+How would the service work?
+The party’s leader, Jeremy Corbyn, said the government would take over parts of the country’s largest internet provider, Openreach, a subsidiary of the telecommunications giant BT. The plan would reverse decades of privatization and put the government in charge of an enormous national infrastructure project.
+Labour said the plan would cost roughly 20 billion pounds, or about $26 billion, and be paid for as part of a new government spending package. A tax on Facebook, Google and other tech giants would be used to maintain the network. Labour said it would save customers an average of about £30 a month on internet service, or about $39.
+The idea amounts to an attempt at creating a new British social service akin to the National Health Service, which provides free medical care to all British residents.
+Is free broadband even possible?
+No other country provides free government-run broadband service, said Matthew Howett, the founder and principal analyst at Assembly Research, a firm that studies telecommunications.
+To catch up to other countries that have rolled out fiber more quickly, Britain would negotiate the purchase of Openreach, which has more than 32,000 employees and revenue of more than £5 billion, or about $6.5 billion.
+The government would take over construction of a project that the telecommunications industry says will cost nearly £35 billion, or about $45 billion — making it one of the country’s largest infrastructure efforts.
+The prospects of several other companies that compete with Openreach and have pledged billions in investment for their own initiatives would be thrown into doubt after the debut of a free government-run service.
+How has the concept worked elsewhere?
+The only comparable project is in Australia, where the National Broadband Network has tried to wire the country with fiber internet over the last decade. That project has been roundly criticized for delays, running over budget and not delivering the quality of service that was promised.
+Governments elsewhere have taken different approaches. In South Korea and Japan, where more than 95 percent of the households and businesses have fiber broadband, the government played a crucial role, including helping companies secure loans to pay for the costs.
+In Latvia and Portugal, other countries with high internet coverage, government grants have helped businesses pay for the buildup. In the United States, a fee on cellphone bills is used to pay for subsidies to businesses to expand broadband in rural areas, though it does not require fiber networks to be built.
+“Lagging in fast internet is clearly a problem when the future of the global economy will depend much more on connectivity,” said Kevin Allison, who studies government tech policy with the Eurasia Group in Berlin.
+Why is Britain lagging?
+Britain has wide coverage for what was once the fastest internet technology, known as superfast. But it now lags far behind other leading economies in the next-generation networks. The new technology, based on fiber rather than copper cables, delivers information faster and more reliably than the aging systems. A high-definition movie can be downloaded in less than a minute.
+Only 8 to 10 percent of households and businesses in Britain are connected to full-fiber broadband, trailing the 26 percent average of the 36 nations in the Organization for Economic Cooperation and Development.
+Matthew Evans, a director at techUK, an industry trade group, said Britain’s construction of fiber networks had been accelerating, with companies committing billions to digging up roads and laying new equipment.
+But he warned of the political risks of a government takeover. People like free services, he said, but politicians do not like to be blamed for people’s internet problems. “It becomes an absolute political football,” he said.

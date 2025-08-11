@@ -1,0 +1,33 @@
+Technology|Killer Robots Aren’t Regulated. Yet.
+Times reporters traveled to Russia, Switzerland, California and Washington, D.C., talking to experts in the commercial tech, military and A.I. communities. Below are some key points and analysis, along with extras from the documentary.
+Do I need to worry about a Terminator knocking on my door?
+Most experts say you can rest easy, for now. Weapons that can operate like human soldiers are not something they see in our immediate future. Although there are varying opinions, most agree we are far from achieving artificial general intelligence, or A.G.I., that would allow for Terminators with the kind of flexibility necessary to be effective on today’s complex battlefield.
+However, Stuart J. Russell, a professor of computer science at the University of California, Berkeley, who wrote an influential textbook on artificial intelligence, says achieving A.G.I. that is as smart as humans is inevitable.
+There are many weapons systems that use artificial intelligence. But instead of thinking about Terminators, it might be better to think about software transforming the tech we already have.
+There are weapons that use artificial intelligence in active use today, including some that can search, select and engage targets on their own, attributes often associated with defining what constitutes a lethal autonomous weapon system (a.k.a. a killer robot).
+Perhaps the best known of these weapons is the Israel Aerospace Industries Harpy, an armed drone that can hang out high in the skies surveying large areas of land until it detects an enemy radar signal, at which point it crashes into the source of the radar, destroying both itself and the target.
+The weapon needs no specific target to be launched, and a human is not necessary to its lethal decision making. It has been sold to Chile, China, India, South Korea and Turkey, Mr. Scharre said, and the Chinese are reported to have reverse-engineered their own variant.
+“I think we’re talking more about years not decades,” she said.
+But for the moment, most weapons that use A.I. have a narrow field of use and aren’t flexible. They can’t adapt to different situations.
+“One of the things that’s hard to understand unless you’ve been there is just the messiness and confusion of modern warfare,” Mr. Scharre said in an interview.
+“In all of those firefights,” he explained, “there was never a point where I could very clearly say that it was 100 percent that the person I was looking at down the scope of my rifle was definitely a combatant.
+Although current A.I. is relatively brittle, that isn’t stopping militaries from incorporating it into their robots. In his book, which was published in 2018, Mr. Scharre wrote that at least 16 countries had armed drones, adding that more than a dozen others were working on them.
+You, kind of. Companies are often looking to sell us stuff that we didn’t know we needed. And now, some of that same technology is making its way into our weapons.
+If A.G.I. is inevitable, as Dr. Russell says, should we regulate autonomous weapons before they exist?
+That’s what the Campaign to Stop Killer Robots is trying to achieve at the United Nations. The campaign is made up of nonprofits, civil society organizations and activists. They are calling for a ban on fully autonomous weapons.
+So far, 30 countries have joined them in supporting such a ban, as well as 100 nongovernmental organizations, the European Parliament, 21 Nobel laureates and more than 4,500 A.I. scientists.
+For many in the coalition, it is a moral issue. “When human beings decide to allow machines to target and kill, they have crossed some moral and ethical Rubicon,” the Nobel Peace Prize winner Jody Williams said to a packed and polarized room of diplomats, experts and military personnel at the United Nations.
+But countries like the United States, Britain, Russia, China and Israel argue that we can’t regulate something that does not exist yet, effectively blocking any kind of regulation by the United Nations that requires consensus among member states to create a treaty.
+Is it actually possible to ban a weapon before it exists?
+Yes, there is precedent for a pre-emptive ban. In 1995, the Protocol on Blinding Laser Weapons was passed, prohibiting militaries from using lasers to blind their opponents. In the clip below, Dr. Russell explains how and why this unfolded.
+Though his account on the origin of the ban is disputed — the International Committee of the Red Cross’s “Blinding Laser Weapons: Questions and Answers” gives a variety of other explanations — a pre-emptive ban is nonetheless possible.
+To draw people’s attention to the risks of autonomous weapons, Dr. Russell published a short fictional video called “The Slaughterbots,” in which bee-size drones armed with small explosives are set loose on a city.
+Critics have said the video, which has been viewed more than three million times, traffics in fearmongering. In the excerpt below, Stuart defends the work.
+One major worry when it comes to autonomous weapons is an imperfect weapon in the wrong hands. Would a terrorist care if a weapon hit its targets only 50 percent of the time, for instance?
+I don’t get it. The video seems to say lethal autonomous weapons systems both exist and don’t exist. Which is it?
+Whether or not fully autonomous weapons exist today, the countries that most vocally oppose regulation are the ones most heavily invested in such technologies — the United States among them.
+Would the U.S. use a weapon like this?
+While there is an aversion in the United States military to giving machines too much autonomy, that doesn’t mean it isn’t experimenting.
+At a military camp in California, we watched a drone-swarm experiment. Dozens of small plastic foam drones were launched into the air simulating what the future of drone warfare might look like. They weren’t as slick as the Slaughterbots. But their mere existence made Dr. Russell’s dystopian vision a bit more plausible.
+After the demonstration, we asked Ray Buettner, an associate professor at the Naval Postgraduate School in Monterey, Calif., what it would take for the United States to deploy an autonomous weapon.
+“If you run into a circumstance where the American public sees hundreds or thousands of American soldiers being killed by tens of thousands of enemy machines, I think you’ll find that people pass that moral line pretty quickly,” he said.

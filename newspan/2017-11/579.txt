@@ -1,0 +1,86 @@
+• Facebook, Google and Twitter were on Capitol Hill on Wednesday after a hearing a day earlier, this time to face questions from the Senate and House intelligence committees.
+• During the day’s first hearing, senators trained their attacks on Facebook, whose general counsel was careful about acknowledging the company’s role as a tool for Russia’s misinformation campaign during the election.
+• The House Intelligence Committee also released dozens of advertisements that Russia-linked firms created during the 2016 campaign.
+Russian ads finally released.
+After months of oblique references to the divisive nature of Russia-linked digital advertising, the House Intelligence Committee released a slew of ad examples and account names that were targeted at American voters during the 2016 election.
+The ads — all of which were enlarged, printed out and splayed out across the committee floor on a series of poster boards — spanned the gamut of contentious social issues touching on race, religion and political affiliation.
+One ad from “South United,” a now-suspended Facebook group, depicted a Confederate Flag with accompanying text: “Heritage, not hate. The South will rise again!” The ad, created in October of 2016, cost approximately $1,300 and garnered roughly 40,000 clicks.
+Representatives also noted that some ads, including one from the account “TEN_GOP,” were shared by members of the Trump campaign and administration, including Kelly Anne Conway, Michael Flynn and President Trump’s son, Donald J. Trump Jr.
+“Whether knowingly or unknowingly, they helped legitimize and spread Russian disinformation,” said Representative Jim Himes, Democrat of Connecticut.
+One ad from a Facebook account called “Back the Badge” saw more than 1.3 million impressions and more than 73,000 likes.
+The timing and content of the ads were no accident. Last year, as the Black Lives Matter protest movement gained steam, the Internet Research Agency in Russia created groups that supported the movement — like the far-reaching account “Blacktivists” — and opposed to it, like “Back the Badge.” That suggested a surgical deployment of incendiary content across all three platforms with the aim of dividing Americans at critical moments in the election season.
+Partisan lines drawn on Russia’s election impact.
+Lawmakers used a hearing of the Senate Intelligence Committee to stake partisan positions on the legitimacy of the 2016 presidential campaign, either defending President Trump’s election or asserting that his narrow victory could have been delivered by Russian efforts on social media.
+Republicans strongly pushed back on the idea that Facebook, Google, and Twitter were responsible for the election results.
+Senator Marco Rubio, Republican of Florida, emphasized that the real intent of Russian propaganda was to generally spread misinformation and chaos.
+“These operations, they’re not limited to 2016 and not limited to the presidential race, and they continue to this day. They are much more widespread than one election,” Mr. Rubio said.
+Democrats, however, trained their remarks on the direct connection between Russian activity and the election.
+“The Russians created Facebook pages, posted YouTube videos, all trying to appeal to specific audiences,” Senator Ron Wyden, Democrat from Oregon, said.
+The partisan dynamics put the social media companies in a difficult position, and Facebook wouldn’t take a side.
+Senator Martin Heinrich, Democrat from New Mexico, aimed at Mr. Trump’s dismissal of the role of social media in his win.
+“Last month President Trump called Russian purchased Facebook ads a hoax. I’ve looked at those Russian sponsored Facebook ads. I certainly hope you’ve had a chance to review them. Are they, in fact, a hoax?” Mr. Heinrich said.
+A collection of ads that were created by Russia-linked social media firms tasked with creating influential content.
+Schiff: Change your algorithms to downplay outrage.
+Representative Adam Schiff of California, the top Democrat on the House intelligence committee, got to the heart of the Facebook and Twitter’s dilemma: its business models are built on generating viral content.
+“Part of what made the Russia social media campaign successful is that they understood algorithms you use that tend to accentuate content that is either fear-based or anger-based,” said Mr. Schiff, who then asked the companies what their “societal obligation” is to change those dynamics.
+The companies pushed back on the idea that their algorithms only reward viral content, which would make the sites vulnerable to the most outrageous posts.
+Senators train their fire on Facebook.
+Senator Mark Warner of Virginia, the top Democrat on the Senate Intelligence Committee, who has largely spearheaded the effort prodding Facebook into handing over data, immediately went after the social media giant in his questioning.
+In a seven-minute exchange, most of Mr. Warner’s time was spent dressing down Mr. Stretch for what he characterized as a lack of responsiveness from Facebook as his office repeatedly asked for more data on the extent to which Russian meddling influenced the election.
+“I have more than a little bit of frustration that many of us on this committee have been raising this issue since the beginning of this year, and our claims were frankly blown off by the leadership of your companies,” Mr. Warner said.
+Mr. Warner hammered his point with blown-up prints of some of the Facebook posts that circulated. One featured an illustration of Hillary Clinton in a fistfight with a picture of Jesus, an inflammatory ad aimed at riling up conservative Americans.
+Several senators trained their attacks on Facebook on Wednesday for its inadvertent role in the Russian influence campaign, a repeat of Tuesday’s Senate Judiciary subcommittee hearing.
+Facebook defends its reasons for taking down ads.
+Since Facebook went public with its findings, the company’s reasoning for taking down more than 80,000 fake, Russian-linked ads, was not the type of content they posted, but because those responsible for them had misrepresented who they were when creating the accounts.
+That distinction is key for Facebook. Outside of some parameters like nudity or incitement to violence, executives at the company are wary of becoming the arbiters of what content is or is not allowed on Facebook, fearing accusations of censorship.
+“We don’t take for granted that each one of you uses Facebook to connect with your constituents, and that the people you represent expect authentic experiences when they come to our platform to share,” Mr. Stretch said in his opening remarks on Tuesday.
+Mr. Burr asked if Facebook would have shut down the 470 Russian-linked accounts if they weren’t fake.
+“Does it trouble you it took this committee to look at the authentic nature of the users and the content?” Mr. Burr asked Facebook’s general counsel.
+Mr. Stretch didn’t directly answer. “The authenticity issue is the key,” Mr. Stretch said, noting that many of those accounts would have been shut down anyway because they violated other terms of service.
+But ads were only one way Russia influenced the election.
+Political ads are just part of the problem, Mr. Warner said at Wednesday’s first hearing.
+Russian agents spread nonpaid content through the creation of pages on Facebook dedicated to hot-button issues like race. On Twitter, the Kremlin-connected internet Research Agency used automatic messaging tools known as bots that could quickly spread tweets through multiple accounts.
+Twitter is still lowballing Russian intrusion.
+Earlier this week, Twitter, Facebook and Google revealed new information and numbers showing that foreign interference on their site was worse than they first reported. But the companies all stressed that the amount of Russian propaganda that reached users was just a sliver of the total amount of content their platforms produce every day.
+But some lawmakers think the companies are holding back information.
+Twitter said it identified 2,752 accounts controlled by Russian operatives and more than 36,000 “bots” that tweeted 1.4 million times during the election. The company had previously told lawmakers it found only 201 accounts linked to Russia.
+The new numbers still seem low, according to Mr. Warner.
+“I’m concerned that Twitter seems to be vastly underestimating the number of fake accounts and bots pushing disinformation. Independent researchers have estimated that up to 15 percent of Twitter accounts – or potentially 48 million accounts – are fake or automated,” Mr. Warner said in his opening statement.
+Mr. Burr also noted the slow reaction by internet companies.
+With Facebook’s acknowledgment that 126 million people were exposed to Russia-linked content instead of the 10 million people they originally estimated, “tells me that your companies are just beginning to come grips with the scale and the depth of the problem,” Mr. Burr said.
+“Your actions need to catch up to your responsibilities,” he added.
+Google defends its stance on RT.
+Kent Walker, Google’s general counsel, walked a fine line, saying that RT’s influence goes beyond merely YouTube; he noted that RT is available on cable and satellite television packages. It advertises in newspapers and can be found on hotel television channels.
+Google has reviewed RT’s content and found that no violations to YouTube’s community guidelines, Mr. Walker said. He said that the company provides information about the “government-funded nature” of RT on Google — presumably on search results — and said it is considering expanding that to YouTube. He didn’t elaborate how Google plans to do so.
+On Tuesday in a separate hearing, Richard Salgado, Google’s director of law enforcement and information security, said Google dropped RT from its top advertising tier because of “a drop in viewership” — not because of its content.
+Are American companies beholden to the American government?
+Despite being located in the San Francisco Bay Area, all of three tech companies position themselves as “global platforms.” The internet, as Mr. Stretch noted on Tuesday, is borderless.
+But the distinction presents a number of problems for the companies, particularly on foreign interference in American elections. Are technology companies beholden to protecting the interests of the nations they reside in? Or do they answer to some higher authority?
+Senator Tom Cotton, Republican of Arkansas, noted that Julian Assange and WikiLeaks continue to use Twitter and other digital outlets to publish document dumps and email leaks, some of which are damaging to Americans.
+“Is it biased to side with America against our adversaries?” Mr. Cotton asked, painting Mr. Assange and WikiLeaks as anti-American.
+Facebook has also faced criticism for allegedly suppressing content at the request of some governments. In Myanmar, whose government’s violence against the Rohingya people has been labeled by the United Nations as ethnic cleansing, Facebook is in a bind when it is forced to take sides with either the government or a faction deemed to be outlaws by the state.
+Recently, Twitter broke ranks with Google and Facebook in its treatment of Russia Today and Sputnik, state-backed media agencies in Russia. Twitter banned RT and Sputnik from advertising on its platform and donated the funds to external research into how Twitter is used for civic engagement and elections. Facebook and the Google-owned YouTube have not taken the same route, citing that RT and Sputnik have not broken their terms of service agreements.
+But Twitter’s move puts the company in a difficult position: What if Russia, for example, claims that an American news network is a state-backed propaganda arm in America, and demands that such a network be banned from advertising as well?
+The executives left a judiciary subcommittee wanting.
+Top executives for the three companies appeared before a judiciary subcommittee on Tuesday armed with regrets and pledges to do better. The lawmakers appeared to be unimpressed.
+Facebook came under particularly heavy fire, as senators from both parties pressed the companies on their sluggish responses.
+“Why has it taken Facebook 11 months to come forward and help us understand the scope of this problem, see it clearly for the problem it is, and begin to work in a responsible way to address it?” Senator Chris Coons, Democrat of Delaware, asked in one pointed exchange.
+The senators also raised doubts that efforts outlined by the companies — Facebook, for instance, said that it would hire more than 1,000 people to review political ad purchases — would protect the United States from outside influence.
+Senator Amy Klobuchar, Democrat of Minnesota, pushed the executives to weigh in on legislation that would require the companies to report who funds political ads online. In response, they suggested voluntary efforts already underway but said they hoped to work with lawmakers on such requirements.
+The House committee will release copies of the Russian ads.
+The House intelligence committee is expected on Wednesday to publicly release much-anticipated copies of Facebook ads purchased by Russian-linked accounts.
+The top Republican and Democrat leading the investigation, Representatives Mike Conaway of Texas and Adam Schiff of California, pledged to do so this month after a meeting with Sheryl Sandberg, Facebook’s chief operating officer.
+A few of the ads have leaked out, and others have been described by people who have viewed them, but the release should help cast new light on the Russian efforts.
+Facebook’s bullish posture to Wall Street.
+Wednesday will be a particularly busy day for Facebook, which will also report its third-quarter earnings at 4 p.m. Eastern, around the middle of the day’s second hearing.
+The company, which is used by more than 2 billion people worldwide, is expected to post stellar results, with revenues from advertising jumping 41 percent from the same quarter last year to $9.88 billion.
+With its stock trading at a record high and the company’s market capitalization over $500 billion — more than the gross domestic product of countries like Columbia and Taiwan — Facebook’s business success clashes with the posture it will present to lawmakers.
+To members of Congress, Facebook will be contrite and stress the challenges of fixing its technology to prevent abuse of its site by foreign governments. But to investors, the message this afternoon will be decidedly bullish.
+That contradiction is at the heart of the problem Facebook is confronting. Its business model, all based on advertising, is largely automated and reward the most viral content, even at the sake of the public interest.
+The problem is worse than originally thought.
+Facebook, Twitter and Google said on Monday, before their testimony, that the problems on the platforms were much worse than initially disclosed, illustrating the breadth and complexity of Russian efforts.
+According to testimony by the companies, Russian agents spread inflammatory posts that reached 126 million Facebook users, published more than 131,000 messages on Twitter and uploaded more than 1,000 videos to Google’s YouTube service.
+The latest disclosure will most likely serve to underline complaints among lawmakers that the tech giants have been slow to recognize and react to the significance of the Russian campaign.
+On Wednesday, Mr. Warner and others are likely to bore into the details of the companies’ internal investigations, questioning their rigor, as well remedies the companies have already volunteered.
+They will also want to hear about solutions to issues beyond the disclosure of paid political advertising, like the influence of bots and “organic posts” harnessed by foreign powers.
+“Transparency in advertising alone, however, is not a solution to the deployment of bots that amplify fake or misleading content or to the successful efforts of online trolls to promote divisive messages,” Mr. Schiff said recently.

@@ -1,0 +1,19 @@
+A Times project that offers readers simple, confidential ways to securely submit tips via their phone or email has paid dividends in news gathering since Day 1.
+In an effort to shed more light on how we work, The Times is running a series of short posts explaining some of our journalistic practices. Read more from this series here.
+But the cellphone Mr. Dance keeps eying tells the story of an innovative Times initiative: a set of digital channels intended to receive confidential news tips.
+As a matter of practice, journalists at The Times have long used digital security measures — encrypted communications and storage — when handling sensitive information. But in December 2016, Mr. Dance, the deputy investigations editor, teamed up with Runa Sandvik, the senior director of information security, to gather a set of tools for readers to anonymously submit information that might be of journalistic interest to The Times.
+The tools — WhatsApp, Signal, SecureDrop and encrypted email — are listed on nytimes.com on a centralized tips page, which outlines each method’s strengths and vulnerabilities. From there, users can download the appropriate software and use it to transmit their tips to The Times.
+The effect on the newsroom was immediate. “We received useful information within 24 hours of launching,” Ms. Sandvik said. Recently the tips have been arriving at a rate of more than 100 per day. They range from single-sentence suggestions to databases with hundreds of thousands of records.
+When a tip submission reaches The Times, it is added to a secure and ever-growing database that is overseen by Mr. Dance. Roughly a third of the submissions don’t qualify as tips and are quickly discarded — a reader sounding off on a recent news article, for example.
+Another third — tips that, for one reason or another, are especially time-sensitive — are distributed to editors and reporters on the desks most capable of vetting them. And the remaining tips, those that might lead to substantive investigative stories, are held by the investigations team for further evaluation.
+The anonymous tips received from mobile devices, via WhatsApp and Signal, have been particularly useful, Mr. Dance said. And there’s good reason: WhatsApp, with more than 1.2 billion active users, is one of the easiest ways to send secure information.
+“With WhatsApp, it’s as simple as sending a text message — but it’s encrypted,” Mr. Dance explained.
+SecureDrop and encrypted email, on the other hand, take more time for the average user to set up, and can be slightly more complicated to use.
+Still, each of the channels has helped deliver useful information. Audio from a speech Hillary Clinton gave during a closed-door gathering in the wake of the 2016 presidential election arrived the same day the tips page debuted; a series of questions posed to the State Department by Mr. Trump’s transition team showed up a few weeks later; and the story about the F.B.I. raid of Michael Cohen’s office started with a tip.
+The response from tipsters has been so positive that the newsroom created a searchable database to help its journalists handle the overwhelming volume.
+“It’s a great problem to have,” Mr. Dance said.
+In that respect, The Times isn’t alone — not anymore, at least. Shortly after Ms. Sandvik and Mr. Dance opened the tips page, BuzzFeed followed suit with a similar page of its own. The Guardian and The Washington Post also provide channels for secure communication with tipsters.
+The journalists who make up The Times’s tips team expect that the project, when fully realized, will fundamentally change the newsroom by opening up valuable and searchable information to reporters and editors.
+What won’t change, though, is the way that information is handled.
+“Each tip, be it from a submission or from a source, is rigorously vetted and probed,” Mr. Dance said.
+Follow the Reader Center on Twitter: @ReaderCenter.

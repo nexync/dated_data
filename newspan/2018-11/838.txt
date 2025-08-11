@@ -1,0 +1,36 @@
+Here’s what happened when two Times tech reporters installed Facebook’s new Portal video-calling gadgets in their bedrooms.
+Facebook’s new gadgets, Portal and Portal Plus, are meant to bring people closer together.
+So we — Mike Isaac and Farhad Manjoo, two technology writers for The New York Times — took the $199 and $349 devices for a test run over the last week to see if they could make us feel more connected to each other.
+We both installed the Portal, which starts shipping on Thursday, in our homes (our bedrooms, to be exact). The devices are video-calling machines that people can use to talk through a screen to other Facebook users. They have a 12-megapixel camera with high-definition video and artificial intelligence software; the camera follows people about as they move around.
+The Portal has raised some privacy concerns, especially since Facebook has been scrutinized for how much information it already has on users.
+Were we worried about what these always-on devices might collect on us? Here’s how it played out.
+Mike: Why, hello, Farhad! It’s been a while since we last shared a column together.
+Farhad: I’ve had the time of my life not talking to you. Then last week, I learned I’d be getting Facebook’s new video-calling machine so you could call me up whenever you felt like it. Oh, boy.
+Do you know how The Times has been running ads showing all the hazards reporters have to go through to get important stories? I think agreeing to install a Facebook-designed machine that puts me on speed dial for Mike Isaac should get me a starring role in one of those spots.
+Mike: You should be so lucky.
+So I have to say, waking up next to you in my bedroom was, uh, quite an experience. I put my Portal Plus on the desk that sits bedside. The screen saver cycled through my photo albums on Facebook and Instagram — and also occasionally your face.
+Farhad: I’m guessing you loved this thing.
+Mike: Er, not exactly.
+What was your experience like initially? The unboxing process was funny to me. It felt like an Apple design moment; every piece of plastic and “pull here” tab was carefully placed, with the intentionality that Apple usually saves for its device packaging, but with a very Facebook-y twist on things. There was an iconic Facebook thumb on my power cord holder, for example.
+Setting up my Portal Plus was easy. Popped the thing out of the box, plopped it on my desk, plugged it in, connected to Wi-Fi and my Facebook account. From there, I think, I called you almost immediately.
+Farhad: You sure did!
+I was frankly blown away by how well-designed Portal was. It has one purpose — calling other people who use Facebook — and it does that extremely well. I’ve used other calling devices, like Amazon’s Echo Show, but to me they’ve been more promising than practical.
+The problem with Amazon’s Echo Show is its fixed viewing angle — if you don’t have it pointed exactly at you, it’s hard to have a conversation. My kids, who use the Show to call my parents, are always fighting with each other about who gets to stand right in front of the screen.
+The Portal solves that problem in a neat way: It uses software to follow you around a room, always keeping the speaker in frame and cropped. I found this very useful.
+Mike: The hardest part for me was dealing with how much I instantly liked the device. I expected it to be chintzy because it’s the company’s first piece of hardware. But like you said, it wasn’t. The screen is huge on my Portal Plus — basically like an iPad Pro strapped to a tall Sonos — and the calls were all crystal-clear video quality.
+I will also admit I loved the augmented reality lenses, a flourish Facebook is adding to pretty much all of its camera-based apps. Just like Snapchat, I can choose a filter that turns my face into a werewolf, or stick a (live) cat on my head as a hat. Cat-as-a-Hat: a goofy gimmick worthy of Dr. Seuss — but it works!
+Farhad: Of course, I can see people objecting — wait, not only are you putting a Facebook-connected machine in your house, but its camera will also follow you around the room, like some kind of digital Eye of Sauron?!
+Mike: That was my biggest problem — and likely Facebook’s most difficult hurdle to overcome when selling the Portal. It was the idea that I was putting an always-on camera in my home, connected to Facebook, 24 hours a day. There was no shaking the feeling that I was being watched.
+Facebook anticipated this. To protect from that creepy feeling, they built a kill switch into the hardware that turns off the microphone and camera. They also provided a piece of plastic to physically sheathe the camera’s eye. No more taping over the laptop lens like Mark Zuckerberg, Facebook’s chief executive, once did.
+Facebook also went out of its way to let us know that all video chats are encrypted, and the company does not store the contents of the calls, nor does it listen in on them.
+But even that wasn’t enough for me! Whenever I wasn’t using the Portal, I unplugged it. I turned the camera around to face the window looking over the back yard. I would periodically check to make sure all lights or microphones were off when I took a phone call or text.
+Am I too paranoid? Maybe. But that’s only because of the tech environment we find ourselves in, largely a situation of Facebook’s own making. The company doesn’t really have anyone to blame but itself.
+Farhad: I think your fears are reasonable, both about these types of devices in general and about one made by Facebook in particular.
+Facebook has a demonstrably worse record on privacy than many of its big-tech peers. It also has a business model, targeted advertising, which encourages it to walk up to the limit of what users will accept, and sometimes to walk beyond that line. Let’s not forget that Mark Zuckerberg once said that privacy is an outdated social norm.
+I don’t think he believes that anymore, and Facebook has been working to improve how users can manage their private data on the platform. Still, if you’re going to choose between a calling device made by Facebook and one made by Amazon or Apple, you wouldn’t be crazy to discount Facebook’s device because of its business model and history.
+All that said, a lot of people are just fine with the level of insight Facebook has into their lives. If you already chat and call on Facebook Messenger on your phone, then chatting and calling from Portal isn’t putting you in any greater danger.
+Mike: Are you going to buy one?
+Farhad: Probably not — not because I don’t like it, but because I doubt it would be very useful for me. I have an Echo Show, and I like that it gives my kids an easy way to talk to my parents (who also have one). But it’s not an everyday-use case, and there are plenty of other ways to make video calls.
+Portal is better than the Show at making calls, and for a first piece of hardware, it’s quite impressive. But it’s still a device of fairly limited functionality — a well-designed luxury at this point.
+Mike: Agreed. But I’ll admit: I’ll miss our Portal calls when we return the units to Facebook.
+I guess we’ll always have our Slack chats.

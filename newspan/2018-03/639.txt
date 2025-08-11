@@ -1,0 +1,27 @@
+Whether athletes can enhance their performance with caffeine may depend on their genes.
+According to a new study of the genetics of caffeine metabolism, athletes with a particular variant of one gene show notable improvements in their endurance performance after swallowing caffeine.
+But those with a different variant of that gene may perform worse if they first have caffeine, raising questions about who should be using the drug to bump up performance and about the broader interplay of nutrition, genetics and exercise.
+For many of us, caffeine, usually in the form of coffee, is as necessary to the morning as sunrise.
+But different people respond differently to the effects of caffeine. Some become jittery and later have difficulty sleeping. Others can drink the same amount of coffee and report increased alertness but no jitters or sleep disruptions.
+The same range of reactions occurs in athletes. In multiple past studies, most people will work out longer, faster or more strenuously after they swallow a moderate dose of caffeine, but a few perform no better or even worse.
+A few years ago, these disparities drew the attention of Ahmed El-Sohemy, a professor of nutritional science at the University of Toronto in Canada, who studies how people’s genes influence their bodies’ reactions to foods and diets. He is the founder of Nutrigenomix, a company that provides genetic testing related to nutrition.
+By then, other geneticists had established that a specific form of one gene affects how people metabolize caffeine. That gene, prosaically called CYP1A2, controls the expression of an enzyme that affects the breakdown and clearance of caffeine from the body.
+One variation of the CYP1A2 gene prompts the body to rapidly metabolize caffeine. People who have two copies of this variant, one from each parent, are known as fast caffeine metabolizers; the drug gives them a quick jolt and is gone.
+By most estimates, about half of us are fast metabolizers.
+Another variant of the gene slows caffeine metabolism. People with one copy of this version and one of the faster-metabolizing type are considered to be moderate metabolizers, whereas people with two copies of the slow-metabolizing variant are, of course, slow caffeine metabolizers.
+About 40 percent of us are thought to be moderate metabolizers, with the remaining 10 percent being genetically slow metabolizers.
+In 2006, Dr. El-Sohemy and his colleagues published a study in JAMA showing that slow metabolizers had a heightened risk of heart attacks if they frequently drank coffee, compared to people who were genetically classified as fast caffeine metabolizers. The scientists theorized that the drug, which can constrict blood vessels, hung around and produced longer-lasting — and in this case undesirable — cardiac effects among the slow metabolizers.
+But few large experiments had focused on how people’s CYP1A2 genetic profile might influence their athletic performance after swallowing caffeine.
+The scientists swabbed the men’s cheeks, analyzed their CYP1A2 genes and, based on which variants each man carried, categorized them as fast, moderate or slow caffeine metabolizers.
+Then they had the athletes complete three separate sessions of pedaling a stationary bicycle for 10 kilometers as quickly as possible. Before one ride, the men received a low dose of caffeine (2 milligrams for every kilogram of their body weight, or about the amount found in one large cup of coffee). Before another, they swallowed twice as much caffeine; and before a third, a placebo.
+Their subsequent time trial results showed that, on aggregate, the men performed better with caffeine, especially after the higher amount.
+But there were substantial differences by gene type.
+The fast metabolizers rode nearly 7 percent faster after they had downed the larger dose of caffeine compared to the placebo. The moderate metabolizers, by contrast, performed almost exactly the same whether they had received caffeine or a placebo.
+It was the slow metabolizers, however, who showed the greatest impact, although in a negative direction. They completed the 10 kilometer ride about 14 percent more slowly after the higher dose of caffeine than after the placebo.
+Just how caffeine differentially boosted or blunted the men’s athletic performance remains unclear.
+But Dr. El-Sohemy suspects that, as in the heart-attack study, caffeine lingered in the slow metabolizers, narrowing their blood vessels and reducing the flow of blood and oxygen to tiring muscles.
+In fast metabolizers, the drug likely provided a quick gush of energy and then was cleared from their bodies “before it could do the bad stuff,” he says.
+This study involved only healthy young men and bicycling. It cannot tell us whether caffeine likewise gooses or inhibits performance for other people in other sports.
+And it cannot answer the broader question of whether we need a genetic test before deciding if we should mainline coffee in advance of our next workout.
+Physical performance involves, after all, so many factors, including motivation, sleep, stress, overall nutrition, and the working of a vast number of genes, many still unidentified.
+So if you find that coffee seems to impede your performance, you could use a genetic test to characterize your CYP1A2 gene and confirm that you are a slow metabolizer. Or you could not drink coffee before you exercise.

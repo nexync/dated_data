@@ -1,0 +1,24 @@
+We break down the new cryptocurrency and what the company hopes you will be able to do with it, even though it hasn’t quite arrived.
+Facebook and a consortium of 27 partners on Tuesday unveiled Libra, a new cryptocurrency. Their goal? To create a new global money and the foundation for a fresh universe of financial services.
+That’s a grandiose vision, but what exactly will happen and what will you be able to do with Libra? Here are the basics.
+What exactly is Libra?
+Libra is a cryptocurrency that is intended to be sent instantly, and with almost no fees, anywhere in the world.
+It is built on some of the same principles as Bitcoin. But the aim is for Libra, unlike Bitcoin, to have a stable value, backed up by a basket of international currencies, such as the dollar, euro and yen.
+A team at Facebook created the Libra project, and the company has added the partners, including many other big technology companies, to help oversee a Swiss nonprofit that will be responsible for the final design of Libra and for putting the system in place.
+When will I be able to use Libra?
+Facebook and its partners want to make the first Libra coins available to the public in 2020, but several roadblocks could stop or delay its release.
+The Swiss association governing Libra will first have to agree on the final design of the cryptocurrency. Then the association will have to find banks willing to hold the money that will back up the currency. Financial regulators, many of whom have been hesitant about cryptocurrencies, will need to sign off on the design.
+What will I be able to use Libra for? And on what services?
+Libra is set up so that any company, not just Facebook, will be able to accept the coin and build wallets that will let people hold and spend it. That’s similar to the way that a diverse array of companies have created wallets and exchanges for Bitcoin.
+Facebook said it intended to offer Libra to almost all of the 2.7 billion customers who are now on its Facebook Messenger and WhatsApp services. It also hopes to allow Libra to be used for payments for things like ads on its social network.
+Facebook has set up a subsidiary, Calibra, which will be responsible for making Libra available to its users. Calibra intends to build other services on top of Libra, including, eventually, financial services like lending and investing.
+Facebook hopes its partners, such as Uber and Spotify, will also take Libra as payment for car rides and online subscriptions, as they do with PayPal and Venmo today.
+How will Libra work behind the scenes?
+Every time someone buys Libra, that money will be deposited into a bank account where it will sit untouched, so that every dollar’s or euro’s worth of Libra will be backed by a dollar or euro in the bank, according to the Libra design documents. This is important because the bank holdings of Libra will generate interest that can be used to pay back the cryptocurrency’s initial investors. This structure will mean that an infinite number of Libra can be generated, in contrast to Bitcoin, which is meant to be capped at 21 million. Creating new Libra will not require anything like Bitcoin’s mining process, which has consumed enormous amounts of electricity and made Bitcoin the target of environmental critics.
+Facebook and other companies that have created Libra wallets can encourage new customers by giving them a small number of Libra to get started. You will also be able to buy Libra by transferring money from a bank account or debit card. The cost of an individual Libra will be determined by the value of the basket of global currencies that backs up Libra, which will fluctuate slightly over time based on the value of the underlying currencies.
+If Libra works as intended, once customers own Libra, they will be able to send them to any other business or person with a Libra wallet, anywhere in the world.
+If you want to turn Libra back into dollars or other traditional currencies, Facebook’s wallet, Calibra, will make the conversion at the going rate — based on the current value of the underlying currencies — and transfer the money to another bank or online financial account like PayPal.
+How will I set up a Libra wallet?
+Customers of Facebook will be able to set up a Libra wallet by verifying their identities online with a government document.
+Other companies working with Libra will be able to create their own wallets and verify their own customers. Only companies approved by Libra’s Swiss association will be able to move money in and out of the system.
+Facebook hopes to initially make this process open to people almost anywhere in the world. This will probably be limited in many of the places where the social network is restricted, such as China and Iran.

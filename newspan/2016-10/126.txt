@@ -1,0 +1,17 @@
+A new report by a think tank at Georgetown University calls for greater oversight in the use of emerging facial recognition software that makes the images of more than 117 million Americans — a disproportionate number of them black — searchable by law enforcement agencies.
+While the agencies, including the F.B.I., have historically created fingerprint and DNA databases primarily from criminal investigations, many of the photographs scattered among agencies at all levels of government are of law-abiding Americans, according to the report released Tuesday.
+“This is unprecedented and highly problematic,” said the report, by the Center on Privacy and Technology at Georgetown’s law school.
+Facial recognition technology, long used overseas by the American military and intelligence agencies in Iraq and Afghanistan, is seen by local law enforcement as a tool for identifying criminals, but it has also raised concerns among privacy advocates.
+Because African-Americans disproportionately come into contact with, and are arrested by, law enforcement officials, the report said, their police photos will most likely be overrepresented in facial recognition databases.
+Rather, they called for Congress and state legislatures to pass laws creating stricter regulations on the technology. Researchers found, for instance, that just one agency — the Ohio Bureau of Criminal Investigation — specifically prohibited using the software to track people engaging in political or religious speech. No state has a law regulating use of the software.
+“There is a real risk that police face recognition will be used to stifle free speech,” the report said.
+When the algorithms identify a candidate based on matching facial patterns, the results must go through two layers of human review before the person is suggested to an investigator, according to the statement.
+“It is crucial that members of the law enforcement community have access to advanced biometric technologies to accurately investigate, identify, apprehend, and prosecute terrorists and criminals,” the statement said.
+The report found that systems relying on police photographs have a greater effect on African-Americans because they are arrested at higher rates.
+But the software may be less accurate with images of black people, and there is no independent testing for racially biased errors, it said.
+■ Databases should rely on police photographs, not driver’s licenses and photo IDs.
+■ Law enforcement should occasionally eliminate innocent people from any search.
+■ Searches of driver’s license and ID photos should require a court order and be limited to serious crimes, with the exception of identity theft and fraud cases.
+■ An explicit ban should be enacted against tracking people on the basis of political or religious beliefs, race or ethnicity.
+The report raised concerns about the increasing use of facial recognition software on live video, letting the police continuously scan faces on surveillance cameras. Several large police departments have looked into or have begun using the technology, the report said.
+“If deployed pervasively on surveillance video or police-worn body cameras, real-time face recognition will redefine the nature of public spaces,” the report warned.

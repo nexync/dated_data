@@ -1,0 +1,1 @@
+A rendering of El Camino Real with dedicated lanes in the middle for self-driving buses.

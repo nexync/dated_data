@@ -1,0 +1,18 @@
+The largest known prime number, newly discovered, is almost five million digits longer than the previous record-holder.
+In a computer laboratory at a satellite campus of the University of Central Missouri, an otherwise nondescript desktop computer, machine No. 5 in Room 143, multiplied 74,207,281 twos together and subtracted 1. It then checked that this number was not divisible by any positive integer except 1 and itself — the definition of a prime number.
+This immense number can only be practically written down in mathematical notation using exponents: 2⁷⁴,²⁰⁷,²⁸¹ − 1.
+The previous largest was 2⁵⁷,⁸⁸⁵,¹⁶¹ − 1, which has a mere 17 million or so digits.
+This is the 15th prime number found by the Great Internet Mersenne Prime Search, or Gimps, for short, a volunteer project that has been running for 20 years. “I’ve always been interested in prime numbers,” said George Woltman, who founded Gimps after he had retired. “I had a lot of time on my hands,” he said.
+Mersenne primes are those that can be written in the form 2ⁿ-1 where n is an integer. They are named after Marin Mersenne, a French theologian and mathematician who studied them in the early 17th century.
+For example, 3 is a Mersenne prime. Plug in ‘2’ for n, and you find 2² − 1 = 4 − 1 = 3.
+But not all integers plugged into this expression generate a prime number. Put in n = 4, and the result is 2⁴ − 1 = 15, which is not a prime number, because 15 is divisible by 3 and 5.
+Gimps takes advantage of otherwise idle computers. Volunteers download free software that runs unobtrusively when no one is using the computer.
+At the University of Central Missouri, Curtis Cooper, a math professor, was one of the early enthusiasts, joining Gimps in 1997. He has the program currently installed on 800 PCs on the university’s two campuses. Dr. Cooper does research in the mathematical realm of number theory and teaches computer science classes. “This kind of marries the two fields together,” he said.
+The university’s computers had previously turned up three other Mersenne primes, most recently in 2013.
+PC No. 5 in Room 143 churned for 31 days before completing its calculation that 2⁷⁴,²⁰⁷,²⁸¹ − 1 is a prime. It dutifully reported the result on Sept. 17 to a computer server in Seattle that coordinates the worldwide Gimps effort.
+Because of a glitch on the server, emails that should have been sent to Dr. Cooper and Gimps administrators were never sent.
+The discovery remained unknown until Jan. 7, when Aaron Blosser, the administrator of the server, came across it during routine maintenance. He verified it on a much faster computer and notified Dr. Cooper two days later.
+I timed how quickly I could write down a number: about four seconds for 10 digits. If I had enough paper and ink — and made the impossible assumption that my hand could maintain this pace — it would take me more than three months to write down the 22,338,618 digits of 2⁷⁴,²⁰⁷,²⁸¹ − 1.
+Printing it out could fill 6,000 to 7,000 sheets of paper, depending on the font size.
+If you’re wondering: If a prime number is discovered and no one is there to notice, is it really discovered? — the answer is no. The official discovery date is Jan. 7, when Mr. Blosser found it, and not when the computer calculated it.
+Dr. Cooper said, however, that the computer would be set aside for posterity, like the ones that had made the three earlier discoveries.

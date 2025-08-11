@@ -1,0 +1,119 @@
+With President Trump facing an impeachment trial over his efforts to pressure Ukraine to investigate former Vice President Joseph R. Biden Jr. and his son Hunter Biden, Russian military hackers have been boring into the Ukrainian gas company at the center of the affair, according to security experts.
+The hacking attempts against Burisma, the Ukrainian gas company on whose board Hunter Biden served, began in early November, as talk of the Bidens, Ukraine and impeachment was dominating the news in the United States.
+Then, as now, the Russian hackers from a military intelligence unit known formerly as the G.R.U., and to private researchers by the alias “Fancy Bear,” used so-called phishing emails that appear designed to steal usernames and passwords, according to Area 1, the Silicon Valley security firm that detected the hacking. In this instance, the hackers set up fake websites that mimicked sign-in pages of Burisma subsidiaries, and have been blasting Burisma employees with emails meant to look like they are coming from inside the company.
+The hackers fooled some of them into handing over their login credentials, and managed to get inside one of Burisma’s servers, Area 1 said.
+“The attacks were successful,” said Oren Falkowitz, a co-founder of Area 1, who previously served at the National Security Agency. Mr. Falkowitz’s firm maintains a network of sensors on web servers around the globe — many known to be used by state-sponsored hackers — which gives the firm a front-row seat to phishing attacks, and allows them to block attacks on their customers.
+Kremlin-directed hackers infiltrated Democratic email servers to interfere with the 2016 American election. Emboldened by their past success, new evidence indicates that they are trying again.
+Today: At the heart of the impeachment is a request made by President Trump that Ukraine investigate ties between the Bidens and an energy company called Burisma. Now, new reporting from The Times suggests that Russian hackers may be trying to fulfill that request. It’s Wednesday, January 15.
+Nicole Perlroth, tell me what happened the other day.
+So, I’ve been covering cyber security at The Times for about eight years, and I had been working on a story for a couple months about threats to the 2020 election. And as part of that story, I’d been speaking to a source of mine. His name is Oren Falkowitz. He is a former analyst at the National Security Agency, and now he runs a Silicon Valley company that blocks phishing attacks.
+And he’s been working with a lot of the Democratic candidates for 2020, and he’d given me an interesting number in the course of that reporting, which was that already the Democratic frontrunners for 2020 have been getting an average of something like 1,000 phishing attempts in the last couple months.
+Right. It’s a huge number. And so I gave him a call to just do some basic fact checking as we were going to print, and I happened to catch him at an interesting time. And he said, you know what? I actually think I might have something bigger for you. 
+[LAUGHS] That’s a very juicy little tease for a source to give a reporter.
+Hey, Nicole. How’s it going?
+Good. How are you?
+I call him back.
+So let’s start from the top.
+And he starts to tell me the full story.
+So, starting about New Year’s Eve, he was actually at Disney World with his kids, and he was in line for the teacups ride, as he tells it.
+And someone on his team sends him a Slack message.
+And it said, I found a bunch of Russian phishing attacks going after Ukrainians targeting natural gas.
+There is an active Russian phishing campaign against some companies in Ukraine.
+You know, it’s pretty boring, run of the mill, but I’m going to keep tabs on it, and if they swing more towards U.S. targets, you know, we can spend some extra time looking at it.
+Couple days later, a different person on their team was giving a presentation about threats to the oil and gas industry, and took a little bit of a closer look at what these attacks against Ukraine were all about.
+And she started to notice after a little digging that all three gas companies that had been found were related to this company Burisma.
+They were all subsidiaries of Burisma.
+Hmm, the company at the center of the Trump impeachment inquiry and the company on which Hunter Biden sat on the board.
+Right. So, Oren’s team takes a close look at these attacks, and they find out that these are pretty sophisticated phishing attacks, for one.
+In this case, what the Russians we’re doing is setting up fake websites to look exactly like Burisma Holdings company’s websites, so that when a user visited them, they wouldn’t really know the difference.
+They’ve taken something like, KUBgas.com.ua and just disposed of the “.ua,” so these employees are looking at the website address, and why should they even assume that their company doesn’t own the .com domain?
+That would allow them, you know, in some of these websites, to ask for usernames and passwords. And once those are given away, they can go and do other things like access their emails, start sending emails on their behalf, and going further into their networks, probably to achieve some goal that we don’t understand yet.
+So, what they saw was that people were indeed accessing these fake login pages.
+O.K. And do we know how successful these attacks have been?
+The attacks have been successful.
+And giving away their usernames and passwords.
+What they’ve accomplished is yet to be determined.
+We don’t know what happens after that. Oren’s team can’t say whether they got any emails at all, whether they got any material that would be embarrassing to Joe Biden or his son. But what’s clear is they successfully got in.
+So on its face, this would not actually be that weird. Ukraine is known as sort of Russia’s test kitchen for hacking and cyberattacks. It’s basically been under constant attack since before 2014. But when they started unwinding some of these campaigns back, there were two things that stood out. One, this isn’t some random Russian cyber criminal group. This is Fancy Bear, the name of the group that private security researchers give to the G.R.U., Russia’s main intelligence directorate — the same group that hit John Podesta, Hillary Clinton’s campaign chairman, back in 2016.
+Wow. So the same group is doing the attack on Burisma?
+The other thing that was interesting was the timing. When Oren’s team went back and looked at the timestamps, this was early November. And you have to remember where we were in early November. The private testimony of the impeachment witnesses before the House Intelligence Committee had just wrapped up and we were about to start the public hearings.
+So, this division of the G.R.U. is targeting Burisma at the very same moment when Burisma is suddenly at the center of the national conversation in the impeachment process.
+Exactly. Here we are again.
+Given that we’re so close to the first votes being cast in the elections.
+With an election year coming up.
+This is starting to look more like the pattern that we have seen in 2016.
+With a Russian hack of a sensitive Democratic target.
+So Nicole, as he is telling you this, what are you thinking?
+I’m thinking this is 2016 all over again. So, I had been told that we were going to see a lot of foreign interference in this election. Not just from Russia, but because Russia had offered a playbook for interference for every other country that had any other incentive to influence the 2020 election, we were told we were going to be getting hit from all sides. But, I had fully expected that perhaps because Russian tactics and techniques had been spilled over the Mueller report and in private security intelligence assessments, that we would see something more sophisticated. But, when Oren was describing this, it was a cookie cutter repeat of what happened to John Podesta back in 2016.
+Right. Who would use the exact same technique twice?
+Apparently, the G.R.U. does.
+Nicole, you said you were talking to Oren as part of your reporting on what to expect from Russia in 2020. But, as you’ve observed, this story that he told you, it sounds like they’re up to the exact same thing as they were in 2016. Why would that be, given that they were caught in the sense that the U.S. understands what they did in 2016 — why would they just use the same tactics in 2020?
+Breaking tonight. Less than two weeks until election day, and hacked emails from the account of Hillary Clinton’s campaign chairman, John Podesta, are raising new questions about Mrs. Clinton and her candidacy.
+When Russian hackers and trolls dumped John Podesta’s emails and emails at the D.N.C., people devoured them.
+After thousands of leaked emails showed Democratic Party officials possibly plotting against Bernie Sanders in his race against Hillary Clinton.
+People wanted to believe that the race was fixed for Hillary Clinton from the beginning.
+They planned this. They set it up. They didn’t give us a chance.
+They came together pretty much to shut Bernie out. I mean, it’s pretty obvious.
+And, what they did was, they looked in those emails for any evidence of that, and we got to a place where the Russians successfully sowed American discord.
+They basically poured fuel on the fire.
+— that Burisma was corrupt.
+That was a crooked deal, 100%.
+That there was widespread corruption in Ukraine that he wanted investigated.
+Uh, Ukraine is known as a very, very corrupt place, and they know that.
+And you think about what Russian hackers could potentially get from getting inside Burisma’s systems. They might not necessarily find anything that is an exhibit A of corruption. But if you selectively leaked emails out of context, it’d be very easy in the current media climate and the current partisan climate for people to once again devour those emails and find whatever it is they want to find.
+There doesn’t have to be all that much there there for it to effectively sow discord?
+Nicole, does the fact that the Russians are doing this in pretty much the exact same way as they did in 2016 suggest something about how the United States responded last time, if Russia feels empowered to pretty much do the same thing again?
+Well, I think it tells us that they didn’t feel much pain from the Mueller report and sanctions, and from the indictments against Russian hackers and trolls. I mean, you have to remember that even after the American intelligence community concluded that Russian hackers and trolls had interfered in the 2016 election.
+I don’t think anybody knows it was Russia that broke into the D.N.C. She’s saying Russia, Russia, Russia, but I don’t— maybe it was. I mean, it could be Russia, but it could also be China. It could also be lots of other people. It also could be somebody sitting on their bed that weighs 400 pounds, OK?
+The president was still blaming a 400-pound guy sitting on his bed.
+You don’t know who broke in to D.N.C..
+People came to me. Dan Coats came to me, and some others. They said they think it’s Russia. I have President Putin. He just said it’s not Russia. I will say this, I don’t see any reason why it would be.
+Today was their first time meeting face-to-face since the release of the Mueller report.
+When a reporter asked Trump at a press conference.
+Mr. President, will you tell Russia not to meddle in the 2020 election?
+Will you tell Vladimir Putin not to interfere in 2020?
+And you can even see it right there, Mr. Trump wagging his finger at Putin, all with a smile.
+Trump wagged his finger jovially and said, don’t interfere in 2020. There has been no repercussions for Russian interference in 2016, at least not enough to keep them from doing the same thing all over again in 2020.
+And of course, the president is now also advancing the theory that it was Ukraine and not Russia that interfered in 2016.
+Right, which further absolves Russia from its interference in 2016, and is at the heart of the conspiracy theory that’s gotten Trump impeached in the first place.
+So that’s the bad news, but it actually gets worse. If you remember back in 2016, the D.N.C. was actually hacked by two groups of Russian hackers. The first was Fancy Bear, which we have now talked about. The other was another Russian intelligence group called Cozy Bear.
+And what we now know from our reporting over the last six months is that, well, Fancy Bear’s continued on with these very obvious phishing campaigns and is really up to its old tricks. Cozy Bear, the other group that hacked the D.N.C. back in 2016, has actually dropped off the radar. So about six months ago, researchers I talked to had been following them, and all of a sudden they sort of up and abandoned their hacking infrastructure. They switched out email accounts that were being monitored by the private sector and intelligence officials. They’re now using things like secure, anonymous email accounts that make it much harder for intelligence agencies and private researchers to track their communications.
+Hmm. So they’ve kind of gone dark.
+Exactly. And it gets a little scarier.
+Cyber criminals are holding entire American cities, towns, and counties hostage, and they’re doing it with computer viruses called ransomware.
+So, one of the things that’s just been happening separately from any of these Russian campaigns over the last year is that American cities and towns have been getting hit with a record number of ransomware attacks. So, these are attacks when cyber criminals — usually looking for a profit — infect their computer systems, hold their data hostage until they pay a ransom.
+Right. This happened in Baltimore, for example.
+The assault causing police emails to go down, as did the Board of Elections.
+The F.B.I. is investigating a cyberattack on the city of Atlanta. The so-called ransomware attack on the city’s computer network triggered outages across several departments.
+The city of New Orleans crippled after a cyberattack. Websites down. Phones unanswered. The mayor declaring a state of emergency as local and federal officials work to figure out who’s behind the hack and how much damage has been done.
+And what I learned in the course of my reporting over the last couple months is that there is a question at the Homeland Security Department and among the intelligence community about whether these were just run-of-the-mill ransomware attacks, or whether there was a G.R.U. component. And the fear is that the attacks might actually just be decoys for some more nefarious sleuthing of these local elections systems.
+Now, they have not concluded that this is the case, but this is something that the Department of Homeland Security is investigating. And, I think whether or not they conclude that there was some G.R.U. component here, what those ransomware attacks showed us is that American towns and cities are still so vulnerable to the type of attack that could really influence the vote on election day.
+Can you help us understand what that might look like?
+So, one scenario is, they change the votes. They hack into the actual ballot machines themselves and change people’s votes without anyone’s knowledge. The other thing is that they could actually keep people from voting. They could hack into the software companies that make the software that’s used to check people in at the polls. Someone shows up on election day and they’re told, you’re not registered to vote, or it looks like you’ve already voted. That would essentially be something like digital disenfranchisement. And here’s the thing. Back in 2016, Russia actually hacked into a software company that provided the poll check-in systems. When people showed up in Durham, North Carolina on election day, which is a reliably blue county in an otherwise swing state to vote, there were a lot of people who were kept from voting that day. And they were told, it looks like you’re not registered to vote, even though they were standing there with their registration cards. They were told they had to go to a different location. Some were told that they had already voted. And the county actually had to go to print paper. And it cast a lot of doubt that perhaps Russia actually had succeeded in hacking it in a way to keep people from voting in this blue county. And it took three years. It was only last week — O.K., we’re less than a year away from the next election — it’s only last week that investigators at the Department of Homeland Security concluded that, actually, Russia had not hacked into the system that Durham used, that it looks like technical misconfiguration errors were to blame. And a lot of people we’ve talked to have said, maybe that’s just the point. Russia doesn’t necessarily have to hack the election to throw the outcome into doubt. Maybe making Americans question the final outcome of a presidential election is all it needs to do to undermine faith in our democracy.
+So you’re saying that, yes, Russia is doing the same thing that it did in 2016 now. It’s also doing more, possibly. We don’t know what Cozy Bear is up to, and we suspect that Russia may be pursuing this new attack on the election systems themselves.
+That’s right, Michael. So let me paint a picture. This would be the worst case scenario that American officials are worried about. One, Russia repeats the 2016 playbook, which it looks like they’re beginning to do. They hacked into Burisma. Let’s say they end up dumping emails that are embarrassing to Joe Biden or his son, and we see a repeat of what we saw with John Podesta and Hillary Clinton in 2016. And then, let’s say they add this new prong, O.K.? Which is the possibility that Russia may hack into the election itself. We’re now in a moment where our faith in institutions is at an all-time low, and that is where you get to the true nightmare scenario for 2020.
+Nicole, thank you.
+You’re going to be a juror in the trial in the Senate that’s about to start. Do you worry President Trump will be emboldened by acquittal?
+In the seventh Democratic debate, held on the eve of an impeachment trial in the Senate, the three senators in the race, Amy Klobuchar, Elizabeth Warren, and Bernie Sanders said they would temporarily return to Washington to act as jurors in the case.
+Some things are more important than politics. I took an oath to uphold the Constitution of the United States of America. It says that no one is above the law. That includes the President of the United States. If we have an impeachment trial, I will be there because it is my responsibility.
+Senator Sanders, Senator Warren confirmed in a statement, that in 2018 you told her that you did not believe that a woman could win the election. Why did you say that?
+Moderators pressed Senator Sanders about the claim made by Senator Warren that Sanders had told her a woman could not be elected president.
+Well, as a matter of fact, I didn’t say it.
+A claim that Sanders has denied.
+Anybody knows me knows that it’s incomprehensible that I would think that a woman could not be President of the United States. Go to YouTube today.
+Warren, however, stood by the claim.
+Look, this question about whether or not a woman can be president has been raised, and it’s time for us to attack it head on. And I think the best way to talk about who can win, is by looking at people’s winning record. Look at the men on this stage. Collectively, they have lost 10 elections. 
+The Justice Department indicted seven officers from the same military intelligence unit in 2018.
+The Russian attacks on Burisma appear to be running parallel to an effort by Russian spies in Ukraine to dig up information in the analog world that could embarrass the Bidens, according to an American security official, who spoke on the condition of anonymity to discuss sensitive intelligence. The spies, the official said, are trying to penetrate Burisma and working sources in the Ukrainian government in search of emails, financial records and legal documents.
+The Russian government did not immediately respond to requests for comment, nor did Burisma.
+American officials are warning that the Russians have grown stealthier since 2016, and are again seeking to steal and spread damaging information and target vulnerable election systems ahead of the 2020 election.
+In the same vein, Russia has been working since the early days of Mr. Trump’s presidency to turn the focus away from its own election interference in 2016 by seeding conspiracy theories about Ukrainian meddling and Democratic complicity.
+The result has been a muddy brew of conspiracy theories that mix facts, like the handful of Ukrainians who openly criticized Mr. Trump’s candidacy, with discredited claims that the D.N.C.’s email server is in Ukraine and that Mr. Biden, as vice president, had corrupt dealings with Ukrainian officials to protect his son. Spread by bots and trolls on social media, and by Russian intelligence officers, the claims resonated with Mr. Trump, who views talk of Russian interference as an attack on his legitimacy.
+With Mr. Biden’s emergence as a front-runner for the Democratic nomination last spring, the president latched on to the corruption allegations, and asked that Ukraine investigate the Bidens on his July 25 call with President Volodymyr Zelensky of Ukraine. The call became central to Mr. Trump’s impeachment last month.
+The Biden campaign sought to cast the Russian effort to hack Burisma as an indication of Mr. Biden’s political strength, and to highlight Mr. Trump’s apparent willingness to let foreign powers boost his political fortunes.
+“Donald Trump tried to coerce Ukraine into lying about Joe Biden and a major bipartisan, international anti-corruption victory because he recognized that he can’t beat the vice president,” said Andrew Bates, a spokesman for the Biden campaign.
+The corruption allegations hinge on Hunter Biden’s work on the Burisma board. The company hired Mr. Biden while his father was vice president and leading the Obama administration’s Ukraine policy, including a successful push to have Ukraine’s top prosecutor fired for corruption. The effort was backed by European allies.
+The story has since been recast by Mr. Trump and some of his staunchest defenders, who say Mr. Biden pushed out the prosecutor because Burisma was under investigation and his son could be implicated. Rudolph W. Giuliani, acting in what he says was his capacity as Mr. Trump’s personal lawyer, has personally taken up investigating the Bidens and Burisma, and now regularly claims to have uncovered clear-cut evidence of wrongdoing.
+The evidence, though, has yet to emerge, and now the Russians appear to have joined the hunt.
+Area 1 researchers discovered a G.R.U. phishing campaign on Ukrainian companies on New Year’s Eve. A week later, Area 1 determined what the Ukrainian targets had in common: They were all subsidiaries of Burisma Holdings, the company at the center of Mr. Trump’s impeachment. Among the Burisma subsidiaries phished were KUB-Gas, Aldea, Esko-Pivnich, Nadragas, Tehnocom-Service and Pari. The targets also included Kvartal 95, a Ukrainian television production company founded by Mr. Zelensky. The phishing attack on Kvartal 95 appears to have been aimed at digging up email correspondence for the company’s chief, Ivan Bakanov, whom Mr. Zelensky appointed as the head of Ukraine’s Security Service last June.
+To steal employees’ credentials, the G.R.U. hackers directed Burisma to their fake login pages. Area 1 was able to trace the look-alike sites through a combination of internet service providers frequently used by G.R.U.’s hackers, rare web traffic patterns, and techniques that have been used in previous attacks against a slew of other victims, including the 2016 hack of the D.N.C. and a more recent Russian hack of the World Anti-Doping Agency.

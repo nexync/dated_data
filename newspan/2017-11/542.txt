@@ -1,0 +1,15 @@
+Coin offerings generally happen without the involvement of financial institutions or regulators because investors pay for the coins using Bitcoin and other virtual currencies, which can be sent outside the traditional financial system.
+Regulators in China and South Korea have recently banned such offerings outright.
+In the United States, the S.E.C. has brought one case against a small fraudulent coin offering. The agency has also warned that at least some coins being sold could be considered securities, and would be in violation of securities law if not registered with the authorities — and few are.
+But Mr. Grundfest, who is also a co-director of the Rock Center for Corporate Governance, said the continuing flow of new coin offerings showed that the warnings were not nearly enough.
+Mr. Grundfest is far from the only voice who has criticized the frenzy around coin offerings. Chamath Palihapitiya, a venture capitalist who has expressed enthusiasm about Bitcoin, has said he thinks that “99 percent of I.C.O.s are a scam,” a sentiment that other leading venture capitalists have echoed.
+But Mr. Grundfest’s words could carry more weight, both because he is close to the technology world near Stanford and because he knows what it takes to bring federal securities cases.
+He said the most obvious way for regulators to go after initial coin offerings would be to label them as securities and punish them for not registering with the authorities.
+The chairman of the S.E.C., Jay Clayton, said in a talk this month that the agency was planning to crack down on offerings that violated securities law, including virtual coins that should be categorized as securities but have not been registered with the authorities.
+“Where we see fraud, and where we see people engaging in offerings that are not registered, we are going to pursue them because these types of things have a destabilizing effect on the market,” Mr. Clayton said in a meeting at the Federal Reserve Bank of New York.
+Mr. Grundfest said that he would welcome this, but that he did not think it should have taken this long.
+Many companies offering coins have argued that they are not securities because they will have utility on the networks the companies are building.
+But Mr. Grundfest said it was clear that almost everyone buying tokens at this point was buying them with the hope that their value would go up, not because the buyer wanted to use them on some future computer network.
+Mr. Grundfest said he thought that the concept of a coin offering could be a useful innovation for certain types of fund-raising. It could, he said, make sense for a company building a decentralized cloud storage network, which could then use the coin as a means of payment and record keeping on the network.
+But he said almost none of the projects currently raising money through coin offerings had a need for the novel structure.
+Mr. Grundfest said several teams looking at doing offerings had approached him to ask how to do it right.

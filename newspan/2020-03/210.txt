@@ -1,0 +1,21 @@
+Health|What Made New York So Hospitable for Coronavirus?
+Despite some obvious suspects, scientists say chance may have played a big role in the explosion of cases.
+Perhaps it was inevitable that New York City and its suburbs would become an epicenter of the coronavirus epidemic in the United States. The population density, reliance on public transportation and constant influx of tourists — all would seem to make the metropolitan area a target.
+More than 20,000 New York City residents have tested positive for the virus so far — nearly a third of all confirmed cases in the nation. The prevalence in New York and the areas close to it is far greater than anywhere else in the country.
+The problem is that so little is known about the spread of this new virus that it is hard to draw conclusions about whether New York is unique or a harbinger of things to come elsewhere.
+There was almost certainly an early and undetected introduction of the virus into the city, probably in mid- to late January, said Benjamin Cowling, professor of infectious disease epidemiology at the University of Hong Kong.
+With many viral diseases, scientists can get a sense of the exact timing by comparing the mutations in the virus from samples taken at various times. But human coronaviruses are surprisingly stable, said Dr. Paul Offit, an infectious disease expert at the University of Pennsylvania and Children’s Hospital of Philadelphia.
+Once in the area, New York’s density played some role in its rapid spread but was probably not the whole story, epidemiologists said. Many New Yorkers live in high rises. Sidewalks are crowded. Subways can be jammed. The city has 27,000 residents per square mile, far surpassing the second densest city, San Francisco, with 18,000 per mile.
+But, noted Jon Zelner, an epidemiologist at the University of Michigan, other cities such as Tokyo, Seoul, and Taipei also are very dense and have not seen the same kind of explosive growth.
+The extraordinary number of cases might reflect a high level of coronavirus testing. New York City seems to be testing more aggressively than many other places, Dr. Zelner said.
+Maybe, others said, the age structure in the city — the many older people who live close together — played a role. At first, only those with typical coronavirus symptoms were being tested. Older people seem more likely to get very ill with the virus and show symptoms. New York might have more confirmed cases in part because of the age group it was testing.
+Could the effect be at least in part explained as a statistical fluke, like cancer clusters that can look ominous but turn out to be random?
+Chance may play some role in situations like this, said Donald Berry, a statistician at MD Anderson Cancer center. What matters, he says, is not the number of cases but the clusters.
+Suppose an executive on Wall Street was infected early in the epidemic and exposed a group of others by shaking hands. It was the start of a cluster that ballooned out as each person infected others. Suppose that at the same time an actor on Broadway was infected and started another cluster. And a patient in a nursing home started yet another cluster. The number of cases can start to explode.
+Analyzing spread is not a case by case situation, Dr. Berry said. It is a cluster by cluster issue.
+Clusters also can contribute to what looks like random rapid spread of the virus.
+Suppose 100 infected New Yorkers fly to other cities. Clusters can start in the cities where they landed. Other cities will escape because the infected people did not go there.
+Dr. Monto pointed to unexpected aspects of the virus’s spread.
+It took off in a region of Italy with small cities, not in the larger more crowded areas. And when those regions were closed off, many people fled to the south. Yet even though the coronavirus undoubtedly was introduced to southern Italy, so far there have been relatively few deaths. “It is nothing like what you see in the north,” Dr. Monto said.
+The west coast of the United States also is puzzling, he added. Los Angeles and San Francisco “must have had multiple introductions” of the virus, he said. But the California cases have been concentrated in the Silicon Valley area and are nowhere near as numerous as the cases in Seattle.
+“There are no answers,” Dr. Monto said.

@@ -1,0 +1,29 @@
+SAN FRANCISCO — Elon Musk aspires to make inserting a computer connection into your brain as safe and painless as Lasik eye surgery.
+On Tuesday evening, Neuralink, a company in which Mr. Musk has invested $100 million, detailed the baby steps it has taken toward that goal. Neuralink described a “sewing machine-like” robot that can implant ultrathin threads deep into the brain.
+The company is hoping to begin working with human subjects as soon as the second quarter of next year.
+The company claims the system will eventually be capable of reading and writing vast amounts of information. But as with many of Mr. Musk’s other ventures, like spaceships or futuristic tunnels, one of the biggest challenges may be for his scientists to match his grand vision.
+Mr. Musk, the billionaire chief executive of the electric carmaker Tesla who has famously claimed that he “wants to die on Mars, just not on impact,” has a reputation for doing bold things, as well as making even bolder claims that stretch credulity.
+Like artificial intelligence, the idea of inserting a device into the brain that would allow speedy communication between humans and computers veers quickly into science fantasy.
+In his 1984 science-fiction novel “Neuromancer,” William Gibson posited the idea of something he called a “microsoft,” a small cartridge directly connected to the brain via a socket to provide a human user with instant knowledge, such as a new language.
+In a briefing on Monday, Neuralink executives acknowledged they had a “long way to go” before they could begin to offer a commercial service. But they were ready to discuss their work publicly. Mr. Musk was not at the meeting.
+“We want this burden of stealth mode off of us so that we can keep building and do things like normal people, such as publish papers,” said Max Hodak, Neuralink’s president and one of the company’s founders.
+Mr. Musk has been active in trying to help solve the engineering challenges that Neuralink faces, according to Shivon Zilis, project director at Neuralink. The company has received $158 million in funding and has 90 employees.
+While the most fantastical visions for a brain-computer may be a long way off, Mr. Musk may have found a potential medical use.
+Mr. Hodak shared Mr. Musk’s optimism that Neuralink technology might one day — relatively soon — help humans with an array of ailments, like helping amputees regain mobility or helping people hear, speak and see.
+The company says surgeons would have to drill holes through the skull to implant the threads. But in the future, they hope to use a laser beam to pierce the skull with a series of tiny holes.
+“One of the big bottlenecks is that a mechanical drill couples vibration through the skull, which is unpleasant, whereas a laser drill, you wouldn’t feel,” Mr. Hodak said.
+They plan to work with neurosurgeons at Stanford University and possibly other institutions to conduct early experiments. Jaimie Henderson, a professor of neurosurgery at Stanford and a specialist in the treatment of epilepsy and the use of a treatment known as Deep Brain Stimulation, is an adviser to Neuralink, according to Mr. Hodak.
+In a demonstration at a Neuralink research lab on Monday, the company showed a system connected to a laboratory rat reading information from 1,500 electrodes — 15 times better than current systems embedded in humans. That’s enough for scientific research or medical applications.
+Independent scientists cautioned that results from laboratory animals might not translate into human success and that human trials would be required to determine the technology’s promise.
+Recently, the most advanced data for animal studies has come from the Belgian company Imec and its Neuropixels technology, which has a device capable of gathering data from thousands of separate brains cells at once.
+One of Neuralink’s distinguishing techniques is that it places flexible threads of electrodes in proximity to neurons, the tiny cells that are the basic building blocks of the brain.
+The ability to capture information from a large number of cells and then send it wirelessly to a computer for later analysis is believed to be an important step to improving basic understanding of the brain.
+The threads are placed using thin needles, and a so-called computer-vision system helps avoid blood vessels on the surface of the brain. The technique being used by Neuralink involves inserting a bundle of threads that are each about a quarter of the diameter of a human hair.
+The flexible threads are actually thin sandwiches of a cellophane-like material that insulates conductive wires that link a series of minute electrodes, or sensors, much like a strand of pearls.
+They can be inserted in different locations and to different depths, depending on the experiment or application. Medical research and therapy may focus on different parts of the brain, such as centers for speech, vision, hearing or motion.
+The flexibility of the Neuralink threads would be an advance, said Terry Sejnowski, the Francis Crick Professor at the Salk Institute for Biological Studies, in La Jolla, Calif.
+However, he noted that the Neuralink researchers still needed to prove that the insulation of their threads could survive for long periods in a brain’s environment, which has a salt solution that deteriorates many plastics.
+Neuralink is certain to have plenty of competition.
+Over the past decade, the Pentagon has financed research both for basic brain sciences and to develop robotic control systems that would permit brain control of prosthetic devices.
+Researchers with funding from the Defense Advanced Research Projects Agency already have been able to create interfaces allowing quadriplegics to independently manipulate robot arms to perform manual tasks like drinking.
+The Pentagon has financed a variety of techniques, including approaches that use light rather than embedded electrodes to capture data.

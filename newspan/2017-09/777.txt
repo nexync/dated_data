@@ -1,0 +1,35 @@
+Earlier this week, a couple in Colorado filed a class-action lawsuit against an eyewear chain they say gave them faulty eclipse glasses. Watching the moon’s spectacular crossing of the sun on Aug. 21 left them with distorted vision, according to their lawyer. A couple in South Carolina filed a similar lawsuit against Amazon in late August.
+Tens of millions of eclipse glasses were sold ahead of the first total solar eclipse to cross the United States in nearly a century. And though no one has an exact tally, it’s clear that a significant portion were unreliable. Along with Amazon’s massive recall, there was the coffee chain that stopped trusting glasses gifted with lattes and the medical center that scrambled to locate shades distributed at the county fair. Even optometrists were getting duped.
+“ATTENTION DO NOT USE OUR GLASSES,” a sign declared.
+It was unclear who “our” referred to, as the space above was eerily blank and Rod’s, the building behind the sign, was boarded up. Perhaps if I found the author of the warning, and followed the supply chain, I could find at least one person to blame for the inescapable, joy-killing sense that no matter where we bought our glasses, our retinas were about to be toast.
+1. Who programmed the sign?
+A few hours before totality, a man at a nearby carwash pointed me through a suds-filled tunnel toward an auto repair shop. Veronique Ford, a clerk at the family-owned EZ Quick Lube, confirmed the glasses cited in the sign were theirs. They sold around 800 at three to five dollars each.
+Pasted to the counter, was an email from the man who sold them the glasses, which included what looked like a certification number.
+But then a customer called. The “score” was not right.
+“Now we’re like, how do we know if he’s telling the truth or not?” said Mrs. Ford’s boss, Carol Bishop, noting that the vendor had previously provided them with branded shirts.
+2. Where did the glasses come from?
+A Spirit Pack employee checked the certificate that had come with the glasses and saw it did not match the ad, instead listing a certificate number of 12312-1. When he followed up with the vendor, Global Promos Service, a woman told him that the glasses were safe. It was just an older certification. He said he believed her.
+3. Who decides if the glasses are safe?
+But the problem was not about old certificates, it was about ineffective protection from sun exposure. And this is the part where we have to talk about federal regulations specific to eclipse glasses. In fact, there are none.
+Many sellers of glasses for the Great American Eclipse turned, voluntarily, to the guidelines offered by the International Organization for Standardization, known as ISO. Some government agencies, primarily in Europe, use the Geneva-based organization’s standards to regulate imports and sales. When Global Promos Service, or anyone else, advertised an ISO certification of 12312-2, the companies were promising that the product met requirements outlined by Dr. B. Ralph Chou, an optometrist and the president of the Royal Astronomical Society of Canada.
+It’s the difference between 0.003 percent and 15 percent that had many worried the week before the eclipse. While a quick glance at the sun through 12312-1 glasses might be O.K., “extended exposures through such tinted lenses could result in solar retinopathy,” said Dr. Chou.
+4. Why did Amazon say the glasses weren’t safe?
+Global Promos Service, the next link in the glasses chain, was listed in Los Angeles, also home to an active amateur astronomy community. Since I was there, I decided to meet with another vendor, Manish Panjwani, the owner of Agena AstroProducts. Like Mrs. Bishop of EZ Quick Lube, improperly certified shades hurt his credibility. In his case, though, the problematic products were not his.
+Several weeks before the eclipse, as reports of suspicious glasses surfaced, “Amazon took down virtually every storefront selling eclipse glasses, including ones from legitimate manufacturers and their authorized dealers,” said Dr. Fienberg of the American Astronomical Society. The company then sent emails to many customers warning them that they may have received eclipse glasses that couldn’t be verified as safe.
+When Amazon issued its recall, the company yanked the entire product page, and sent emails to Mr. Panjwani’s customers as well, even though they had received legitimate Baader glasses.
+Mr. Panjwani said he submitted proper documentation three times. 
+“Amazon could have addressed it earlier and more carefully instead of making everyone into a bad guy and freaking out the country out in the process,” he said.
+Dr. Fienberg of the American Astronomical Society agreed that Amazon exacerbated confusion by failing to vet eclipse products earlier. Initially he estimated that the recall cost legitimate vendors millions in profits. In a statement to The Times, Amazon said the company would cover the cost of refunds for sellers with proper certification. This includes Agena AstroProducts.
+“I think 2024 will be very different,” said Dr. Fienberg, referring to the next total eclipse to cross the United States.
+5. What’s hiding behind this door?
+I was hoping to ask this question to the people at Global Promos Service.
+As I parked near their address in Los Angeles, I knew that Spirit Pack’s main contact, Fiona Rjrr as her name appeared in email, was in China that week. She’d told me this in an exchange, which ended when I clarified that I was a reporter from The New York Times, not a buyer of eclipse glasses.
+Certainly there would be someone else to take my questions. Except there wasn’t. Because the address, as listed in the Distributor Central directory, did not exist.
+I pulled up the company website, which offered an address that was one digit different. Aha — so it was just a typo. Except the suite was vacant.
+I emailed Ms. Rjrr — and no, that is probably not her last name — for clarification about whether there was another office somewhere in California.
+“Sorry, I have no comment to make,” she responded.
+Why use a fake address? Kieron Norris, an operations director at the risk management company Pinkerton, said having the appearance of a physical location in the United States can build trust to boost sales.
+He also pointed out that there is little incentive for a Chinese manufacturer to go through the expensive, time-consuming process of getting certification for a rare event, even if the product could pass the test. In fact, one dealer that did product testing on suspicious eclipse glasses manufactured in China found that they were safe, but “one actually failed to comply with ISO 12312-2 because its filters were too dark!” said Dr. Fienberg over email.
+I called Ms. Ford of EZ Quick Lube to share my findings. A longtime Republican, skeptical of government regulation, she said that the experience reminded her of its occasional value.
+“You’ve got to have boundaries or there is chaos,” she observed.
+But she could not identify a clear villain.

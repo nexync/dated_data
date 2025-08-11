@@ -1,0 +1,85 @@
+Dr. Bruce Aylward, of the W.H.O., got a rare glimpse into Beijing’s campaign to stop the epidemic. Here’s what he saw.
+As the leader of the World Health Organization team that visited China, Dr. Bruce Aylward feels he has been to the mountaintop — and has seen what’s possible.
+During a two-week visit in early February, Dr. Aylward saw how China rapidly suppressed the coronavirus outbreak that had engulfed Wuhan, and was threatening the rest of the country.
+New cases in China have dropped to about 200 a day, from more than 3,000 in early February. The numbers may rise again as China’s economy begins to revive. But for now, far more new cases are appearing elsewhere in the world.
+China’s counterattack can be replicated, Dr. Aylward said, but it will require speed, money, imagination and political courage.
+For countries that act quickly, containment is still possible “because we don’t have a global pandemic — we have outbreaks occurring globally,” he added.
+Dr. Aylward, who has 30 years experience in fighting polio, Ebola and other global health emergencies, detailed in an interview with The New York Times how he thinks the campaign against the virus should be run.
+Do we know what this virus’s lethality is? We hear some estimates that it’s close to the 1918 Spanish flu, which killed 2.5 percent of its victims, and others that it’s a little worse than the seasonal flu, which kills only 0.1 percent. How many cases are missed affects that.
+There’s this big panic in the West over asymptomatic cases. Many people are asymptomatic when tested, but develop symptoms within a day or two.
+There is no evidence that we’re seeing only the tip of a grand iceberg, with nine-tenths of it made up of hidden zombies shedding virus. What we’re seeing is a pyramid: most of it is aboveground.
+Once we can test antibodies in a bunch of people, maybe I’ll be saying, “Guess what? Those data didn’t tell us the story.” But the data we have now don’t support it.
+That’s good, if there’s little asymptomatic transmission. But it’s bad in that it implies that the death rates we’ve seen — from 0.7 percent in parts of China to 5.8 percent in Wuhan — are correct, right?
+I’ve heard it said that “the mortality rate is not so bad because there are actually way more mild cases.” Sorry — the same number of people that were dying, still die. The real case fatality rate is probably what it is outside Hubei Province, somewhere between 1 and 2 percent.
+What about children? We know they are rarely hospitalized. But do they get infected? Do they infect their families?
+We don’t know. That Guangdong survey also turned up almost no one under 20. Kids got flu, but not this. We have to do more studies to see if they get it and aren’t affected, and if they pass it to family members. But I asked dozens of doctors: Have you seen a chain of transmission where a child was the index case? The answer was no.
+Why? There’s a theory that youngsters get the four known mild coronaviruses so often that they’re protected.
+That’s still a theory. I couldn’t get enough people to agree to put it in the W.H.O. report.
+Does that imply that closing schools is pointless?
+No. That’s still a question mark. If a disease is dangerous, and you see clusters, you have to close schools. We know that causes problems, because as soon as you send kids home, half your work force has to stay home to take care of them. But you don’t take chances with children.
+Are the cases in China really going down?
+I know there’s suspicion, but at every testing clinic we went to, people would say, “It’s not like it was three weeks ago.” It peaked at 46,000 people asking for tests a day; when we left, it was 13,000. Hospitals had empty beds.
+I didn’t see anything that suggested manipulation of numbers. A rapidly escalating outbreak has plateaued, and come down faster than would have been expected. Back of the envelope, it’s hundreds of thousands of people in China that did not get Covid-19 because of this aggressive response.
+Is the virus infecting almost everyone, as you would expect a novel flu to?
+No — 75 to 80 percent of all clusters are in families. You get the odd ones in hospitals or restaurants or prisons, but the vast majority are in families. And only 5 to 15 percent of your close contacts develop disease. So they try to isolate you from your relatives as quickly as possible, and find everyone you had contact with in 48 hours before that.
+You said different cities responded differently. How?
+It depended on whether they had zero cases, sporadic ones, clusters or widespread transmission.
+First, you have to make sure everyone knows the basics: hand-washing, masks, not shaking hands, what the symptoms are. Then, to find sporadic cases, they do fever checks everywhere, even stopping cars on highways to check everyone.
+ Only Wuhan and the cities near it went into total lockdown.
+How did the Chinese reorganize their medical response?
+First, they moved 50 percent of all medical care online so people didn’t come in. Have you ever tried to reach your doctor on Friday night? Instead, you contacted one online. If you needed prescriptions like insulin or heart medications, they could prescribe and deliver it.
+But if you thought you had coronavirus?
+Wait — “whip you through a CT scan”?
+Each machine did maybe 200 a day. Five, 10 minutes a scan. Maybe even partial scans. A typical hospital in the West does one or two an hour. And not X-rays; they could come up normal, but a CT would show the “ground-glass opacities” they were looking for.
+If you were still a suspect case, you’d get swabbed. But a lot would be told, “You’re not Covid.” People would come in with colds, flu, runny noses. That’s not Covid. If you look at the symptoms, 90 percent have fever, 70 percent have dry coughs, 30 percent have malaise, trouble breathing. Runny noses were only 4 percent.
+The swab was for a PCR test, right? How fast could they do that? Until recently, we were sending all of ours to Atlanta.
+They got it down to four hours.
+So people weren’t sent home?
+No, they had to wait. 
+If they were positive, what happened?
+They’d be isolated. In Wuhan, in the beginning, it was 15 days from getting sick to hospitalization. They got it down to two days from symptoms to isolation. That meant a lot fewer infected — you choke off this thing’s ability to find susceptibles.
+What’s the difference between isolation and hospitalization?
+With mild symptoms, you go to an isolation center. They were set up in gymnasiums, stadiums — up to 1,000 beds. But if you were severe or critical, you’d go straight to hospitals. Anyone with other illnesses or over age 65 would also go straight to hospitals.
+What were mild, severe and critical? We think of “mild” as like a minor cold.
+No. “Mild” was a positive test, fever, cough — maybe even pneumonia, but not needing oxygen. “Severe” was breathing rate up and oxygen saturation down, so needing oxygen or a ventilator. “Critical” was respiratory failure or multi-organ failure.
+So saying 80 percent of all cases are mild doesn’t mean what we thought.
+I’m Canadian. This is the Wayne Gretzky of viruses — people didn’t think it was big enough or fast enough to have the impact it does.
+Hospitals were also separated?
+Yes. The best hospitals were designated just for Covid, severe and critical. All elective surgeries were postponed. Patients were moved. Other hospitals were designated just for routine care: women still have to give birth, people still suffer trauma and heart attacks.
+They built two new hospitals, and they rebuilt hospitals. If you had a long ward, they’d build a wall at the end with a window, so it was an isolation ward with “dirty” and “clean” zones. You’d go in, gown up, treat patients, and then go out the other way and de-gown. It was like an Ebola treatment unit, but without as much disinfection because it’s not body fluids.
+How good were the severe and critical care?
+The government made it clear: testing is free. And if it was Covid-19, when your insurance ended, the state picked up everything.
+In the U.S., that’s a barrier to speed. People think: “If I see my doctor, it’s going to cost me $100. If I end up in the I.C.U., what’s it going to cost me?”  That’s what could wreak havoc. This is where universal health care coverage and security intersect. The U.S. has to think this through.
+What about the nonmedical response?
+It was nationwide. There was this tremendous sense of, “We’ve got to help Wuhan,” not “Wuhan got us into this.” Other provinces sent 40,000 medical workers, many of whom volunteered.
+In Wuhan, our special train pulled in at night, and it was the saddest thing — the big intercity trains roar right through, with the blinds down.
+We got off, and another group did. I said, “Hang on a minute, I thought we were the only ones allowed to get off.” They had these little jackets and a flag — it was a medical team from Guangdong coming in to help.
+How did people in Wuhan eat if they had to stay indoors?
+Lots of government employees were reassigned?
+From all over society. A highway worker might take temperatures, deliver food or become a contact tracer. In one hospital, I met the woman teaching people how to gown up. I asked, “You’re the infection control expert?” No, she was a receptionist. She’d learned.
+How did technology play a role?
+They’re managing massive amounts of data, because they’re trying to trace every contact of 70,000 cases. When they closed the schools, really, just the buildings closed. The schooling moved online.
+Contact tracers had on-screen forms. If you made a mistake, it flashed yellow. It was idiot-proof.
+We went to Sichuan, which is vast but rural. They’d rolled out 5G. We were in the capital, at an emergency center with huge screens. They had a problem understanding one cluster. On one screen, they got the county headquarters. Still didn’t solve it.
+So they got the field team. Here’s this poor team leader 500 kilometers away, and he gets a video call on his phone, and it’s the governor.
+They had Weibo and Tencent and WeChat giving out accurate information to all users. You could have Facebook and Twitter and Instagram do that.
+Isn’t all of this impossible in America?
+Look, journalists are always saying: “Well, we can’t do this in our country.” There has to be a shift in mind-set to rapid response thinking.  There’s a real moral hazard in that, a judgment call on what you think of your vulnerable populations.
+Ask yourself: Can you do the easy stuff? Can you isolate 100 patients? Can you trace 1,000 contacts? If you don’t, this will roar through a community.
+Isn’t it possible only because China is an autocracy?
+Journalists also say, “Well, they’re only acting out of fear of the government,” as if it’s some evil fire-breathing regime that eats babies. I talked to lots of people outside the system — in hotels, on trains, in the streets at night.
+They’re mobilized, like in a war, and it’s fear of the virus that was driving them. They really saw themselves as on the front lines of protecting the rest of China. And the world.
+China is restarting its economy now. How can it do that without creating a new wave of infections?
+It’s a “phased restart.” It means different things in different provinces.
+Some are keeping schools closed longer. Some are only letting factories that make things crucial to the supply chain open. For migrant workers who went home — well, Chengdu has 5 million migrant workers.
+First, you have to see a doctor and get a certificate that you’re “no risk.” It’s good for three days.
+Then you take the train to where you work. If it’s Beijing, you then have to self-quarantine for two weeks. Your temperature is monitored, sometimes by phone, sometimes by physical check.
+What’s going on with the treatment clinical trials?
+They’re double-blind trials, so I don’t know the results. We should know more in a couple of weeks.
+The biggest challenge was enrolling people. The number of severe patients is dropping, and there’s competition for them. And every ward is run by a team from another province, so you have to negotiate with each one, make sure they’re doing the protocols right.
+And they’re testing traditional medicines?
+Yes, but it’s a few standard formulations. It’s not some guy sitting at the end of the bed cooking up herbs. They think they have some fever-reducing or anti-inflammatory properties. Not antivirals, but it makes people feel better because they’re used to it.
+What did you do to protect yourself?
+A heap of hand-sanitizer. We wore masks, because it was government policy. We didn’t meet patients or contacts of patients or go into hospital dirty zones.
+And we were socially distant. We sat one per row on the bus. We ate meals in our hotel rooms or else one person per table. In conference rooms, we sat one per table and used microphones or shouted at each other.
+That’s why I’m so hoarse. But I was tested, and I know I don’t have Covid.

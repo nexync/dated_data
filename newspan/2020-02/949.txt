@@ -1,0 +1,10 @@
+Apps and websites regularly push alerts to your devices, but there are ways to minimize disruption and still stay in the loop.
+Getting tired of new alerts constantly popping up on your screen? You can do something about it.
+Notifications on your phone and computer are great for keeping up to date with breaking news, weather and traffic updates. But those real-time alerts popping up can also drive you nuts with the frequent interruptions bombarding your screen — not to mention the battery burn on your device from all the activity.
+Between a presidential election, the Olympics and the usual swirl of current events, 2020 promises to be an especially busy year. If you’re already feeling the information overload and want to dial down the notifications, or just need a little peace and quiet, here’s a guide to managing your alerts so you get the most useful updates.
+One way to cut down on the blizzard of alerts and notifications: Don't sign up for them.
+Alerts from websites and apps are also part of desktop life — Windows 10, the Mac operating system and some Linux distributions all support them. To adjust how your computer generally handles notifications, dig into the system settings.
+To manage notifications in Windows 10, go to Settings and select System to get to the controls.
+To control the banners and noises coming from a Mac when alerts arrive, go to the System Preferences area and click the Notifications icon.
+Sometimes you just need a temporary break from all the interruptions, like when you want to stream a video or take a nap. The Do Not Disturb mode in your Android, iOS or Mac system settings can minimize or disable notifications all at once. The Focus Assist mode in Windows 10 (called Quiet Hours in previous versions) offers the same control.
+In the Do Not Disturb or Focus Assist settings, you can turn everything off (and on) manually and adjust sound effects. You can also set a daily schedule to automatically suppress alerts — like during your sleeping hours.

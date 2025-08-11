@@ -1,0 +1,31 @@
+Looking for the answers to ax² + bx + c = 0? A mathematician has rediscovered a technique that the ancient Babylonians used.
+The quadratic equation has frustrated math students for millenniums. But a math professor at Carnegie Mellon University in Pittsburgh may have come up with a better way of solving it.
+“When I stumbled on this, I was just completely shocked,” said the professor, Po-Shen Loh.
+Quadratics, which are introduced in elementary algebra classes, pop up often in physics and engineering in the calculating of trajectories, even in sports. If, while watching the Super Bowl, you had wanted to estimate how far a pass thrown by Patrick Mahomes traveled through the air, you would have been solving a quadratic equation. The equations also show up in calculations for maximizing profit, a key consideration for anyone who wants to succeed in business.
+Dr. Loh has not discovered something entirely new. Indeed, his method mixes together ideas dating back thousands of years to the Babylonians. But this is not how modern algebra textbooks present the topic.
+Dr. Loh mentors some of the top high school math students in the country as coach of the United States Mathematical Olympiad team. But he also wants to improve the teaching of all math students.
+A few months ago, Dr. Loh posted online a paper describing his method, and teachers have already tried it in their classrooms.
+The burst of pedagogical discussion about quadratic equations highlights the ability of the internet to spread new teaching ideas quickly.
+First, a quick review about quadratic equations and parabolas.
+A parabola is a symmetrical curve that can describe the path of a projectile, like a thrown football, or the curve of a suspension bridge.
+Parabolas are defined with variations on the equation y = x2.
+Where a changes the width of the curve, b shifts the axis of symmetry to the left or right, and c slides the curve up or down.
+Before students are presented with the quadratic formula, they’re taught a simpler method to solve certain equations. For simplicity, we’ll consider an equation where a = 1.
+Multiplying out (x – r)(x – s) produces x² – (r + s)x + rs.
+The key is to find r and s such that the sum of r and s equals 4 (that is, r + s = 4), and multiplying r and s produces –5 (r × s = –5). If they exist, then r and s are the two and only two solutions.
+Figuring out the factors that work is essentially trial and error. “The fact that you suddenly have to switch into a guessing mode makes you feel like maybe math is confusing or not systematic,” Dr. Loh said.
+Guessing also becomes cumbersome for quadratics with large numbers, and it only works neatly for problems that are contrived to have integer answers.
+Dr. Loh’s method eliminates this guessing game. But for many algebra students, the jumble of algebraic symbols is still confusing. So Mr. Wong tells them to sketch a parabola.
+“If you graph it, it’s much easier for the kids to understand what’s going on,” he said.
+This alternate method for solving quadratic equations uses the fact that parabolas are symmetrical.
+The two solutions when y = 0 are the symmetrical points r and s, where the parabola crosses the x-axis.
+The midpoint, or average, of r and s is the axis of symmetry of the parabola. We want r + s = –b, which happens when the average of r and s is –b ÷ 2. In this example: 4 ÷ 2 = 2.
+Solving that yields 22 – u2 = –5 or u2 = 9, so u = 3 works.
+The two solutions to this quadratic equation are 2 – u and 2 + u, or –1 and 5. In other words, this parabola intersects the x-axis when x = –1 and x = 5.
+The same method also works for equations that are not readily factorable.
+That’s when students turn to the quadratic formula. But they often misremember it — the usual derivation is a bit convoluted involving a technique called “completing the square” — and get the wrong answers.
+“Math is not about memorizing formulas without meaning, but rather about learning how to reason logically through precise statements,” Dr. Loh said.
+Dr. Loh delved into mathematics history to find that the Babylonians and Greeks had the same insights, although their understanding was limited because their math was limited to positive numbers. It was only later that people came up with the concepts of negative numbers, zero and even more esoteric concepts like imaginary numbers — the square roots of negative numbers.
+He even found out that a math teacher in Sudbury, Canada, named John Savage came up with a similar approach 30 years ago. An article by Mr. Savage in the journal The Mathematics Teacher in 1989 laid out almost the same procedure, although Dr. Loh filled in some nuances of logic in explaining why it works.
+“I honestly can’t remember exactly where the eureka moment was,” Mr. Savage said in a phone interview. But it seemed to be an improvement over the usual way of teaching the subject.
+He continued using that approach, as did some other teachers he knew. But the internet was still in its infancy, and the idea faded away.

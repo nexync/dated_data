@@ -1,0 +1,29 @@
+Technology|What Is Bitcoin, and How Does It Work?
+If you find the concept of Bitcoin confusing, you are not alone. The virtual currency has been a constant source of controversy, but it is still not well understood.
+Are Bitcoins those coins I see in photographs?
+No. Those coins are novelty items that newspapers used in photographs because they couldn’t find anything else to illustrate their stories about Bitcoin.
+A Bitcoin is a digital token — with no physical backing — that can be sent electronically from one user to another, anywhere in the world. A Bitcoin can be divided out to eight decimal places, so you can send someone 0.00000001 Bitcoins. This smallest fraction of a Bitcoin — the penny of the Bitcoin world — is referred to as a Satoshi, after the anonymous creator of Bitcoin.
+This all gets confusing, because Bitcoin is also the name of the payment network on which the Bitcoin digital tokens are stored and moved.
+Unlike traditional payment networks like Visa, the Bitcoin network is not run by a single company or person. The system is run by a decentralized network of computers around the world that keep track of all Bitcoin transactions, similar to the way Wikipedia is maintained by a decentralized network of writers and editors.
+The record of all Bitcoin transactions that these computers are constantly updating is known as the blockchain.
+Why do criminals like Bitcoin?
+Criminals have taken to Bitcoin because anyone can open a Bitcoin address and start sending and receiving Bitcoins without giving a name or identity. There is no central authority that could collect this information.
+Bitcoin first took off in 2011 after drug dealers began taking payments in Bitcoin on the black-market website known as the Silk Road. Although the Silk Road was shut down in 2013, similar sites have popped up to replace it.
+More recently, Bitcoin has become a method for making ransom payments — for example, when your computer is taken over by so-called ransomware.
+Why won’t the government just shut it down?
+The records of the Bitcoin network, including all balances and transactions, are stored on every computer helping to maintain the network — about 9,500 computers in late 2017.
+Can Bitcoin users give themselves more Bitcoins?
+Anyone helping to maintain the database of all Bitcoin transactions — the blockchain — could change his or her own copy of the records to add more money. But if someone did that, the other computers maintaining the records would see the discrepancy, and the changes would be ignored.
+Are there legal uses?
+Only a small percentage of all transactions on the Bitcoin network are explicitly illegal. Most transactions are people buying and selling Bitcoins on exchanges, speculating on future prices. A whole world of high-frequency traders has sprung up around Bitcoin.
+People in countries with high inflation, like Argentina and Venezuela, have bought Bitcoin with their local currency to avoid losing their savings to inflation.
+One of the most popular business plans is to use Bitcoin to move money over international borders. Large international money transfers can take weeks when they go through banks, while millions of dollars of Bitcoin can be moved in minutes. 
+How can I buy a Bitcoin?
+There are companies in most countries that will sell you Bitcoins in exchange for the local currency. In the United States, a company called Coinbase will link to your bank account or credit card and then sell you the coins for dollars. Opening an account with Coinbase is similar to opening a traditional bank or stock brokerage account, with lots of identity verification to satisfy the authorities.
+For people who do not want to reveal their identities, services like LocalBitcoins will connect people who want to meet in person to buy and sell Bitcoins for cash, generally without any verification of identity required.
+Who decides what a Bitcoin is worth?
+The price of Bitcoin fluctuates constantly and is determined by open-market bidding on Bitcoin exchanges, similar to the way that stock and gold prices are determined by bidding on exchanges.
+There is generally a new winner about every 10 minutes, and there will be until there are 21 million Bitcoins in the world. At that point, no new Bitcoins will be created. This cap is expected to be reached in 2140. So far, about 16 million Bitcoin have been distributed.
+Every Bitcoin in existence was created through this method and initially given to a computer helping to maintain the records. Anyone can set his or her computer to mine Bitcoin, but these days only people with specialized hardware manage to win the race.
+Are there Bitcoin competitors?
+Plenty. But these other virtual currencies do not have as many followers as Bitcoin, so they are not worth as much. As in the real world, a currency is worth only as much as the number of people willing to accept it for goods and services.

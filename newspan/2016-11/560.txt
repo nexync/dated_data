@@ -1,0 +1,14 @@
+By tapping into new technologies and the ubiquitous use of smartphones, the likes of Uber and Lyft — rival ride-booking services — were supposed to solve many of the problems that litter the traditional economy.
+But it turns out some of those problems are hard to tackle, even for these new Silicon Valley tech darlings.
+That’s the main conclusion from an academic paper published Monday that said African-American users of these digital services faced racial discrimination by some Uber and Lyft drivers.
+The findings — based on roughly 1,500 combined trips in Seattle and Boston — come on the heels of similar racial discrimination accusations against Airbnb, the vacation rental website, where people with African-American-sounding names found it harder to rent rooms than their white counterparts.
+Accusations of racial discrimination also have been levied at conventional taxi services. But the claims against these newer tech companies — which have garnered multibillion-dollar valuations and often a global footprint — could tarnish their reputations if such practices are not addressed quickly.
+Airbnb, for its part, has recently taken steps to stamp out such racial bias, including the creation of a new nondiscrimination policy.
+As part of the research into Uber and Lyft, African-American and white users in Seattle and Boston hailed rides separately with both services.
+“We found that African-American travelers in Seattle experienced statistically significantly longer delay waiting for a trip request through UberX or Lyft to be accepted,” said the researchers from the University of Washington, M.I.T. and Stanford. UberX is Uber’s baseline service.
+“We theorize that at least some drivers for both UberX and Lyft discriminate on the basis of the perceived race of the traveler,” they added.
+Rachel Holt, Uber’s head of North American operations, said there was no place for racism on the company’s online platform, though Uber had no plans to alter how it currently operates.
+“Studies like this one are helpful in thinking about how we can do even more,” she said.
+The company does not “tolerate any form of discrimination,” he added in an email.
+In Seattle, the researchers found, African-American users had to wait as much as 35 percent longer for some Uber rides, while in Boston, people with African-American-sounding names were more than twice as likely to have their Uber rides canceled compared with people with white-sounding names.
+The academics said the companies could avoid such discrimination by not including passengers’ names when bookings are made, as well as imposing sanctions on drivers who routinely cancel trips without cause.

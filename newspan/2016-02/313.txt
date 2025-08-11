@@ -1,0 +1,26 @@
+When scientists first started to figure out how to extract DNA from ancient skeletons, their success was met with astonishment. One minute, scientists were fishing Richard III’s genes from his royal bones, and the next they were showing off DNA retrieved from 500-year-old Incan mummies.
+The idea that DNA could survive for thousands of years — let alone be reassembled into an entire genome — seemed little short of miraculous.
+Despite the field’s rapid advances in recent years, though, ancient DNA is still hard to find and hard to make sense of. Potential errors lurk around every corner. Even little oversights can cause big headaches.
+Andrea Manica, a geneticist at the University of Cambridge, appreciates this fact all too well. A head-turning study by his team turned out to have a fundamental flaw that erased some of its most provocative conclusions.
+In October, Dr. Manica and his colleagues reconstructed the first ancient human genome ever found in Africa, retrieved from the skeleton of a man who lived in Ethiopia 4,500 years ago.
+Ancient DNA experts were delighted, because the genome may provide clues about African history that other kinds of evidence — broken pottery shards, for example, or scraps of ancient manuscripts — cannot.
+“It’s an amazing, amazing, unique, special, incredible, first-of-its-kind data set,” David Reich, a geneticist at Harvard Medical School who was not involved in the study, said in an interview.
+The retraction by Science of a study of changing attitudes on gay marriage is the latest in a growing number of prominent withdrawals of the results of studies from scientific literature.
+After Dr. Manica and his colleagues published their results, Dr. Reich and Pontus Skoglund, another geneticist at Harvard, requested the original data. They wanted to use it in their own studies of ancient human populations.
+Dr. Reich and Dr. Skoglund reanalyzed the findings — but did not reach the same conclusions.
+In the original study, Dr. Manica and his colleagues sought to understand how the ancient Ethiopian man (dubbed Mota, after the cave where his body was buried) was related to other humans. The researchers found many unique mutations that linked Mota to a group of Ethiopians who live near the cave today, known as the Ari.
+By contrast, the researchers found that Mota was only distantly related to many people elsewhere in Africa. In fact, the analysis suggested that most living Africans shared some DNA with Europeans and Asians that were missing from Mota’s genome.
+To explain these intriguing results, Dr. Manica and his colleagues tested out different historical scenarios. In the best-supported one, a group of people migrated from the Near East back to East Africa — a so-called backflow — about 3,000 years ago. In subsequent generations, their DNA spread across Africa.
+But some of the implications of this theory were surprising. For one thing, this backflow seemed to have raged like a flood, spreading all the way across the continent in relatively little time.
+Those provocative implications drew wide attention in the media, including The Times. Unfortunately, Dr. Skoglund and Dr. Reich couldn’t find any trace of the migration beyond East Africa.
+Once Dr. Manica learned of the conundrum, he and his colleagues retraced their steps.
+The DNA in a bone thousands of years old has broken into little fragments. After scientists retrieve those fragments, they must fit the pieces back together like a jigsaw puzzle.
+One way to do a jigsaw puzzle is to refer to the picture on the box. Similarly, scientists working with ancient gene fragments refer to a standard reference genome to figure out what goes where. That requires software designed to reassemble DNA fragments in as little time as possible.
+As it turns out, the data produced by the program used to map Mota’s DNA came in a format that had to be tweaked before the scientists used a second program to compare it with other genomes. In the Mota study, no one did the tweaking.
+ Dr. Manica and his colleagues unknowingly ignored some spots in the genome where Mota’s DNA was identical to that of Eurasians. As a result, Mota appeared not to be as closely related to Eurasians as he really was.
+The mistake also created the false impression that many Africans outside of East Africa shared a lot of genes with Eurasians, DNA not found in Mota’s genome.
+Dr. Manica and his colleagues last week posted a statement about the error, which was first reported in the journal Nature. They have asked Science, where their study appeared, to publish an erratum, and the journal is considering it.
+Still, Dr. Reich noted, other parts of the original study, such as the reconstructed sequence of the Mota genome, stood up to scrutiny. The Ari do appear to be close kin to Mota.
+What’s more, the Eurasian backflow did indeed occur — but only East Africans carry DNA from that event. “At least the general story still stands,” said Dr. Manica.
+The Mota genome will remain an important resource for scientists studying human history. Dr. Manica and his colleagues, for example, are using it to study how humans expanded from Africa into Europe and Asia more than 50,000 years ago.
+Dr. Manica and Dr. Reich agreed that ancient DNA experts needed to be willing to share their analyses to catch such errors in the future.

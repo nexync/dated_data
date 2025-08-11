@@ -1,0 +1,13 @@
+United States officials are charging an Iranian hacker in the theft of 1.5 terabytes of data from HBO in May, an attack that tormented network executives and included the release of several unaired programs and scripts.
+Behzad Mesri, who went by the pseudonym “Skote Vahshat,” was charged with computer fraud, wire fraud, extortion and identity theft, according to an indictment unsealed Tuesday in United States District Court in Manhattan. But he remains in Iran, and officials acknowledged that it would be difficult to detain him.
+“He will forever be looking over his shoulder, and if he isn’t, he should be,” Joon H. Kim, acting United States attorney for the Southern District of New York, said at a news conference.
+He was accused of trying to extort $6 million worth of Bitcoin from HBO in July, the indictment said.
+From May to August, the data theft proved a nightmare for HBO. The hacker gradually released stolen materials on the internet, including unaired episodes of “Ballers,” “Barry,” “Room 104,” “Curb Your Enthusiasm” and “The Deuce.” The hacker also released the script of an episode of “Game of Thrones” that had not yet been broadcast.
+The data cache also included financial documents, cast and crew contact lists, emails belonging to at least one HBO employee and credentials for social media accounts, according to the indictment.
+Though Mr. Kim said it was “not likely” the authorities would be able to arrest Mr. Mesri, being wanted by the F.B.I. will make it difficult for Mr. Mesri to travel internationally, he said.
+“The memory of American law enforcement is very long,” he said.
+Collin Anderson, an independent cybersecurity researcher who focuses on Iran, said that Mr. Mesri appeared to have ties to individuals who had carried out cyberespionage campaigns on behalf of the Iranian government, though his decision to attack HBO may have been a singular act he carried out by himself.
+“Iran’s offensive cyberoperations are complex because the membership in hacking groups and the lines between groups are messy and shift over time,” Mr. Anderson said.
+He said the indictment was most likely just the tip of the iceberg when it came to Iran’s offensive online activities.
+Mr. Mesri was not accused of participating in two other HBO security breaches over the summer. The network’s Twitter account was hacked in August, and two episodes of “Game of Thrones” were leaked online before they were broadcast, but neither was linked to the larger data theft.
+“Game of Thrones” didn’t appear to suffer from the leaks. It set a ratings record with 12.1 million viewers for its finale, or 16.5 million when including numbers from its streaming services.

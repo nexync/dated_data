@@ -1,0 +1,38 @@
+Step No. 10: Buy a decoy house to fool the D.M.V.
+In October 2017, a SWAT team descended on Jameson Lopp’s house in North Carolina. Someone — it still isn’t clear who — had called the police and falsely claimed that a shooter at the home had killed someone and taken a hostage. After the police left, Mr. Lopp received a call threatening more mayhem if he did not make a large ransom payment in Bitcoin.
+To scare off future attackers, Mr. Lopp quickly posted a video on Twitter of himself firing off his AR-15 rifle. He also decided he was going to make it much harder for his enemies — and anyone else — to find him ever again.
+Mr. Lopp, a self-described libertarian who works for a Bitcoin security company, had long been obsessed with the value of privacy, and he set out to learn how thoroughly a person can escape the all-seeing eyes of corporate America and the government. But he wanted to do it without giving up internet access and moving to a shack in the woods.
+Many celebrities and wealthy people, wary of thieves, paparazzi and other predators, have tried to achieve Mr. Lopp’s vision of complete privacy. Few have succeeded.
+Mr. Lopp viewed the exercise as something of an experiment, to find out the lengths he’d have to go to extricate himself from the databases and other repositories that hold our personal information and make it available to anyone willing to pay for it. That helps explain why he was willing to describe the steps he’s taken with me (though he did so from a burner phone, without disclosing his new location).
+1. Create a new corporate identity.
+People end up in databases when they fill out forms to buy property, register for credit cards or complete run-of-the-mill transactions.
+Because Mr. Lopp wanted to continue to do such normal consumer things, he needed a new name and address that wouldn’t give away his personal information. When he asked lawyers who specialize in privacy the best way to do this, he was told to create a limited liability company, or L.L.C., to serve as his new identity.
+Creating a corporation is not difficult. But in most states, Mr. Lopp would be registered as the owner. That would make him easy to track down if someone learned the name of the L.L.C. Nevada, Wyoming and New Mexico, however, don’t require corporations to record their owner. Mr. Lopp took advantage of that. For good measure, he set up a few corporations to use in different situations, in case an adversary tied him to any one L.L.C.
+2. Set up new bank accounts and payment cards.
+Some of the most personal and widely tracked information we generate is through our financial transactions. To make new purchases that weren’t tied to him, Mr. Lopp opened a bank account with one of his new L.L.C.s and created a corporate credit card with an online company that did not require him to list his name on the card.
+To ensure he doesn’t tie too much information to the corporation, he makes most purchases, especially when buying something online, with prepaid debit cards that don’t list his name or his L.L.C.
+3. Carry cash.
+4. Get a new phone number.
+Our phone records allow the phone companies — and anyone who subpoenas or hacks them — to know everyone whom we’ve spoken with. Mr. Lopp stopped using his old phone number, which was linked to his real name, and set up a new one under his corporate identity.
+5. Stop using the phone for directions.
+To make sure his phone wasn’t keeping a record of everywhere he’d been — and potentially transmitting it to apps he was using — he turned off all its geolocation services. When he drives and needs directions, he uses a dedicated GPS device that isn’t otherwise tied to him.
+Mr. Lopp’s old house was inextricably tied to him, so he and his dog needed a new one. (He doesn’t have any children, and he declined to comment on whether he has a significant other living with him.) When he found a property to buy, he used the L.L.C. and a cashier’s check from the L.L.C.’s bank account to pay for the house in full. A mortgage was not going to be possible.
+7. Make up a fake name for casual interactions.
+Mr. Lopp didn’t want his new neighbors to blow his cover. When he introduced himself, he used a pseudonym. At first, he felt odd about giving people a fake name. Now, Mr. Lopp says, he feels weirder telling people his real name.
+8. Create a V.P.N. for home internet use.
+Earlier in his career, Mr. Lopp had worked for an online marketing company that could tie internet addresses to specific customers using databases purchased from other companies.
+In order to shield his internet address and his location, he turned his home internet router into a virtual private network, or V.P.N., that made all his internet traffic appear to come from different internet addresses in different places.
+9. Buy a boring car.
+10. Buy a decoy house to fool the D.M.V.
+To register his car, the D.M.V. insisted on a real name — not an L.L.C. — and a street address. To satisfy the D.M.V. without giving away the address of his new home, he purchased a tiny second property just for this purpose. “It’s the crappiest, cheapest hole in the wall I could find that has a physical mailbox,” he said.
+11. Set up a private mailbox and remailing service.
+Mr. Lopp certainly didn’t want his new home on anyone’s mailing list, even if it was only under his L.L.C.’s name. For those times when he needed to receive mail or a delivery, he created a private mailbox at a shipping center not far from his new home.
+Even that felt a bit too revealing, so now he has his mail and packages shipped through a remailing service, where the shipper gets the address of a private company that receives the mail in a different state and then reroutes it to his private mailbox.
+12. Master the art of disguise.
+There are surveillance cameras everywhere, many of them with facial-recognition software. Mr. Lopp didn’t want to get plastic surgery to completely change his appearance, so when he ventures out he wears sunglasses and a hat. He used to have a big, easily noticed beard. “It’s a more manageable length now so that I can blend into a crowd more,” he said.
+13. Work remotely.
+Attending a meeting in person would give his clients information about his travels and location. Mr. Lopp now insists on working remotely, doing any meetings by video conference in rooms where people won’t be able to identify where he is or what may be outside.
+14. Encrypt devices when traveling remotely.
+When he traveled to Tokyo recently, he had no choice but to present his passport at the border. But Mr. Lopp does take precautions: He shuts down his digital devices and encrypts all of his data. That way, if a customs official turns a device back on, his information is still protected.
+15. Hire private investigators to check your work.
+To make sure he didn’t make any mistakes, Mr. Lopp paid private investigators to try to find him. It was an investigator who helped him figure out that his D.M.V. registration was making him vulnerable, which led him to getting a decoy address.

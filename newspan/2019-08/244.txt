@@ -1,0 +1,29 @@
+Technology|The Week in Tech: Are You Ready for Facebook’s Future?
+The Week in Tech: Are You Ready for Facebook’s Future?
+We got a glimpse of what the social network’s privacy-first focus might look like in practice. You may not love it.
+When Mark Zuckerberg announced Facebook’s big privacy pivot, he was short on specifics. This past week, we got a glimpse at some of what he might be thinking.
+Threads, which is designed as a companion app to Instagram, invites users to automatically share their location, speed and battery life with friends, along with more typical text, photo and video messages.
+Screenshots reviewed by The Verge show an app that’s designed to promote constant, automatic sharing between users and the people on their “close friends” list on Instagram. Opt in to automatic sharing, and Threads will regularly update your status.
+Beyond the usual privacy concerns, it’s interesting to consider why automated sharing might be interesting for Facebook, as well as the impact it could have on users.
+A private Facebook means less data shared publicly, but the company will still need reams of it to power targeted ads. Reducing friction for users posting content, so apps just do it for them, is useful to the company.
+“The benefit of frictionless design for Facebook could be a limitless stream of data to analyze and mine,” said Christopher Burr, who studies the philosophical and ethical issues surrounding the impact of technology on mental health at the Oxford Internet Institute.
+Threads, if Facebook goes through with it, might not share much information automatically at first. But it could help normalize the practice for users who opt in, making it a more natural thing to do on other apps. Over time, people could start sharing more data automatically than they were originally comfortable with, d Dr. Burr said.
+Automated data sharing could change us, too. Siân Brooke, another researcher from the Oxford Internet Institute, who studies online sociology, said constant visibility on a platform like Threads could cause people to act differently.
+These kinds of worries aren’t new: They’ve been raised about features in Snapchat (a platform that Threads would clearly rival). But Snapchat has fewer than 200 million users; Instagram has one billion and Facebook over two billion. So if Mr. Zuckerberg sees this as the future of social networking, we may soon find it’s our future, too.
+The chip advances Huawei’s goal of curbing reliance on American technology — and China’s national ambition to have chip makers capable of making complex processors.
+Actually, things are more complex than that. The Ascend 910 is a cutting-edge chip, and, tellingly, it’s being produced for Huawei by the Taiwan Semiconductor Manufacturing Company, not a mainland Chinese chip manufacturer, according to ZDNet.
+The lag, Mr. VerWey explained, is down to several factors, including a historic inability to allocate funds strategically and a chronic undersupply of expertise in China. Attempts to fix both issues have so far yielded few results. In other words: There’s a long road ahead for Chinese chips.
+Superstar engineers are rarely spotted.
+But if you were to imagine such a creature, you could do worse than Anthony Levandowski: a wunderkind of self-driving who built a riderless motorcycle as a graduate student, then worked as a key member of Google’s autonomous car project (later Waymo) before setting up his own autonomous-truck company, Otto, which Uber bought for nearly $700 million in 2016.
+Phew. The guy clearly oozes innovation.
+YouTube is at peace with bad content. Its commitment to openness, wrote its chief executive, Susan Wojcicki, “sometimes means leaving up content that is outside the mainstream, controversial or even offensive.” But don’t worry: It has a new kid-friendly website!
+Facebook staff thought Cambridge Analytica was “sketchy” in September 2015, according to an email chain. Facebook said those documents held “the potential for confusion,” and maintained that it had found out only in December 2015 that data was sold to Cambridge Analytica.
+Selling American goods to Huawei is popular. More than 130 American companies applied for licenses to do it, but none have yet been granted by the Commerce Department, Reuters reported.
+Waymo’s driverless cars are improving, according to customer feedback seen by The Information. But one rider said a slow arrival had made him feel as if he were being dropped off by his dad.
+The police love Amazon’s smart doorbells. The company has teamed up with 400 police forces to help them gain access to footage from the Ring devices, The Washington Post reported.
+Uber’s “Safe Rides Fee” was a sham. The $1 charge per trip was pure margin that brought in nearly half a billion dollars, none specifically earmarked for improving safety.
+Qualcomm caught a break. It doesn’t have to modify its business practices while a federal appeals court reviews an antitrust ruling against it.
+There’s a market for body parts on Instagram. Well, human skulls anyway, Wired reported. And vendors find themselves remarkably free from red tape.
+“It is illegal to operate a drone with a dangerous weapon attached,” the Federal Aviation Administration would like to remind you. Glad we cleared that up.
+If you’re reading this on your phone, you may be holding illegally mined gold from Colombia. Our Andes bureau chief, Nicholas Casey, reports on this for “The Weekly,” The New York Times’s TV show, on FX on Sunday and on Hulu starting Monday.
+We’d love your feedback on this newsletter. Please email thoughts and suggestions |||EMAIL_ADDRESS||| .

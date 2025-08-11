@@ -1,0 +1,13 @@
+Companies use the Securities and Exchange Commission’s corporate filing system to share market-moving news with investors and the public. Getting an early peek at those filings would be very helpful to a thief.
+That was the motivation for two computer hackers who tried to penetrate the system, known as Edgar, according to an indictment unsealed on Tuesday by federal prosecutors in New Jersey.
+The authorities charged two men, both of whom are believed to be Ukrainian nationals, in a scheme to hack into the commission’s database and steal secret information that they could either trade on or sell to others.
+The scheme, prosecutors said, took place from roughly February 2016 to March 2017. Federal authorities had previously charged Mr. Ieremenko in 2015 with hacking into the databases of business newswire companies to steal corporate news releases in order to make profitable trades.
+A spokesman for Craig Carpenito, the United States attorney for New Jersey, said that neither Mr. Radchenko nor Mr. Ieremenko was in federal custody.
+The S.E.C., which has been operating with a skeleton staff because of the partial government shutdown, said in a related civil complaint that the scheme had generated about $4.1 million in illegal profits.
+In addition to Mr. Ieremenko, six individuals, most of whom have addresses in Russia or Ukraine, and two entities were also named as defendants.
+One of the defendants, David Kwon, who is charged with securities fraud, is believed to live in Los Angeles, according to the complaint. Securities regulators contend that Mr. Kwon, 44, traded at least 18 times on information stolen from Edgar. He did not respond to a request for comment.
+Another defendant listed in the commission’s complaint, Sungjin Cho, who lives in Los Angeles, is accused of making at least 66 trades. Sean Prosser, a lawyer for Mr. Cho, declined to comment on the charges.
+To gain access to the system, prosecutors said, the hackers sent so-called phishing emails to commission employees and then infected some of the agency’s computers with malware.
+The scheme targeted “test filings” that companies can submit to Edgar before actual filings that are intended to be made public. Such test filings often contain information similar to that in the actual filings.
+The criminal indictment said the defendants had stolen test filings submitted by at least five companies and then traded on the information or sold it to unnamed co-conspirators.
+Edgar has been compromised before. In 2015, the commission charged a Bulgarian man with creating a company in order to get an access code to the system. He then submitted bogus takeover bids for two companies, Avon Products and Rocky Mountain Chocolate Factory, in an effort to manipulate their stock prices.

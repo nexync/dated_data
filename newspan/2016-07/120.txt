@@ -1,0 +1,17 @@
+Jupiter’s Great Red Spot is not only big and red. It’s also hot.
+Using a telescope on Earth, astronomers peered at infrared emissions from Jupiter and found that the temperature of the upper atmosphere, 350 to 600 miles above the giant swirling storm, averages 2,500 degrees Fahrenheit.
+That finding, reported on Wednesday in a paper published in the journal Nature, is the latest piece of a puzzle that has been confusing planetary scientists since 1973 when NASA’s Pioneer 10 spacecraft flew by and took the first temperature measurements of the solar system’s biggest planet.
+By their calculations, scientists expected that the warmth of sunlight impinging on Jupiter should heat the upper atmosphere to a cool -100 degrees. Instead, the temperature was about 1,000 degrees.
+On July 4, 2016, NASA’s Juno spacecraft arrived to study Jupiter after a trip of nearly two billion miles.
+Scientists searched for something to solve this planetary “energy crisis.” An obvious suspect was Jupiter’s gargantuan auroras, the glow of charged particles accelerated along the magnetic field into the polar regions. Indeed, temperatures in the upper atmosphere at the top and bottom of Jupiter are around 1,700 degrees, fitting that explanation.
+But as displayed by Jupiter’s colorful bands, the winds on the planet blow east-west, not north-south.
+Dr. O’Donoghue and his colleagues used the NASA Infrared Telescope Facility in Hawaii to focus on emissions of a particular ion in Jupiter’s atmosphere — a clump of three hydrogen atoms that is missing an electron, making it positively charged. The brightness of the emissions tells the temperature, and over the Great Red Spot, the infrared emissions were particularly bright.
+Spinnable maps of Jupiter and the Galilean moons.
+That suggests the heat is coming from below.
+The scientists propose that the energy from the storm’s turbulence is rising in the form of sound-like waves and then crashing in the tenuous upper atmosphere. The same effect, to a smaller extent, could explain the overall heating, they said.
+“They’re producing some very plausible, if not 100 percent, convincing evidence that this is what is happening, at least above the Great Red Spot,” Dr. Miller said.
+Amy A. Simon, a senior scientist for planetary atmospheres research at NASA Goddard Space Flight Center in Greenbelt, Md., described the work as an “interesting theory.” But she added, “some caution is warranted,” because methane glows at the same wavelength, potentially producing misleading temperature readings.
+NASA’s Juno spacecraft, which arrived at Jupiter this month, will try to take a closer look at the Great Red Spot, too, but its instruments are designed more to study the deep interior of the planet, not the upper atmosphere.
+“In our opinion, it’s a huge mystery,” Michael Janssen, who leads a microwave instrument on Juno, said of the Great Red Spot. The microwave measurements will tell the temperature and amount of water and help determine how far down the storm descends into the atmosphere.
+Dr. Janssen said the storm could be driven by water pushed up in the atmosphere, condensing, forming clouds and falling back down.
+Then on Aug. 9 next year, on Juno’s 23rd science orbit, the Great Red Spot “should be within view of our instrument,” Dr. Janssen said, although that depends how far the spot drifts between now and then.

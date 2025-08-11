@@ -1,0 +1,19 @@
+Scientists report that they have discovered a way to tweak genes in the body’s immune cells by using electrical fields.
+If the technique can be replicated in other labs, experts said, it may open up profound new possibilities for treating an array of diseases, including cancer, infections like H.I.V. and autoimmune conditions like lupus and rheumatoid arthritis.
+The new work, published on Wednesday in the journal Nature, “is a major advance,” said Dr. John Wherry, director of the Institute of Immunology at the University of Pennsylvania, who was not involved in the study.
+“The proof will be when this technology is used to develop a new therapeutic product,” cautioned Dr. Marcela Maus, director of cellular immunotherapy at Massachusetts General Hospital.
+“I think it’s going to be a huge breakthrough,” he added.
+In the new study, Dr. Marson and his colleagues engineered T-cells to recognize human melanoma cells. In mice carrying the human cancer cells, the modified T-cells went right to the cancer, attacking it.
+The researchers also corrected — in the lab — the T-cells of three children with a rare mutation that caused autoimmune diseases. The plan now is to return these corrected cells to the children, where they should function normally and suppress the defective immune cells, curing the children.
+The technique may also hold great promise for treating H.I.V., Dr. Wherry said.
+The H.I.V. virus infects T-cells. If they can be engineered so that the virus cannot enter the T-cells, a person infected with H.I.V. should not progress to AIDS. Those T-cells already infected would die, and the engineered cells would replace them.
+Previous research has shown it might be possible to treat H.I.V. in this way. “But now there is a really efficient strategy to do this,” Dr. Wherry said.
+Scientists usually introduced replacement genes into T-cells with a type of virus that was disarmed so that it would not cause disease and that can insert new genes into cells. But when these viruses insert the genes into a cell’s DNA, they do so haphazardly, sometimes destroying other genes.
+The idea would be to slip a type of molecular scissors, known as Crispr, into cells that would slice open DNA wherever scientists wanted a new gene to go. That would avoid the problem of using a virus that inserts genes pretty much at random.
+And along with the scissors, they would add a piece of DNA containing the new gene to be added to the cells.
+One way to do that would be to use an electrical field to make the cells permeable. It required a herculean effort by a graduate student, Theo Roth, to finally figure out the right molecular mixture of genes, gene-editing tools and electrical fields to modify T-cells without a virus.
+“He tested thousands of conditions,” Dr. Marson said.
+“Our intent is to try to apply this as quickly as possible,” Dr. Ramsdell said.
+So when they knew they had a system that worked, did they break out the champagne? Have a party?
+Well, no, Mr. Roth said in an interview. He just took the data to Dr. Marson.
+“We certainly had an exuberant walk to Alex’s office,” he recalled.

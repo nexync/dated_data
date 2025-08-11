@@ -1,0 +1,15 @@
+A similar diagnostic technology is being developed by an Israeli chemical engineer, Hossam Haick, who was also touched by cancer.
+His smelling machine uses an array of sensors composed of gold nanoparticles or carbon nanotubes. They are coated with ligands, molecular receptors that have a high affinity for certain biomarkers of disease found in exhaled breath.
+Once these biomarkers latch onto the ligands, the nanoparticles and nanotubes swell or shrink, changing how long it takes for an electrical charge to pass between them. This gain or loss in conductivity is translated into a diagnosis.
+“We send all the signals to a computer, and it will translate the odor into a signature that connects it to the disease we exposed to it,” Mr. Haick said.
+With artificial intelligence, he said, the machine becomes better at diagnosing with each exposure. Rather than detecting specific molecules that suggest disease, however, Mr. Haick’s machine sniffs out the overall chemical stew that makes up an odor.
+It’s analogous to smelling an orange: Your brain doesn’t distinguish among the chemicals that make up that odor. 
+Mr. Haick and his colleagues published a paper in ACS Nano last December showing that his artificially intelligent nanoarray could distinguish among 17 different diseases with up to 86 percent accuracy.
+There were a total of 1,404 participants in the trial, but the sample sizes for each disease were quite small. And the machine was better at distinguishing among some diseases than others.
+In the United States, a team of researchers from the Monell Chemical Senses Center and the University of Pennsylvania received an $815,000 grant in February from the Kleberg Foundation to advance work on a prototype odor sensor that detects ovarian cancer in samples of blood plasma.
+The team chose plasma because it is somewhat less likely than breath or urine to be corrupted by confounding factors like diet or environmental chemicals, including cleaning products or pollution.
+Instead of ligands, their sensors rely on snippets of single-strand DNA to do the work of latching onto odor particles.
+In addition to these groups, teams in Austria, Switzerland and Japan also are developing odor sensors to diagnose disease.
+“I think the fact that you’re seeing so much activity both in commercial and academic settings shows that we’re getting a lot closer,” said Cristina Davis, a biomedical engineer and professor at the University of California, Davis, who also is helping to develop an odor sensor to diagnose disease.
+“My estimate is it’s a three- to five-year time frame” before such tools are available to clinicians, she added.
+The researchers may be competing intensely, but all see possibilities for saving lives.

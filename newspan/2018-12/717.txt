@@ -1,0 +1,6 @@
+The rotation of the Earth forces winds into clockwise and counterclockwise motions, depending on air pressure.
+Q. Why do winds travel clockwise around high-pressure centers and counterclockwise around low-pressure centers? Is it different in the Southern Hemisphere?
+A. Wind travels from areas of high pressure to areas of low pressure. Thus, the direction of the surface wind in a high-pressure weather system is basically outward, away from the system toward lower pressure. The wind’s direction in a low-pressure system is inward.
+In the Northern Hemisphere, the turning of the earth on its axis results in deflection of the wind to the right. This is called the Coriolis effect, after Gustave-Gaspard Coriolis, the French scientist who first described it in 1835.
+If the wind is moving inward, its deflection to the right results in a counterclockwise motion. If the wind’s motion is outward, the result is a clockwise spiral.
+The effect is the opposite below the Equator, in the Southern Hemisphere. But meteorological authorities emphasize that this effect is only reliably seen in large-scale air masses. Small whirlwinds can spin in either direction, just as water spiraling down a drain can go in either direction, no matter which hemisphere the observer is in.

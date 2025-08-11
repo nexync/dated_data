@@ -1,0 +1,23 @@
+Science|Where’s Our Warp Drive to the Stars?
+Where’s Our Warp Drive to the Stars?
+Physicists haven’t given up on the dream of zipping around the universe. Now they’ve come up with a far-out idea for making it happen.
+In the sci-fi franchise “Star Trek,” the U.S.S. Enterprise zips back and forth across the universe, propelled by a “warp drive.” Sadly for fans of space travel, that would seem to run counter to Einstein’s equations, which generally prohibit faster-than-light journeys.
+But with the hypothetical addition “exotic matter,” this sci-fi invention actually fits within the confines of Einstein’s theory of general relativity, which describes gravity and the bending of space-time by matter.
+And so physicists have been calculating and debating, to no conclusion, whether such a device could be built and used to travel to the stars.
+While general relativity’s equations can be easily written down, they are impossible to solve, except in a few special situations.
+The bubble would scrunch space in front and expand it in back, and a starship within the bubble would appear to move at a speed faster-than-light even though it remains stationary.
+For example, Alpha Centauri, the nearest neighboring star system, is 4.4 light-years away. Put a starship in a warp bubble. Shrink the distance in front of the starship to a couple of inches, expand the space behind it to 4.4 light-years and then pop the starship out of the bubble.
+Voilà! The starship arrives at Alpha Centauri, in less than the 4.4 years it would take a beam of light to travel that distance.
+The key is that relativity does not impose a speed limit on the expansion of space. “Space can expand at any speed it wants,” Dr. Alcubierre said.
+The biggest missing piece is that distorting space-time as described by Dr. Alcubierre requires something not known to exist: matter with an energy density less than zero. All known matter — stars, rocks, hot dogs, people and everything else — has a positive energy density, a consequence of E=mc².
+Normal gravity contracts space. Negative energy has the effect of antigravity, pushing space apart, which you would need for the aspect of the warp drive that expands space.
+Physics does not rule out the possibility that negative energy density can exist. Some have proposed that the Casimir effect — a strange but demonstrated phenomenon of quantum mechanics in which an empty vacuum can generate electromagnetic forces to pull objects toward one another — could be employed to generate a negative energy density.
+Even if it could be done, early calculations indicated that a warp drive would require an impossibly gargantuan amount of energy — more energy than exists in the universe. Physicists later whittled that down to more modest but still impractical amount: the equivalent of the mass of Jupiter, converted to energy.
+How much energy would be needed to bend space?
+Do space-time warping devices have to be deployed along the path of the starship, like a railroad, for it to work?
+Could the crew steer the warp bubble?
+Would coming out of warp create the equivalent of a sonic boom that would destroy the destination?
+If faster-than-light travel were possible, it could also be employed for time travel. That would violate another cherished notion of physics: causality, the notion that the future cannot change the past.
+A warp drive could turn out to be a momentary scientific mirage. As scientists further unravel the fundamental laws that govern the universe, they may discern a principle that proves it to be impossible.
+Nonetheless, some NASA scientists led by Harold G. White, a physicist at the Johnson Space Center in Houston, have played around with the concept. They say they have found a way to configure the hypothetical negative energy matter so that the warping could be accomplished with a mass equivalent to the Voyager spacecraft.
+Although Dr. Alcubierre came up with an idea for a warp drive, he is not optimistic that anyone will be boldly going where no one has gone before any time soon.

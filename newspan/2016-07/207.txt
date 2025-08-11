@@ -1,0 +1,27 @@
+Science|Fecal Transplants Can Be Life-Saving, but How?
+A fecal transplant is exactly what it sounds like: To treat certain gut disorders, doctors transfer stool from a healthy donor to a sick patient.
+Just a few years ago, only a few doctors turned to fecal transplants, typically as a last resort. But in randomized trials, the procedure has proved remarkably effective against potentially fatal infections of bacteria known as Clostridium difficile.
+The evidence has overwhelmed any squeamishness that physicians might have felt. “We’re doing this treatment almost weekly,” said Dr. Harry Sokol, a gastroenterologist at Saint-Antoine Hospital AP-HP in Paris.
+Now scientists are testing fecal transplants against such diseases as ulcerative colitis, and even obesity and diabetes. A batch of new companies, well funded with venture capital, hope to commercialize the research.
+Yet for all the excitement, scientists still know surprisingly little about why fecal transplants work.
+Writing this week in the journal PLoS Biology, Diana P. Bojanova and Seth R. Bordenstein of Vanderbilt University noted that just a gram of stool contains a staggering mix of biological material — perhaps 100 billion bacteria, 100 million viruses and a million spores of fungi.
+That gram also contains 100 million microbes known as archaea, distantly related to bacteria, as well as 10 million cells from the lining of the gut.
+“There’s a lot going on in there — it’s a whole community,” said Frederic D. Bushman, a microbiologist at the University of Pennsylvania.
+As if that weren’t complex enough, someone’s stool contains hundreds of species, and the mix varies tremendously from one person to the next.
+All this variety makes the consistent success of fecal transplants even more impressive. But how do they work?
+The bacteria in stool seem to be particularly important. Dr. Sahil Khanna of the Mayo Clinic and his colleagues isolated the spores of about 50 different species of bacteria found in stool samples donated by healthy people. They put the spores in pills, which they gave to 30 patients with C. difficile infections. As they reported in the July 15 issue of The Journal of Infectious Diseases, 29 of the patients recovered.
+Stool bacteria seem to help patients in a few different ways. “We understand, sort of, how they work,” said Dr. Vincent B. Young, an infectious diseases physician at the University of Michigan Medical School.
+In a healthy gut, different species struggle with their rivals for territory. “They have to compete for space, because it’s a nice place to be,” said Dr. Alexander Khoruts, a gastroenterologist at the University of Minnesota.
+The bacteria from a donor’s healthy gut may be superior at competing for space. They may also be able to gobble up nutrients that competing invaders like C. difficile need to survive.
+Writing last month in the journal Nature Reviews Gastroenterology & Hepatology, Dr. Khoruts and Michael Sadowsky, a University of Minnesota microbiologist, also described another way in which transplanted bacteria may fight C. difficile: chemistry.
+Our livers produce compounds called bile acids that help break down fat in the food we eat. Many species of bacteria in a healthy gut feed on bile acids, casting off byproducts that, Dr. Khoruts said, appear to slow the growth of C. difficile.
+But it’s also possible that other microbes are involved in ways that doctors just haven’t considered. “Bacteria have gotten all the limelight,” Dr. Bordenstein complained.
+Viruses, for example: Dr. Bushman and his colleagues have shown that bacteria-infecting viruses can survive the journey from donors to patients in fecal matter.
+“Maybe they’re making the bacterial community more diverse by whacking back anyone that grows out too much,” Dr. Bushman said.
+Dr. Bordenstein said he looked forward to experiments that could tease apart the benefits of each component of stool. In the end, scientists may find that a complicated mix of causes should get the credit.
+“It’s possible there is no one answer,” Dr. Sokol said.
+He and other researchers have been experimenting with fecal transplants for patients who have irritable bowel syndrome — with much less success than for C. difficile.
+It’s not clear why the technique helps some patients but not others. One possibility is that the bacteria in a transplant need to send signals to the patient’s immune system, getting it to produce less damaging inflammation.
+“It’s more a matter of dialogue,” Dr. Sokol said.
+These insights may let doctors develop safer, more effective methods to use microbes to treat a range of diseases. A pill containing just a few effective species of bacteria, viruses or other organisms might be safer than stool delivered through an enema.
+On the other hand, scientists may find that a chemical present in stool, perhaps those bile acid compounds, is powerful enough on its own to help some patients.

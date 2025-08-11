@@ -1,0 +1,37 @@
+ A Critic Says NASA Doesn’t Know.
+ A Critic Says NASA Doesn’t Know.
+How Big Are These Asteroids?
+This visualization of our solar system suggests that scientists’ guesses of the sizes of many asteroids are inaccurate.
+He has also become a statistics scold of scientists.
+His latest target is NASA, in a squabble over data from the Wide-field Infrared Survey Explorer spacecraft.
+WISE, launched in 2009, snapped images of three-quarters of a billion stars, galaxies and other celestial objects, including the heat emissions of asteroids.
+An offshoot called Neowise used the heat data to calculate the size and reflectivity of 158,000 asteroids.
+Dr. Myhrvold isn’t arguing that NASA has overlooked dangers from the known asteroids. But he does question whether scientists know as much as they think they do.
+He has also zeroed in on a proposed space-based telescope with a price tag of more than half a billion dollars, the Near-Earth Object Camera, or Neocam, a project headed by some of the same scientists whose work he is second-guessing.
+According to NASA’s scientists, the estimates of asteroid diameters made by Neowise are often within 10 percent of the actual size. But Dr. Myhrvold says the uncertainties are much greater, more than 100 percent in many cases.
+Dr. Johnson said NASA experts had pointed out errors and that Dr. Myhrvold had not fixed them. “It’s overly simplistic, and he makes some assumptions that are not valid,” Dr. Johnson said.
+Other scientists say that Dr. Myhrvold’s criticisms have merit.
+Dr. Myhrvold is not an astronomer. He had never done research on asteroids.
+During his paleontological endeavors — another hobby — he challenged research by a Florida State University professor, Gregory M. Erickson, about the growth rates of dinosaurs. In a 2013 paper, Dr. Myhrvold described the perceived statistical wrongs and stopped just short of accusing Dr. Erickson of manipulating the data.
+Corrections have been appended to several of Dr. Erickson’s papers, including two in Nature. Dr. Erickson and his colleagues maintain that the mistakes did not alter their conclusions. Florida State cleared Dr. Erickson of wrongdoing after an inquiry.
+Dr. Myhrvold was drawn into asteroids research when the B612 Foundation, a nonprofit organization that advocates planetary defense efforts, asked him to contribute money for Sentinel, a privately financed $450-million, asteroid-finding spacecraft.
+“What they didn’t know is that I had been interested in killer asteroids for a long time,” Dr. Myhrvold said. After all, an asteroid slamming into Earth is believed to have brought the age of dinosaurs to an end 66 million years ago.
+But Dr. Myhrvold learned of several other efforts, including NASA’s Neocam, which would cost about $500 million (plus the rocket to launch it), and the Large Synoptic Survey Telescope, a ground-based observatory already under construction in Chile.
+In a paper published in March in The Publications of the Astronomical Society of the Pacific, Dr. Myhrvold took a simpler approach to provide an apples-to-apples comparison. He looked at the volume of space that each telescope could observe, then calculated what fraction of unseen asteroids would pass through that space.
+Dr. Myhrvold concluded that the ground-based telescope in Chile, a $665 million collaboration of the United States Department of Energy, the National Science Foundation and other organizations, could find up to 90 percent of near-Earth asteroids if it spent more time looking low in the sky, closer to the Earth’s horizon.
+Ultimately, Dr. Myhrvold, who became wealthy from his Microsoft days, decided not to donate money to B612.
+In writing the paper published in March, Dr. Myhrvold talked with people working on the different projects, including Amy Mainzer, the principal investigator for Neocam and Neowise.
+Dr. Myhrvold said that Dr. Mainzer argued that a ground-based telescope could not detect asteroids within Earth’s orbit because they would be too close to the horizon.
+That seemed strange to Dr. Myhrvold, because even amateurs can easily spot celestial objects far inside Earth’s orbit like Venus, 26 million miles closer to the sun than Earth.
+Dr. Myhrvold said Dr. Mainzer responded that large telescopes were not designed to point that close to the ground. But the one in Chile is, he noted.
+“I was happy he pointed out there was a misconception that LSST could not see within the Earth orbit,” said Dr. Ivezic, a professor at the University of Washington.
+Dr. Chesley of NASA is coordinating a more detailed analysis of the telescope’s asteroid-finding prowess, with preliminary findings expected in late summer.
+NASA declined to make Dr. Mainzer available for an interview. Responding to written questions, she said the Neowise team stood behind the findings and that the results had been validated by independent observations and other researchers.
+It struck Dr. Myhrvold that the albedo calculations of the Neocam team violated a basic tenet of physics known as Kirchhoff’s law of thermal radiation, which says shinier objects radiate less heat.
+A simple demonstration of that, Dr. Myhrvold said, is the shiny chrome cooking surface of a restaurant hibachi grill. A dark grill surface would bathe diners in uncomfortable waves of heat. The Neocam models failed to take into account the effects of reflected sunlight, he said.
+He then took a closer look at Neowise, too. One aspect Dr. Myhrvold found curious was that in more than 100 instances, the Neowise team reported asteroid diameters that matched exactly what had previously been determined by other methods like radar measurements and spacecraft flybys. “I think it’s a pretty strong smoking gun that something is wrong,” he said.
+For her part, Dr. Mainzer said the asteroids with exact measurement matches were used for calibration and thus the values were set to those that had been previously observed.
+The asteroid community, while small, includes two unrelated scientists named Alan William Harris. The Dr. Harris at the Space Science Institute, who is 71, is known as “Al the Elder,” while “Al the Younger,” 64, is a German Aerospace Center scientist who developed the computer model used by the Neowise scientists.
+The younger Dr. Harris agrees that Dr. Myhrvold has raised a valid point about Kirchhoff’s Law and that a closer look at the Neowise analysis would be fruitful. Earlier satellites looked at longer wavelengths where reflected sunlight was less of a problem.
+Still, he disapproves of Dr. Myhrvold’s scolding tone. “There’s very much a schoolteacher attitude about it,” he said.
+Dr. Mainzer deferred answering some follow-up questions, saying those issues would be best addressed by the referees reviewing Dr. Myhrvold’s paper. “We believe at this point it’s best to allow the process of peer review — the foundation of the scientific process — to move forward,” she wrote.

@@ -1,0 +1,4 @@
+Last week, the magazine Science published a thought-provoking article about what sort of morality people would like their self-driving cars to have.
+In theory, people want machines that would try to save the greatest number of people in an accident. In practice, however, that noble sentiment might take a back seat to self-preservation, respondents to a series of surveys seemed to indicate.
+If you are the programmer of the software that runs autonomous vehicles, do you have to make the decision about who lives or dies?
+Now, a commentary in The New York Times’s Sunday Review asks a related and provocative question: Does artificial intelligence have a “white guy problem”? The piece, written by Kate Crawford, a principal researcher at Microsoft and co-chairwoman of a White House symposium on society and A.I., points out a number of embarrassing instances in which A.I. programs have made mistakes that if they were made by humans would be obvious examples of racism.

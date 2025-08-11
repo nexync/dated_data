@@ -1,0 +1,11 @@
+For all of its famed redundancy, the internet at times can appear awfully fragile.
+Two weeks ago, an Amazon employee entered an incorrect set of commands on a computer, accidentally knocking out a good chunk of the servers at an Amazon data center in Virginia.
+The mistake brought down a number of websites and internet services. It was a reminder that no company is infallible — and that technology managers should think twice before becoming too dependent on one technology provider.
+Amazon Web Services is the dominant supplier of cloud-computing services to other companies. But the shutdown, which lasted a few hours for some customers, may be a talking point for competitors like Google, Microsoft and IBM. A.W.S. still has enviable uptime — better than 99 percent. But anything short of 100 percent offers an opening to competitors.
+As we have seen in the last year, the internet services we take for granted are not built upon an unbreakable foundation. In October, a so-called distributed denial of service attack targeted an obscure New Hampshire company called Dyn, whose servers monitor and reroute internet traffic.
+The attack, which swamped Dyn’s servers with more traffic than they could handle, lasted for about a day, causing widespread disruption to websites throughout the United States.
+But at least it wasn’t caused by a typo.
+More tech news.
+Intel buys Mobileye. The $15.3 billion deal speaks volumes about Intel’s determination to make sure it can provide the computing power needed for autonomous vehicles.
+Waymo asks court to block Uber’s self-driving car project. Waymo, the self-driving car business spun out of Google’s parent company, sued Uber last month, accusing it of colluding with a former Google employee to steal crucial parts of Waymo’s technology to accelerate its development of autonomous vehicles.
+America’s most wanted cybercriminal might have helped Russia spy. While Evgeniy M. Bogachev was draining bank accounts, it appears that the Russian authorities were looking over his shoulder, grafting an intelligence operation onto a far-reaching cybercriminal scheme.

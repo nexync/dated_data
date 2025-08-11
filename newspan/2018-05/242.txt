@@ -1,0 +1,34 @@
+LONDON — Europe is about to introduce some of the toughest online privacy rules in the world: the General Data Protection Regulation, also known as the G.D.P.R. The changes aim to give internet users more control over what’s collected and shared about them, and they punish companies that don’t comply.
+The law, which goes into effect on May 25, strengthens individual privacy rights and, more important, it has teeth. Companies can be fined up to 4 percent of global revenue — equivalent to about $1.6 billion for Facebook.
+The internet’s grand bargain has long been trading privacy for convenience. Businesses offer free services like email, entertainment and search, and in return they collect data and sell advertising.
+But recent privacy scandals involving Facebook and the political consulting firm Cambridge Analytica highlight the downsides of that trade-off. The system is opaque and ripe for abuse.
+Europe is attempting to push back.
+It’s too early to know how effective the law will be, but it is being closely watched by governments globally.
+Will the internet look different?
+Supporters of the law say it will bring sweeping changes to how companies operate online, but in reality, the effect on your internet experience will be minimal. An American visiting Europe, for example, isn’t likely to see a difference.
+If you live in one of the European Union’s 28 member states, there is one change you may welcome — you are likely to see fewer of those shoe or appliance ads that follow you around the internet after you do some online shopping.
+As e-commerce became commonplace, a cottage industry sprang up to track people around the web and nudge them back to online stores to complete a purchase. Advertisers call these ads “fine tuned,” but most people consider them creepy, said Johnny Ryan, a researcher at PageFair, which makes tools to help companies work around ad-blocking software.
+Mr. Ryan said the new rules would make it harder for ad-targeting companies to collect and sell information.
+The new law requires companies to be transparent about how your data is handled, and to get your permission before starting to use it. It raises the legal bar that businesses must clear to target ads based on personal information like your relationship status, job or education, or your use of websites and apps.
+That means online advertising in Europe could become broader, returning to styles more akin to magazines and television, where marketers have a less detailed sense of the audience.
+Some of the tools companies develop to comply with the G.D.P.R. might be made available to users whether they live in Europe or not. Facebook, for example, announced in April that it would offer the privacy controls required under the new law to all users, not just Europeans.
+Even if you don’t notice big changes, the new law provides important privacy rights worth knowing about.
+For instance, you can ask companies what information they hold about you, and then request that it be deleted. This applies not just to tech companies, but also to banks, retailers, grocery stores or any other organization storing your information. You can even ask your employer.
+And if you suspect your information is being misused or collected unnecessarily, you can complain to your national data protection regulator, which must investigate.
+Of course, an individual going up against a giant corporation like Google or Facebook isn’t in a fair fight. The law has 11 chapters and 99 sub-articles, and just initiating a case can take as many as 20 steps, according to the International Association of Privacy Professionals, an industry trade group.
+But the new rules allow people to band together and file class-action style complaints, a legal approach that hasn’t been as common in Europe as in the United States. Eager to exploit the new law, privacy groups are planning to file cases on behalf of groups of individuals. The hope is that a few successful lawsuits will have a ripple effect and lead companies to tighten up how they handle personal data.
+The new law also ensures that you cannot be locked in to any service. Companies must make it possible for you to download your data and move it to a competitor. That could mean moving financial information from one bank to another, or transferring Spotify playlists to a rival streaming service.
+What’s with all these privacy notices?
+In the weeks before the law goes into force, internet users have been receiving a stream of privacy policy updates in their inboxes — grocery store loyalty programs, train services, even apps that parents use for youth soccer all have to set out what data they gather from you, and how they handle it.
+The law requires that the terms and conditions be written in plain, understandable language, not legalese. Companies must also give you options to block information from being gathered.
+But the deluge of emails is leading to concerns that users are agreeing without taking a closer look.
+A similar reaction came after the European Union required companies, starting in 2011, to put warnings on websites alerting users that they were being tracked. The rules have led to so many pop-up disclosure boxes that people often consent just to make the warnings disappear.
+Companies argue that they are being careful to comply with General Data Protection Regulation, but Giovanni Buttarelli, who oversees an independent European Union agency that advises on privacy-related policies, has been unimpressed.
+He has criticized the wave of privacy policy emails as being posed in a “take it or leave it” manner that leaves users thinking they have to accept the terms in order to keep using a service, rather than letting people choose what information to share.
+Mr. Buttarelli said the messages may violate the “spirit” of the law.
+That may be an unsatisfactory answer, but the long-term effects of the new law won’t be known for years.
+Much will depend on how strictly national regulators enforce the rules, and how they use their tight budgets. Data-protection agencies in each European Union country will be in charge of policing the companies that have European headquarters within its borders.
+That oversight structure is leading to concerns that officials in countries such as Ireland, where Google, Facebook, Microsoft, Twitter and many other data-heavy companies are based, will be overmatched.
+There’s also the possibility that the new regulations could help strengthen giants like Facebook and Google by making it harder for potential competitors to enter the market.
+A lot of responsibility also falls on you to keep tabs on how companies use your data.
+The General Data Protection Regulation provides ways to take action if your information is being misused. But the question is whether people care enough, or if trading privacy for convenience remains a worthwhile deal.

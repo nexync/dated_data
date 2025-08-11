@@ -1,0 +1,33 @@
+It used to be that a handwritten letter was the only way to get in touch with Santa. Now he’s reachable by email, text and even video chat. But who, exactly, is on the other end of the line?
+When Alan Kerr’s daughters confessed that they no longer believed in Santa Claus, he shared a confession of his own.
+Mr. Kerr, an economist by training who has worked for the Canadian government, is the man behind emailSanta.com, a website featuring giggling elves and a sparkly cursor that offers games, quizzes and the option to send a message to the North Pole.
+Each year, more than a million messages reach Mr. Kerr’s home office in Calgary, he said, mostly asking for puppies, bikes and, more recently, iPhones. In some of the messages, however, children reveal hardships like being bullied at school or struggling with an illness.
+And within a few moments — thanks to a software program that identifies keywords in the message, including location, age and level of “goodness” — the sender receives a personalized message from Santa, noting the puppy request or address change, and offering words of encouragement or ways to get help.
+Since Mr. Kerr started the website during a nationwide postal strike in 1997, however, his customers have gotten savvier, he said, and demand more proof that Santa knows who is on the other end of the connection.
+Now his software is powered by thousands of lines of code that better anticipate the kinds of questions, thoughts and feelings that may come in. He also offers video messages, a live Santa tracker on Christmas Eve and, for pets, responses from Rudolph.
+Yes, Virginia, children still handwrite wishes to the North Pole and whisper them into Santa’s ear at the mall. But today’s insta-culture demands responses faster than Santa’s sleigh.
+While some attempts at digitizing Santa have failed spectacularly (a Microsoft chat bot was shut down in 2007 after it started talking dirty), a growing number of companies are making renewed attempts to connect children with Santa via text message, email and video chat.
+In the old days, only parents were listening in on these conversations, and Santa Claus was not in the business of collecting data. Now there are new rules of engagement around privacy and security for parents, children and even Santa himself.
+Portable North Pole, one of the most popular Santa sites and mobile apps, lets parents personalize videos for their child by choosing from a number of scenarios at Santa’s workshop, aboard his sleigh or inside the traffic control center.
+But in order to keep the magic alive, he said, parents are asking for more elaborate features to make the experience believable, such as Santa calling the child while he or she is watching the video.
+According to Mr. Bérard, the trickiest part is saying the child’s name correctly. Drawing on its enormous database of given name pronunciations, the company has a 98 percent success rate, he said.
+Last year, the company created 23 million personalized messages worldwide, some of which were filmed with a Santa Claus from a village near the North Pole.
+So far this holiday season, the company has produced about 1.5 million messages for customers in the United States alone, and 8.5 million more internationally Mr. Bérard said.
+Each year, he said, the site is audited by the Federal Trade Commission, which enforces the Children’s Online Privacy Protection Rule, a federal privacy law that protects personally identifiable data concerning children under 14.
+Mr. Bérard said the site doesn’t sell any data to third parties.
+“We keep it for ourselves for the next season,” he said.
+In all, about 300 men from a professional Santa school will be hired this year for the video calls. All the company’s Santas have passed a full background check, Mr. LoPorto said, and have taken additional training to smooth their moves for the camera.
+Before signing on, parents fill out a lengthy questionnaire about their child’s favorite song, recent spelling bee wins, whether she is actually picking up after a pet, and other good or bad behaviors that Santa would be watching out for.
+“The more that Mom fills out, the more fun Santa can have with the child,” Mr. LoPorto said.
+The site’s privacy policy is lengthy. The site also uses a secured Amazon web server, Mr. LoPorto said, and makes the videos available for download for the people on the call, in compliance with children’s online privacy rules.
+The Better Business Bureau has not recently received complaints about sham companies offering letters from Santa, according to Katherine R. Hutt, a spokeswoman for the nonprofit.
+But that doesn’t necessarily mean they aren’t out there, she added.
+“One of the concerns about shady letter companies is that they may not be ripping off parents today but rather stealing children’s identity, which parents may not notice for years (if ever),” Ms. Hutt said in an email.
+The bureau suggests being cautious of any site or service that requires personally identifiable information that could be used for identity theft, adding that parents should never share a child’s birth date.
+“The real problem is that it’s very difficult, particularly in the United States, to effectively track the collection and use of data about your kids,” said Marc Rotenberg, who is the executive director of the Electronic Privacy Information Center, a nonprofit research group.
+“The profiles that companies generate from kids talking about Christmas presents in 2019 will follow those children for many, many years into the future,” he said.
+Mr. Kerr, the Santa in Calgary, said he operated emailSanta.com based on the golden rule of how he would want his daughters to be treated by a website.
+He discourages children from including their surnames, and does not collect or sell personal information, he said, pointing to the site’s privacy policy. There is only one instance in which he will share information: if he senses a child is in danger.
+Each year, he said, he refers about half a dozen cases of possible child abuse or neglect to law enforcement agencies.
+“Kids say things to Santa they don’t tell anyone else,” he said.
+Jack Begg contributed research.

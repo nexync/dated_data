@@ -1,0 +1,25 @@
+Health|Why Is This Bacterium Hiding in Human Tumors?
+Why Is This Bacterium Hiding in Human Tumors?
+A mysterious bacterium found in up to half of all colon tumors also travels with the cancer as it spreads, researchers reported on Thursday.
+Whether the bacterium, called Fusobacterium nucleatum, actually plays a role in causing or spurring the growth of cancer is not known. But the new study, published in the journal Science, also shows that an antibiotic that squelches this organism slows the growth of cancer cells in mice.
+Scientists are increasingly suspicious that there may be a link: another type of bacteria has been discovered in pancreatic cancer cells. In both types of cancer, most tumors host bacteria; however, only a small proportion of the cells in any single tumor are infected.
+“The whole idea of bacteria in tumors is fascinating and unexpected,” said Dr. Bert Vogelstein, a colon cancer researcher at Johns Hopkins.
+The colon cancer story began in 2011, when Dr. Matthew Meyerson of the Dana-Farber Cancer Institute and Dr. Robert A. Holt of Simon Fraser University in British Columbia independently reported finding Fusobacteria, which normally inhabit the mouth, in human colon cancers.
+That instigated a rush to confirm. Researchers around the world reported finding Fusobacteria in colon cancers, but their work only raised more questions. The new paper, by Dr. Meyerson and his colleagues, provides some answers.
+The group looked at human colon cancers that had spread to the liver. The liver tumors were surgically removed and examined as long as two years after the patient’s initial colon cancer surgery.
+The tumors that had been infected with Fusobacteria in the colon continued to be infected even after spreading to the liver, the researchers found. Liver cancer cells containing the bacteria did not appear to be newly infected, Dr. Meyerson said.
+Colon tumors that did not originally have the bacteria did not have them after spreading to the liver. The researchers also looked for the bacteria in cancers that arose first in the liver, not in the colon. They found none.
+“It’s kind of amazing that the bacteria are such an integral part of the cancer,” he added.
+Dr. Meyerson and his colleagues also transplanted human colon cancers into mice. The cancers grew. The scientists plucked out pieces of the tumors and transplanted them to other mice, where once again they grew.
+The researchers did this repeatedly, moving the cancers through four generations of mice. The Fusobacteria remained with the cancers.
+Yet when they treated the mice with an antibiotic — metronidazole — that kills Fusobacteria, the tumors grew much more slowly. As a control, the researchers treated some mice with erythromycin, an antibiotic that Fusobacteria resist. Tumor growth was unaffected.
+So should colon cancer patients whose tumors contain Fusobacteria take metronidazole? Should scientists be racing to develop a vaccine against Fusobacteria to prevent colon cancer?
+Not so fast, said Emma Allen-Vercoe of the University of Guelph, who is studying the bacterium’s role in colon cancer.
+The problem with antibiotics is that they kill lots of bacteria, not just Fusobacteria. The other species may be important, Dr. Allen-Vercoe said, and may even slow the progression of colon cancer.
+“We don’t know enough yet to be able to predict the effects of a given antibiotic, and since everyone has a different gut microbiota, such a therapy will likely be hit and miss,” she said.
+Another problem, said Dr. Holt, is that patients would have to take the antibiotic indefinitely, because Fusobacteria are constantly being reintroduced into the mouth. If a person stopped antibiotic treatment, the bacteria could once again get into their tumor cells.
+Dr. Vogelstein suggests that instead of directly causing cancer, Fusobacteria might be altering patients’ immune response — and perhaps their response to treatments that use the immune system to destroy cancers.
+Alternately, perhaps the bacteria are acting more directly by secreting chemicals that spur growth in nearby cancer cells, Dr. Relman said.
+“It is not unreasonable to say Fusobacterium is promoting or contributing to colon cancer,” he said.
+Are Fusobacteria guilty of causing cancer? If this were a criminal case, where the jury had to be convinced beyond a reasonable doubt, Dr. Meyerson said he would have to acquit.
+But if it were a civil case, judged on the preponderance of the evidence, his vote would be different: Fusobacteria are guilty.

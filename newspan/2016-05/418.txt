@@ -1,0 +1,31 @@
+In a promotional video, Otto, a start-up led by former Google engineers, demonstrates how its autonomous long-haul trucks take to the road.
+SAN FRANCISCO — Imagine you are driving on a highway late at night when a big-rig truck closes in behind you. You relax because it is keeping a safe distance and seems to be obeying the speed limit. Now imagine that truck is driving itself.
+Despite Silicon Valley’s enthusiasm for self-driving cars, it could be years before there are many of them on the road. But autonomous 18-wheelers? One start-up is betting that is a different matter.
+That start-up is Otto, led by 15 former Google employees, including eight engineers. Among its staff members are major figures from Google’s self-driving car and maps projects, and it is aiming at the long-haul freeway driving that is the bread and butter of the commercial trucking industry.
+The engineers think that automating trucks rather than passenger vehicles could be more palatable financially and to regulators. Nationally, trucks drive 5.6 percent of all vehicle miles and are responsible for 9.5 percent of highway fatalities, according to Department of Transportation data.
+Adding self-driving technology — at least as it stands now — into regular passenger cars could make them absurdly expensive for anyone without the cash of a Silicon Valley mogul. Until recently, the laser sensor used on the Google car project cost $75,000.
+Those costs are coming down, but it will be some time before they have a realistic price for consumers. But a new, big tractor-trailer truck can easily cost more than $150,000, so the added cost of robotic features could make more sense.
+In addition, it could make trucking more efficient, allowing, for example, a human driver to rest in the sleeper cabin while the truck takes the wheel.
+Still, automating commercial driving is controversial and — potentially — a job killer.
+There are more than three million truck drivers in the United States, according to the American Trucking Associations, and about one in every 15 workers in the country is employed in the trucking business.
+There is concern that if commercial trucking is completely automated, it would be economically devastating for small towns in America that thrive from supporting the long-haul trucking industry.
+“The removal of truckers from freeways will have an effect on today’s towns similar to the effects the freeways themselves had on towns decades ago that had sprung up around bypassed stretches of early highways,” wrote Scott Santens, an independent researcher, in a blog post last year.
+Autonomous vehicles have in recent years become one of the tech industry’s favorite projects. Uber sees them as a way to stop dealing with its pesky drivers. Tesla, along with other car manufacturers, sees autonomous technology as an important safety feature to help human drivers.
+Even Apple is thought to be working on some sort of self-driving car tech.
+Google, in particular, has aggressively advocated and developed autonomous vehicle tech, and its self-driving cars are regularly seen on Bay Area roads. The company also announced a deal earlier this month with Fiat Chrysler to install its technology in a fleet of minivans.
+Since the Google car and map veterans, Anthony Levandowski and Lior Ron, founded Otto in January, the company has expanded to 41 employees and has been test-driving three Volvo trucks, logging in more than 10,000 miles.
+Over the weekend, Otto tested a self-driving truck in Nevada.
+Mr. Levandowski achieved some celebrity in 2004 while he was an industrial engineering graduate student at the University of California, Berkeley. He designed a self-driving motorcycle, stabilized by a gyroscope, that was entered in the Pentagon’s first autonomous vehicle contest. Later, his start-up, 510 Systems, was acquired by Google when it began its self-driving car project.
+He said that he had decided to leave Google because he was eager to commercialize a self-driving vehicle as quickly as possible.
+“Google is very focused on doing what they’re doing and I felt that it was time to see something come to market and I really liked the idea of bringing trucks to market,” he said.
+Mr. Ron, Otto’s co-founder, is also a veteran Google software engineer. With a background in Israeli Army intelligence, he was originally the lead engineer for Google Maps.
+He also worked in the company’s Motorola mobile phone business for three years and then in its secretive robotics research effort.
+But start-up life isn’t like working for Google on its bucolic Silicon Valley campus.
+Otto has set up shop in a rickety auto garage, close to a freeway entrance in San Francisco’s South of Market neighborhood. But the new office has enough space to house the firm’s three new Volvo trucks, which have been equipped with cameras, radars, and spinning laser sensors known as Lidar.
+It is basically the same sensor array used on prototype vehicles being developed by Google, Nissan, Baidu and others. But Mr. Levandowski said that costly commercial trucks gave his designers more freedom to add high-quality sensors.
+Otto will offer its technology as an upgrade that a long-haul truck owner could purchase, or perhaps as a service a trucking operator could subscribe to.
+Even as their technology progresses, Otto still faces a regulatory maze and plenty of competition.
+A Silicon Valley start-up called Peloton is focusing on truck convoys for fuel efficiency. Last year, Daimler Trucks North America demonstrated a self-driving truck in Nevada. Volvo and other truck manufacturers have also held autonomous freeway driving demonstrations in Europe.
+California motor vehicle regulations prohibit Otto’s vision of a truck traveling on the freeway with only a sleeping driver in the cab, for example. But many states would permit that technical advance.
+“Right now, if you want to drive across Texas with nobody at the wheel, you’re 100 percent legal,” said Mr. Levandowski, who as a Google engineer, helped write draft legislation that permitted self-driving vehicles, which later became law in Nevada.
+The company is initially aiming for the owner-operators market — truck drivers who own their own rigs and would be able to increase their productivity by sleeping during long-haul trips and dispensing with the need for a second driver.

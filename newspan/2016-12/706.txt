@@ -1,0 +1,14 @@
+Law firms that advise on mergers once had to worry about a rogue employee trading on deal tips. Now, they have to worry about hackers doing the same.
+Federal prosecutors in Manhattan have charged three Chinese citizens with making more than $4 million by trading on information they got by hacking into some of the top merger-advising law firms in New York. The three men targeted at least seven New York law firms to try to obtain information about deals in the works, according to an indictment unsealed on Tuesday.
+The men were successful in hacking two firms, stealing emails of partners who work on mergers, prosecutors said. The three then bought shares of target companies, selling them after the deals were announced, prosecutors said.
+Shares of targets in most such transactions tend to trade higher when a deal is announced because they are usually purchased for more than their market price.
+Hackers’ ability to breach the defenses of big law firms in search of confidential information about corporate clients — including tips about coming mergers and acquisitions — has long been a concern of federal authorities. Most major law firms have played down the threat posed by hackers and have been reluctant to discuss breaches or even attempted breaches.
+The law firms were not identified in the indictment or in a parallel civil complaint brought by the Securities and Exchange Commission.
+Cravath did not immediately respond to phone calls and emails seeking comment on Tuesday.
+“Law firms have been identified as the weakest link, and it is great to see the U.S. attorney taking an interest,” said Daniel Garrie, a law firm security consultant.
+The three men charged with insider trading and hacking are Iat Hong, Bo Zheng and Chin Hung, the United States attorney’s office and the Federal Bureau of Investigation said. Mr. Hong, a resident of Macau, was arrested in Hong Kong on Christmas.
+The indictment and the S.E.C. complaint detailed a number of major deals in which confidential information had been retrieved.
+One law firm was hacked in connection with the sale of Intermune, an American drug maker, to Roche of Switzerland, and the sale of Altera, a circuit manufacturer, to Intel. In both cases, the three men entered the law firm’s servers after unlawfully obtaining an employee’s credentials. They then installed malware on the law firm’s web server, prosecutors said, enabling them to obtain information about live deals, including the price at which they were being negotiated.
+The three successfully penetrated the servers of another law firm to obtain details about the acquisition by Pitney Bowes of Borderfree, prosecutors said.
+Lawyers for the three men could not immediately be located.
+The three were also involved with a start-up robotics company that was developing controller chips and control system solutions. They were accused of having sought confidential information like proprietary designs from two other robotics companies.

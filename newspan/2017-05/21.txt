@@ -1,0 +1,15 @@
+SAN FRANCISCO — Cybersecurity has been in the news seemingly nonstop, including the hacking of the Democratic National Committee and the ransomware attack this weekend that took aim at computer systems worldwide.
+In other words, it’s not a bad time for a security specialist to be raising money.
+CrowdStrike, the provider of digital security that aided the D.N.C. in its response to what is believed to be interference by Russia, announced on Wednesday that it had raised $100 million in capital.
+The new money values the company at close to $1 billion, not including the investment itself, and brings its total fund-raising to $256 million.
+It is the latest indication that investors remain intensely interested in online security. Last year, there were more than 400 investments in the sector, up about 6 percent from 2015, totaling nearly $3.5 billion, according to data from CB Insights. Four start-ups in the field raised at least $100 million each in new rounds.
+That has meant more work for CrowdStrike. The company, founded by two former executives of the computer security provider McAfee, has argued that relying on systems that run on cloud computing rather than those installed on customers’ devices means smarter defenses and faster responses.
+Since its start, CrowdStrike has taken what Mr. Kurtz likens to a Salesforce-like modular approach to systems: plenty of options for customers.
+The new round of money comes as the six-year-old company undergoes rapid growth. CrowdStrike said subscriptions had grown 476 percent in the last year. It says more than 10 percent of the Fortune 1,000 are customers.
+The company also now has more than 650 employees around the world.
+Much of that growth, Mr. Kurtz said, came from word of mouth as customers praised the company’s offerings. But the company’s role in helping the D.N.C. “certainly raised our profile and awareness,” he said.
+Mr. Kurtz said that CrowdStrike had already raised $100 million in the summer of 2015. But even though it did not need the additional capital, it began seeking new funds about three months ago, he said.
+An existing investor, the venture capital firm Accel, led the new round. Other participants include other existing investors like CapitalG, an arm of Google’s parent company, and Warburg Pincus, the private equity firm, as well as newcomers like March Capital Partners and Telstra, a telecommunications provider in Australia.
+Accel chose to spearhead the round because of CrowdStrike’s promise as a leader in enterprise security, Sameer Gandhi, a partner at Accel, said in a news release.
+The new infusion of cash will go toward geographical expansion and the development of additional products as well as potentially for small acquisitions. At the same time, it must shore up its competitive position against rivals, all of which are pitching similar cloud-based offerings.
+Mr. Kurtz said that the company was committed to increasing its market share, rather than going public or preparing itself for a sale.

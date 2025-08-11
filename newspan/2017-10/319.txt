@@ -1,0 +1,34 @@
+Three European-born scientists were awarded the Nobel Prize in Chemistry on Wednesday for developing a new way to assemble precise three-dimensional images of biological molecules like proteins, DNA and RNA.
+Their work has helped scientists decipher processes within cells that were previously invisible, and has led to better understanding of viruses like Zika. In the future, their techniques could offer road maps in the development of drugs to treat diseases.
+The winners are Jacques Dubochet, a retired biophysicist at the University of Lausanne in Switzerland; Joachim Frank, a professor at Columbia University in New York; and Richard Henderson, a scientist at the British Medical Research Council’s Laboratory of Molecular Biology in Cambridge, England.
+Dr. Henderson said during a news briefing in Cambridge that he was delighted to share the prize.
+He was at a conference listening to a talk when he was called by the Swedish Academy of Science, which administers the prizes.
+He also recognized others who had contributed to the technique’s development.
+Dr. Frank received his phone call at 5:18 a.m. New York time. He said recently his dog has been barking earlier and earlier in the morning, waking up him and his wife. “This time it was not the dog,” he said.
+Figuring out the shape of proteins and other biological molecules is crucial to understanding their functions. The structure of a virus, for instance, gives essential clues to how it invades a cell.
+For decades, the main method for studying protein structure was stacking many copies of a protein into a crystal, bouncing X-rays off the crystal and then deducing the protein shape using the patterns of X-ray reflections.
+But many proteins, especially those embedded in the outer membranes of cells, are too floppy or disordered to crystallize.
+How eight winners got the word.
+Dr. Henderson started his career as an X-ray crystallographer, but stymied by the limitations, he turned to a different instrument: the electron microscope.
+Electron microscopes, invented in 1931, use a beam of electrons to produce images with a finer resolution than what is possible with a conventional microscope. But they operate in a vacuum where biological samples dry out. The bombardment of electrons also damaged the molecules.
+The particular protein that Dr. Henderson and his colleagues wanted to study was embedded in the cell membranes of a photosynthesizing organism, and they used a coating of glucose solution to prevent it from drying out.
+They also turned down the intensity of the electron beam and took advantage of the regular arrangement of the proteins in the membrane. That allowed Dr. Henderson, in 1975, to reconstruct the shape of the protein from the scattering of the electrons, almost the same mathematical analysis he had used for X-ray crystallography.
+For most proteins, scientists could not rely on a protein being embedded in a regular pattern, all oriented in the same direction.
+In the 1970s and 1980s, Dr. Frank came up with the next advance honored by the Nobel committee. He recorded images of thousands or millions of copies of a protein at one-time, scattered in random orientations.
+A computer grouped together similar images — the proteins that were in similar orientations — figured out how they were arranged and combined them to produce a sharper result. The many orientations essentially offered views of the same molecule from different angles. He was also able to put together three-dimensional shapes.
+Dr. Dubochet, of the University of Lausanne, Switzerland, invented the “cryo” part of cryo-electron microscopy. “He’s the real father of the field,” Dr. Henderson said.
+Embedding the molecules in ice would also protect them from drying out. But in ice, water molecules usually stack into a crystal shape, and the bouncing of electrons off the ice crystals in a frozen sample yielded useless images.
+To overcome this problem, Dr. Dubochet dipped the samples in liquid nitrogen-cooled ethane. At minus 321 degrees Fahrenheit (minus 196 Celsius), an ultrathin layer of water molecules froze so quickly that they had no time to line up in crystals, and they solidified into a glass-like structure. That enabled the electron microscope technique to view the embedded molecules instead of the ice.
+Advances in the detectors of electron microscopes now provide enough clarity to pinpoint each and every atom in the molecules. The blobby protein that Dr. Henderson originally imaged in 1975 can now be studied precisely.
+The technique is already driving some scientific advances. Last year, scientists were able to use cryo-electron microscopy to analyze the structure of the Zika virus, the mosquito-borne virus that causes birth defects.
+“We could never have done that with crystallography on its own,” said Michael Rossmann, a professor of biological sciences at Purdue University in Indiana who led the research that produced the Zika structure.
+He said that he and his colleagues have identified sites on the virus where antibodies can attach and disable Zika. That could lead to the development of antiviral drugs.
+The same technique was used to figure out the structure of proteins involved with circadian rhythms, advances that were recognized with this year’s Nobel Prize in Medicine.
+Only a small number of institutions can perform cryo-electron microscopy. The microscope apparatus costs millions of dollars. Dr. Henderson likened the technique to DNA sequencing — once laborious and costly, now commonplace and affordable.
+He imagined that the same will happen for biologists wanting to know the structure of a protein. “You send it off, teatime, and the next morning, you get the structure back by email,” he said.
+Dr. Frank, 77, was born in Germany and is now a citizen of the United States. He is a professor of biochemistry and molecular biophysics Columbia University in New York. He was also an investigator for the Howard Hughes Medical Institute and a member of the National Academy of Sciences. In 2014, he received the Benjamin Franklin Medal in Life Science from the Franklin Institute in Philadelphia.
+Dr. Henderson, 72, was born in Scotland and is a British citizen. He has worked at the British Medical Research Council’s Laboratory of Molecular Biology in Cambridge since 1973. He served as the laboratory’s director from 1996 to 2006.
+Who won the 2016 Chemistry Nobel?
+Jean-Pierre Sauvage, J. Fraser Stoddart and Bernard L. Feringa were recognized for their development of nanomachines, made of moving molecules, which may eventually be used to create new materials, sensors and energy storage systems.
+■ The Nobel Prize in Literature will be announced on Thursday in Sweden. Read about last year’s winner, Bob Dylan.
+■ The Nobel Memorial Prize in Economic Science will be announced on Monday, Oct. 9, in Sweden. Read about last year’s winners, Oliver Hart and Bengt Holmstrom.

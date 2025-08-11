@@ -1,0 +1,47 @@
+A “drug repurposing” strategy uncovers dozens of compounds that have the unexpected potential to combat the virus.
+In the early 1950s, psychiatrists began treating schizophrenia with a new drug called chlorpromazine. Seven decades later, the drug is still used as an anti-psychotic.
+But now scientists have discovered that the drug, also known as Thorazine, can do something entirely different. It can stop the new coronavirus that causes Covid-19 from invading cells.
+Driven by the pandemic’s spread, research teams have been screening thousands of drugs to see if they have this unexpected potential to fight the coronavirus. They’ve tested the drugs on dishes of cells, and a few dozen candidates have made the first cut.
+They’re startlingly diverse. Some, like chlorpromazine, have been used for years — not for viral infections, but for conditions including cancer, allergies, arthritis, even irregular menstrual periods. Other drugs have not yet been approved by the Food and Drug Administration, but they have already proven safe in clinical trials. Their track records might help them get approved faster than a drug designed from scratch.
+As researchers publish findings on these promising drugs, they’re starting tests on animals and people to see how well they perform. No one should try self-medicating with any of the drugs for Covid-19, the researchers warned, since they may have dangerous side effects and have yet to be proven effective in clinical trials.
+The strategy Dr. Chanda and other researchers are using is known as drug repurposing. It has a history that started decades before Covid-19 appeared. In 1987, for example, the cancer drug zidovudine became the first F.D.A.-approved drug against H.I.V.
+The most obvious drugs to repurpose against the new coronavirus are those that work against other viruses. One high-profile antiviral being investigated is remdesivir, which Gilead Sciences previously tested — unsuccessfully — as an antiviral against Ebola.
+On Wednesday, Dr. Anthony S. Fauci, the federal government’s leading infectious diseases scientist, announced that a clinical trial showed that remdesivir may reduce the mortality rate of Covid-19 and can shorten the duration of the illness.
+But over the years, researchers have found some drugs that originally had nothing to do with viruses turn out to be good antivirals, too. It’s just hard to tell in advance which ones have this hidden power.
+“We don’t know a lot about why drugs do what they do,” said Matthew Frieman, a virologist at the University of Maryland School of Medicine.
+In 2012, another coronavirus disease known as MERS emerged in the Middle East. Dr. Frieman responded by starting a drug-repurposing study. He and his colleagues tested 290 F.D.A.-approved drugs and found that 27 of them blocked the MERS virus from infecting cells. They also proved effective against the related coronavirus that causes SARS.
+Dr. Frieman and his colleagues have now tested those drugs against the new coronavirus, and made a preliminary report that 17 of them showed promise. Along with chlorpromazine, they include drugs for disorders as varied as Parkinson’s disease and leukemia.
+The virus injects a tiny but remarkably complex strand of RNA into infected cells.
+Recently, Dr. Chanda’s team in California began a mammoth search of their own for drugs to repurpose for Covid-19. They doused infected cells with 13,000 compounds and looked for ones that slowed down the virus. They then narrowed down these candidates by reducing their doses, in order to mimic the levels that would end up in a patient’s lungs.
+On April 17, Dr. Chanda’s team reported in a preprint, which has not yet been peer-reviewed by a journal, that six drugs showed particular promise, including one for osteoporosis and one that’s been investigated as treatment for arthritis.
+Yet another team has been trying to find drugs that work against coronavirus — and also to learn why they work.
+The team, led by Nevan Krogan at the University of California, San Francisco, has focused on how the new coronavirus takes over our cells at the molecular level.
+The researchers determined that the virus manipulates our cells by locking onto at least 332 of our own proteins. By manipulating those proteins, the virus gets our cells to make new viruses.
+Dr. Krogan’s team found 69 drugs that target the same proteins in our cells the virus does. They published the list in a preprint last month, suggesting that some might prove effective against Covid-19.
+The researchers shipped the compounds to the Icahn School of Medicine at Mount Sinai in New York and at the Pasteur Institute in Paris. Those labs tried them out on infected cells.
+Brian Shoichet, a pharmaceutical chemist at U.C.S.F. who helped build the list, was keenly aware of how often drug repurposing fails.
+“I wasn’t that hopeful at all,” he said.
+It turned out that most of the 69 candidates did fail. But both in Paris and New York, the researchers found that nine drugs drove the virus down.
+“The things we’re finding are 10 to a hundred times more potent than remdesivir,” Dr. Krogan said. He and his colleagues published their findings Thursday in the journal Nature.
+Strikingly, the drugs hit only two targets.
+One group temporarily stops the creation of new proteins inside cells. This group includes molecules that are being tested as cancer drugs, such as ternatin-4 and Zotatifin.
+Dr. Shoichet speculated that these compounds starve the virus of the proteins it needs to make new copies of itself. This attack may suddenly halt the viral production line.
+“Viruses are actually delicate beasts,” he said.
+The other compounds home in on a pair of proteins known as Sigma-1 and Sigma-2 receptors. These receptors are part of the cell’s communication network, helping the cell withstand stress in its environment.
+Why does the new coronavirus need to manipulate Sigma receptors? “We don’t really know,” Dr. Shoichet said.
+One possibility is that the virus uses Sigma receptors to make a cell produce more of the oily molecules that form membranes for new viruses.
+Among the substances that act on Sigma receptors and block the virus, the researchers found, are the hormone progesterone and the drugs clemastine and cloperastine, both used against allergies.
+In addition, Dr. Krogan said that all of Dr. Frieman’s candidates, including chlorpromazine, target Sigma receptors. A third of Dr. Chanda’s candidates do too, he said.
+The researchers also tested dextromethorphan, a Sigma-receptor-targeting drug in many brands of cough syrup. They were surprised to find that, at least in their cell samples, it actually made infections of this coronavirus worse.
+The anti-malaria drugs chloroquine and hydroxychloroquine act on the Sigma receptor. Dr. Krogan’s team found that they also fought the virus in cells. Those compounds were extolled by President Trump for weeks despite no firm evidence they actually helped cure Covid-19.
+Dr. Frieman and Dr. Chanda also found that chloroquine-related drugs worked fairly well in slowing the virus in cell cultures. But Dr. Chanda found they didn’t work as well as the six compounds at the top of his list.
+Dr. Chanda expressed skepticism about the chloroquine drugs, noting their failure against other viruses.
+Last week, the F.D.A. issued a warning against using hydroxychloroquine or chloroquine for Covid-19 outside the hospital setting or a clinical trial. That’s because the drug has a well-known risk for causing irregular heart rhythms.
+In their new study, Dr. Krogan and his colleagues ran an experiment that might explain this risk at the molecular level.
+They found that chloroquine and hydroxychloroquine bind not just to Sigma receptors, but to a heart protein called hERG, which helps control heartbeats.
+Dr. Krogan and his colleagues found that other compounds target Sigma proteins in a more promising way.
+An experimental anticancer compound called PB28 is 20 times more potent than hydroxychloroquine against the coronavirus, for example. But it’s far less likely to grab onto the hERG protein.
+Dr. Krogan said that studies are underway to test the drug in hamsters to see if that promise holds. Dr. Frieman and his colleagues are starting animal studies of their own, as well as testing drugs on a chip lined with human lung cells.
+Timothy Sheahan, a virologist at the University of North Carolina who was not involved in the new studies cautioned that it will take more testing to make sure these promising drugs are safe to give to patients ravaged by Covid-19.
+In addition to animal tests and clinical trials, researchers are now planning to tweak the structure of these drugs to see if they can work even more effectively against the virus.
+“Now we go crazy trying to make them more potent,” Dr. Krogan said.

@@ -1,0 +1,11 @@
+U.S.|Hackers Get Employee Records at Justice and Homeland Security Depts.
+Hackers Get Employee Records at Justice and Homeland Security Depts.
+WASHINGTON — In the latest cyberattack targeting the federal government, an intruder gained access to information for thousands of employees at the Justice Department and the Department of Homeland Security, but officials said Monday that there was no indication that sensitive information had been stolen.
+Most of the information appeared to have been culled from internal government directories, including employees’ email addresses, phone numbers and job titles.
+Motherboard, a technology news site, reported on Sunday that it had been approached by a hacker who claimed to have obtained employee information on about 20,000 people at the F.B.I. and 9,000 at the Department of Homeland Security.
+The hacker professed support for pro-Palestinian groups and vowed to make the information public in an apparent attempt to embarrass federal agencies that play a part in cybersecurity operations. The hacker released the information on Sunday and Monday.
+Officials at the Justice Department and the Department of Homeland Security said they were examining the breach.
+It was unclear when the breach had occurred or whether it was connected to an intrusion last fall that exposed personal emails of Jeh Johnson, the Homeland Security secretary, and John O. Brennan, the C.I.A. director. The hackers who claimed to have carried out those attacks also expressed pro-Palestinian views.
+The officials would not elaborate on how that had been done, but described it as a social engineering breach, which could involve pulling personal information from social media and using it to determine passwords.
+Agencies across the federal government have struggled to keep computer information secure from both outside hackers and their own employees.
+A much bigger intrusion that targeted the Office of Personnel Management exposed security clearance dossiers and sensitive information for nearly 22 million Americans. Chinese hackers were thought to have been behind the attack, which was much more sweeping than officials initially acknowledged publicly last year.

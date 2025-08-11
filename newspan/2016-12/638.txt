@@ -1,0 +1,17 @@
+A parrot flying through laser-illuminated microparticles yields new insights on winged flight.
+It’s not often you see a bird wearing goggles.
+There’s Woodstock, of course, when playing co-pilot to Snoopy the flying ace.
+And now there’s Obi, a very small Pacific parrot at Stanford University who is not a cartoon character at all, but a real bird trained to fly through laser beams.
+That is what the goggles are for: to protect Obi’s eyes from the lasers.
+Eric Gutierrez, a graduate student studying bird flight in the lab of David Lentink at Stanford, wanted to test the understanding of bird flight at slow speeds.
+So he trained Obi to fly to a perch, with goggles on as the laser beams illuminated tiny particles floating in the air.
+For the goggles, Mr. Gutierrez, who now works on airplane flight for the United States Air Force, not only had to start from scratch in building them. He also had to find a bird comfortable with wearing them.
+The lenses were polycarbonate, snipped out of human laser protection goggles. Mr. Gutierrez used a 3-D printer to make the frames, and went through a lot of trial and error to get the right weight and thickness.
+Initially he and Dr. Lentink planned on using three birds, but as they and two other colleagues reported in Bioinspiration & Biomimetics on Dec. 6, two of the birds did not tolerate wearing the goggles well.
+The point of the study was to test the predictions of conventional mathematical methods for using the swirls of air left in a bird’s wake to calculate the lift, or the force keeping the bird up in the air as it beat its wings.
+“We were very surprised” that these so-called models did not work, Mr. Gutierrez said. They all were derived from the flight of fixed-wing airplanes and assumed that with bird flight, as with airplanes, the swirling air, or vortexes, left in the wake of flight stayed the same.
+That meant that if an observer looked at the wake of a bird’s flight some distance from the bird, the information would still be valid to determine the lift.
+For Obi’s flight, the researchers set up what was essentially a plane or panel of laser light that the bird flew through just before landing.
+Dr. Lentink said the vortex at the tip of each wing “broke down really quickly, and we never expected that.” The conventional mathematical methods for calculating lift assumed that the vortexes did not break down for a while, which is the case with a fixed-wing airplane.
+So, it is back to the drawing board for coming up with a better picture of the details of flapping-wing flight. That is important not only for understanding bird flight, but also for building small flying robots.
+One incidental discovery, Dr. Lentink said, was a way to keep the bird goggles from fogging up. A thin layer of Barbasol shaving cream did the trick. Woodstock probably knew that all along.

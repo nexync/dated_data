@@ -1,0 +1,6 @@
+Even though some of these countries saw worrying new outbreaks over the past month, including 50,000 new cases in Spain ...
+... the outbreaks still pale in comparison to those in the United States. Florida, with a population less than half of Spain, has reported nearly 300,000 cases in the same period.
+Source: New York Times database from state and local governments. Includes all countries with a G.D.P. per capita of more than $25,000 and a population of at least 10 million people.
+Seven-day averages. Source: Our World in Data. Includes all countries with a G.D.P. per capita of more than $25,000 and a population of at least 10 million people.
+Other countries relaxed their restrictions to America’s current level with far fewer cases per million.
+Source: Oxford Covid-19 Government Response Tracker, New York Times database from state and local governments. Includes all countries with a G.D.P. per capita of more than $25,000 that have a population of at least 10 million people. Japan and Sweden never reached a high enough stringency level to be included.

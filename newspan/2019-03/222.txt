@@ -1,0 +1,30 @@
+Translating the latest success against the AIDS virus into a practical treatment will take years — if it happens at all. Here are answers to some of the most pressing questions raised by the news.
+At a scientific conference in Seattle on Tuesday, researchers reckoned with a day that many thought might never arrive. A patient appears to have been cured of H.I.V., the virus that causes AIDS, for only the second time since the epidemic began.
+It is a hope that must be tempered with realism: H.I.V. is a wily adversary, and scientists and patients living with the virus are all too well acquainted with past failures in the fight against the epidemic.
+Here’s what the news means right now.
+Will this change anything for people living with H.I.V.?
+Not yet. The second case does provide “proof of concept,” shining a light on a potential path to an H.I.V. cure. Scientists intend to pursue it with vigor.
+But this apparent success does not mean that an easy cure is around the corner, and certainly not that infected patients should stop taking their pills.
+Both men believed to have been cured so far had H.I.V. and cancer. Both received bone-marrow transplants to treat the cancer, not the H.I.V. In each case, the bone-marrow donors carried a key genetic mutation, called delta 32, that hampers H.I.V.’s entry into certain blood cells.
+Bone-marrow transplants are risky procedures, so this is not likely to be a treatment option for the majority of people with H.I.V. And it is worth noting that until now, most other attempts to repeat the first cure had also failed.
+Whatever the path to a cure turns out to be, it will not be simple.
+Remission? Cure? What’s the difference?
+Cure means the virus seems to be gone forever. Remission is a more conservative term: The virus is under control in the body, but maybe not forever.
+Before scientists described the case Monday, there had been only one widely accepted example of a cure: Timothy Ray Brown, 52, who has remained free of H.I.V. for 12 years after two bone-marrow transplants.
+After his case, there were many failed attempts to duplicate this success. Each time, the virus came back after the patient stopped taking anti-H.I.V. drugs.
+The newly reported case, in a man described only as the “London patient,” has been H.I.V.-free for 18 months since stopping the drugs. Extraordinarily sensitive tests cannot find the virus in his body. To some scientists, that’s a cure. Others are more skeptical.
+“We don’t have any international agreement on what time without viral rebound is necessary to speak about cure,” said Dr. Annemarie Wensing, a virologist at the University Medical Center Utrecht in the Netherlands.
+It is worth noting that there have been patients who went into remission without a bone-marrow transplant. In these cases, the immune system seems able to maintain tight control over the virus, even without drugs. For years, researchers have been trying to figure out how it happens.
+A transplant from a delta 32 donor essentially wipes out the immune cells that are vulnerable to H.I.V., replacing them with cells that are resistant to the virus. Already many groups of scientists are trying to mimic the benefits of a bone-marrow transplant without the risks of the actual procedure.
+The gene that directs production of CCR5 may be modified with newer gene therapy techniques, similar to treatments developed for hemophilia and sickle-cell disease. And scientists have tried to edit CCR5 from a person’s immune cells in the lab and to infuse the modified cells back into the body.
+But so far the numbers of cells derived with this method do not seem to be enough to make anyone resistant to H.I.V.
+In one trial funded by Sangamo Therapeutics, however, researchers reported a curious finding: Although the infusion did not cure H.I.V. infection, the amount of virus in the body seemed to decline by a thousandfold. The company is planning a follow-up study to explore this further.
+Another approach would be to deliver enzymes that edit the genes directly into the body. The real challenge is in targeting the enzymes: Many teams are looking into delivery via nanoparticles, for example, but this strategy is years from success, Dr. Deeks said.
+An even more intriguing option is to design a predecessor stem cell that would produce a steady stream of H.I.V.-resistant immune cells in the body. At least one group in China is trying to edit CCR5 from stem cells that can be infused into patients with both cancer and H.I.V.
+Early studies at the University of Pennsylvania suggest that something like this might work, noted Dr. Mike McCune, a global health adviser to the Bill and Melinda Gates Foundation.
+In addition, some scientists are trying to force the virus into remission with broadly neutralizing antibodies, immune molecules that can disable various types of H.I.V.
+How soon might a new treatment be available?
+Five to 10 years at the earliest. And that covers only types of H.I.V. that rely on CCR5 to infect cells. Another form of H.I.V., called X4, relies on a different protein to enter cells; none of these theoretical treatments would guard against infection with that form of the virus.
+“Nobody should really be anticipating a cure or a remission is around the corner,” Dr. McCune said.
+But gene therapy and gene editing are moving at a lightning pace, and it is not unreasonable to think that some researcher somewhere will find a way to do for the immune system what these bone-marrow transplants did for these two patients.
+“We need to push on multiple fronts at once,” Dr. McCune said.

@@ -1,0 +1,28 @@
+CHICAGO — When Eric L. Loomis was sentenced for eluding the police in La Crosse, Wis., the judge told him he presented a “high risk” to the community and handed down a six-year prison term.
+Mr. Loomis has challenged the judge’s reliance on the Compas score, and the Wisconsin Supreme Court, which heard arguments on his appeal in April, could rule in the coming days or weeks. Mr. Loomis’s appeal centers on the criteria used by the Compas algorithm, which is proprietary and as a result is protected, and on the differences in its application for men and women.
+The debate in Wisconsin highlights a broader national discussion about how law enforcement officials use predictive data — including deciding which streets to patrol, identifying people at risk of being shot and calculating the likelihood of recidivism.
+Who is Mr. Loomis, and what is his case about?
+Mr. Loomis was arrested in February 2013 and was accused of driving a car that had been used in a shooting. He pleaded guilty to eluding an officer and no contest to operating a vehicle without the owner’s consent.
+Mr. 
+Before his sentencing for his 2013 arrest, Mr. Loomis received a score on the Compas scale that suggested he was at a high risk of committing another crime. He is now serving his six-year sentence, with a possible release in 2019.
+What is Compas?
+Compas is an algorithm developed by a private company, Northpointe Inc., that calculates the likelihood of someone committing another crime and suggests what kind of supervision a defendant should receive in prison. The results come from a survey of the defendant and information about his or her past conduct. Compas assessments are a data-driven complement to the written presentencing reports long compiled by law enforcement agencies.
+Company officials say the algorithm’s results are backed by research, but they are tight-lipped about its details. They do acknowledge that men and women receive different assessments, as do juveniles, but the factors considered and the weight given to each are kept secret.
+That secrecy is at the heart of Mr. Loomis’s lawsuit. His lawyer, Michael D. Rosenberg, who declined to be interviewed because of the pending appeal, argued that Mr. Loomis should be able to review the algorithm and make arguments about its validity as part of his defense. He also challenges the use of different scales for each sex.
+Are these kind of algorithms common?
+Increasingly, yes. Many states use algorithms, often called “risk assessments,” as part of the sentencing process, though the formulas and uses vary from place to place.
+Virginia has used algorithms in its sentencing process for more than a decade.
+But legal tests have been few. A prison sentence involving Compas was previously appealed in Wisconsin and upheld. In Indiana, the State Supreme Court ruled in 2010 that judges could consider risk assessments as one of several factors in handing down sentences.
+Are the algorithms used only for sentencing?
+“This is just the next innovation of crime analysis — trying to get ahead of the problem, trying to predict where problems occur before they actually occur,” said Eric L. Piza, an assistant professor at the John Jay College of Criminal Justice who studies predictive policing.
+Algorithms like Compas are also used commonly in prison systems to identify the types of supervision inmates might need, the most appropriate type of incarceration and the risk of committing another crime if released on bail or parole.
+In Wisconsin, Tristan Cook, a spokesman for the state’s Department of Corrections, said Compas scores were used to help with inmate classification and release planning and were also available to sentencing judges upon request.
+Why use algorithms?
+There is general support for identifying people who pose little threat to the community, so they could be taken out of America’s crowded prison systems. Such algorithms are also seen as a way to dispense justice in a more efficient way that relies more on numerical evidence than on personal judgments.
+In Pennsylvania, the Legislature directed the state’s sentencing commission in 2010 to develop a set of algorithms that could be used to inform sentencing judges about a defendant’s risk of being arrested again. After six years of work, the proposed algorithms are set to be tested this summer in four counties.
+Mark H. Bergstrom, the executive director of the Pennsylvania Commission on Sentencing, said he hoped the algorithms would help judges differentiate typical defendants, who might be well served with a sentence in the recommended range, from those the algorithms identify as having a particularly high or low risk of committing another crime. In those outlier cases, Mr. Bergstrom said he would recommend that a judge order a fuller presentencing report to help make a more individualized decision.
+What are their pitfalls?
+Because they are being developed by a public agency, the proposed Pennsylvania algorithms are available for the public to analyze. The models include gender and past arrests, among other factors. As is common with these algorithm models, the Pennsylvania sentencing commission excluded race.
+Ezekiel Edwards, the director of the Criminal Law Reform Project at the American Civil Liberties Union, said a recurring fear with predictive algorithms was that they could accentuate inequalities in other areas of the justice system.
+He also said data from the criminal justice system was often unreliable and that it could call into question results from those algorithms.
+Mr. Edwards urged caution in testing the results and eliminating any prejudices in the algorithms.

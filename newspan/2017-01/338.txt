@@ -1,0 +1,24 @@
+If you’ve been paying attention to Twitter for the past few days, you may have noticed a trending hashtag: #DeleteUber.
+That’s because there has been a backlash against Uber in response to accusations that the ride-hailing service intended to profit from a protest on Saturday against President Trump’s executive order banning refugees and immigrants from certain countries from entering United States.
+Uber maintains that its intentions were misunderstood. That hasn’t stopped the online movement — spurred almost entirely through Twitter — of people deciding to delete their Uber accounts.
+On Tuesday, many users accused Uber of not actually deleting their accounts, despite having been asked to do so. Since much of the conversation has played out on Twitter and confusion about the matter continues, we thought we would lay out the issues here.
+On Saturday, after the president issued his executive order, a union representing taxi drivers in New York City issued a statement refusing to pick up passengers at Kennedy Airport — the center of the protest — from 6 p.m. to 7 p.m.
+At 7:30 p.m., Uber posted a message on Twitter saying it had turned off its “surge pricing” feature, a function that increases the cost of a ride during times of high demand.
+Some interpreted the alert as an opportunistic attempt to attract business, even though it was sent a half-hour after the protest. One Twitter user, @Bro_Pair, saw the message and called widespread attention to it, resulting in the hashtag #DeleteUber. The hashtag was trending on Twitter widely in the United States for much of Saturday night and Sunday.
+Uber said its message was not an attempt to capitalize on the taxi drivers’ strike, but a notification to users that the company would not be increasing prices at a time of high demand.
+So if I want to delete my account, can I?
+Yes, you can and have always been able to do so. Directions are on the user support page of the Uber site.
+People are saying that Uber isn’t letting people delete their accounts. Is that true?
+Essentially, the issue is that Uber has never had an automated process that allowed users to delete accounts. This was something that has been in Uber’s plans for years, but was expedited over the weekend because of the high volume of requests, according to two people at the company.
+Before that, if users wanted to delete their accounts, someone at Uber had to do it manually. That’s clearly not a reasonable way to handle a large number of requests.
+With the volume of deletion requests particularly high, Uber had to create an automated process quickly, which it did and put in place late Sunday.
+Uber included a security check to the process: Anyone who asked to delete an account received an email with a unique link. The added step was meant to protect against the fraudulent deletion of accounts, for example. Now, users who want to delete their accounts must sign on using their passwords at the Uber site, then click on the unique link after receiving the email from Uber.
+Users trying to delete their accounts may encounter an error message, which can happen for two reasons. First, there may be remaining credits in an account, causing the system to become confused. Users with credits should receive a message asking if they want to forfeit those credits before going on to delete their accounts.
+The second potential problem involves users who also drive for Uber. Those users should be asked whether they want to delete their driver accounts, as well.
+Once all those steps have been completed, Uber says, your account should indeed be deleted.
+Wow! That sounds serious!
+You’re darn right it does. The greater point, in my eyes, is that Uber was forced to create an ad hoc, automated system for deleting accounts because of how many requests it was getting. That’s significant.
+Crazy. So, should I delete my account?
+I’m not here to tell you what to do. For what it’s worth, Uber says it has set aside a $3 million fund to help drivers affected by the immigration ban.
+A lot of people decided to delete Uber and start using Lyft, but if you’re doing that to protest President Trump’s actions, you should probably know that Peter Thiel and Carl Icahn — two of Mr. Trump’s major supporters and advisers — also own substantial shares in Lyft. Take that how you will.
+Whatever the case, it seems as if Uber’s long history of being aggressive and developing a reputation as a bully of the transportation industry has come back to bite it at the worst possible time. Perhaps that won’t affect Uber in the long term, but it sure looks painful right now.

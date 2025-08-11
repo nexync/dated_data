@@ -1,0 +1,151 @@
+Fifteen murder and sexual assault cases have been solved since April with a single genealogy website. This is how GEDmatch went from a casual side project to a revolutionary tool.
+LAKE WORTH, FLA. — On Halloween night in 1996, a man in a skeleton mask knocked on the door of a house in Martinez, Calif., handcuffed the woman who greeted him and raped her. Two weeks later, he called the dental office where she worked. Investigators tried to track him down through phone records, but got nowhere. They obtained traces of his semen, but there was no match for his DNA in any criminal database.
+Genealogy websites have led to major breakthroughs in decades-old cold cases. But the revelations may come at a price.
+Today: A year after police used a genetic database to crack the case of the Golden State Killer, the same technique has been used to arrest nearly 40 other people. Now, for the first time, one of those cases is headed to trial. In Part 1 of a two-part series, the story behind the tool that is transforming law enforcement and testing the limits of privacy.
+It’s Thursday, June 6.
+Heather, where does this story begin?
+So the story begins with this guy.
+This is Curt Rogers.
+Hi, Heather. How are you?
+And Curt Rogers is an entrepreneur. He spends his life in a lot of different kinds of businesses. At one point, he runs a series of candy shops with his father in Florida.
+Heather Murphy has been covering DNA technology for The Times.
+— trying to develop markets for Hellmann’s mayonnaise products in Asia.
+— turn even a sandwich into a special treat.
+For one thing, we wanted to introduce mayonnaise into Japan. They were not familiar with mayonnaise. So it was trying to figure out how it would fit into their eating habits.
+And what ends up happening, though, is he gets interested in genealogy, like a lot of people do as they get older.
+Throughout my life, I’ve been working on this as a hobby.
+Well, I was asked to manage the Rogers group for one of the testing companies, FamilyTreeDNA.
+They offered kind of a cookie-cutter type of a website.
+It’s all just a little bit clunky.
+And I wanted something more interactive.
+And so he asks his network of Rogers, does anybody know a guy?
+So I found a person who is very technically oriented, which I am not.
+And yes, one of the Rogers knows a guy.
+And was able to talk him into making a few algorithms for me so we have a much more interactive site.
+And then we’re getting to around 2010, and he’s hearing that people are starting to do DNA testing with sites like Ancestry.com and 23andMe.
+These companies could test people, and then they could match the people they’ve tested with other people they’ve tested. But there was no way for them to match with people who’d been tested by other companies.
+The problem with these other sites is that you have to pay to join them, and then they analyze your DNA. And once they do that, you can only find relatives who also tested with and paid to join those sites. So he sees this opportunity to create a site where no matter who you tested with, no matter who you paid to join previously, you can take those files that those sites created, upload them for free, and find relatives who’ve tested with all kinds of companies. And he also sees this opportunity to help people find and understand not just how they’re related to second cousins, but way more distant relatives. And so he asked this programmer, who’s now his business partner, to make this.
+Anyone who had been tested by any company could put their information on our site if they wished to do so, and then find matches with people who had been tested with other companies. And it was such a great program. I said, this is really too good for just my little Rogers surname group. Let’s start another website and share this with other people.
+And so that’s how their website began.
+And how do I say GEDMatch?
+Yeah, you said it absolutely correctly. It is GEDMatch.
+So for people who are looking for relatives, it’s a free place where they can go to find many more potential matches, no matter who the people on that site tested with.
+Yeah, exactly. And GEDMatch just takes off. Curt told me that he was expecting, O.K., maybe 10 percent growth. That would be good based on working at something like the mayonnaise business. But he is far exceeding that. The number of uploads are doubling every year, and that’s without any kind of advertising.
+And they’re growing and growing and growing so fast that, at some point, they crashed the server.
+Basically too many people are using it.
+Too many people are using it. They’re getting so many emails that Curt’s wife is really angry with him because all he’s doing is responding to emails all day.
+Let me just say, the first one I ever did that was meaningful was a woman who didn’t know her father because her mother had done a test-tube baby. And so she finally found her father. And she got up the courage and called him, and she said who she was. There was a big hesitation on the other side. And the father then said, this is the happiest day of my life. Today is my birthday, and there is no greater gift than this one. And he was crying. Things like that make you realize how much you do help people. That’s really what it’s all about, helping people.
+But aside from these letters, Curt really had no idea how people were using his site across the country.
+How were people using his site across the country?
+Well, fast-forward to 2015.
+There is an investigator named Deputy Pete Headley.
+Headley here. Can I help you?
+— about a woman named Lisa.
+It begins when this woman is just 5 years old. This is the late ‘80s. She’s living in a trailer park in California with her father, and he’s not taking very good care of her.
+There was a couple there, older couple, that befriended them.
+And the neighbors start to notice.
+They knew something was wrong, living in the back of a camper shell like that. They heard Lisa crying at night sometimes.
+ We’re happy to help out with her sometimes.
+They told him that their daughter was having a hard time having kids, and she’d like to adopt.
+And so they take her for what starts as a few weeks. It’s this sort of trial adoption. Obviously, this is a pretty unconventional situation. And during the course of those few weeks, they start to notice that it’s even worse than they thought. She’s clearly been sexually abused. And during this time, he disappears. They don’t know where he went. So they go to the local sheriff’s department and say, what should we do? And the sheriff puts out a warrant for his arrest, both for child abandonment and for abuse. The little girl ends up in foster care. And eventually they find him and arrest him.
+— he was arrested in 2002 in Contra Costa County.
+— he’s arrested again, this time for murder.
+And when they arrested him, they ran his fingerprints. And it came back with all these other A.K.A.s.
+So you had a list of different identities. How many identities we’re talking for him?
+Let me see. We have Robert Evans, Curtis Kimball, Gordon Curtis Jensen, Gerald Mockerman, Lawrence Vanner, [INAUDIBLE] Jensen, and different variations on the names. And they saw his previous criminal history involving Lisa, and they obtained DNA from him at that time and compared it to Lisa. And at that point, everyone realized he’s not related at all. Where did he get this kid? That’s when we went back and reopened the case to try to determine who she really was and where he took her from.
+So that little girl whose neighbors were concerned about her dad, and that dad got arrested and she goes into foster care, this test is showing he’s not actually her dad.
+That’s right. So this woman grew up thinking that she was abandoned by her abusive father. Now, as an adult, she’s learning, actually, her abusive father was not her father, he was her kidnapper.
+Well, we know this suspect kidnapped her.
+But we don’t know who she is, so we’re trying to determine who she is.
+So Deputy Pete Headley, he’s one of these traditional cold-case detectives who never give up.
+I just kept hitting dead ends, and it was really frustrating. But I had promised Lisa that I wouldn’t give up.
+You just keep working and working and working and working a case.
+And so I just kept trying to think of any possible way that we could identify her.
+So Detective Pete Headley is hitting dead end after dead end in the Lisa case. What does he do?
+So by 2015, he starts to hear that adoptees are finding their biological parents through these genealogy sites. And he thinks, wait, actually, couldn’t that help us? So he reaches out to an organization that’s known for this type of thing.
+I just sent an email to DNAadoption.com asking them if the same methods that they use to find adoptees’ bio families could be used to identify Lisa. Barbara Rae-Venter responded to my email.
+O.K., I’m going to take the headphones off, one second. I need to take my earrings off.
+And who is Barbara Rae-Venter?
+Barbara Rae-Venter is a very interesting character.
+I arrived in the U.S. in December of ‘68.
+She’s originally from New Zealand.
+I applied to the University of Texas Law School, and I was accepted.
+She spent a lot of her life as a patent attorney, and she worked on all kinds of interesting biotech innovations.
+Including the first genetically modified fruit.
+— to the Flavr Savr tomato.
+The Flavr Savr tomato for a company that later became part of Monsanto.
+Did you ever find yourself having to defend your employer to your friends?
+As she got older in life, she got interested in genealogy, as many people do. And she volunteered with an organization called DNA Adoption, where she helped adoptees to find their biological parents, and she was really good at it.
+For me, of course, I understand all the science. I don’t need tutorials on that. So for me, it was probably a little easier than for most people, because all I’m trying to learn is how to actually use the DNA in conjunction with research techniques for traditional family history research.
+And then one day, she gets a message from Deputy Pete Headley.
+I was working on my computer on something, and the email came in. And to me, it was an intriguing question. Could we, in fact, identify somebody who had no clue who she was when all we really would have is her DNA? We didn’t know anything else about her.
+That’s when Barbara Rae-Venter responded back and said yes. But because we had no geographical information on her, it was going to be difficult.
+So how does she go about finding this woman’s parents?
+I mainly worked through Deputy Headley, but I did have conversations with Lisa at various times. She’s a very charming, very sweet person. But she also is obviously wanting to very much maintain her privacy.
+So what she needs to do is she needs to find some relatives, hopefully close relatives.
+Theoretically, the technique that we were using for finding both relatives should work for somebody like Lisa. And so I had Lisa test at Ancestry, 23andMe, and FamilyTreeDNA.
+And also upload to GEDMatch.
+— Curt’s site GEDMatch is an essential tool for her.
+And all the matches that showed up there, Barbara would build a tree up from these people that are related to her until the trees cross and you get to an ancestor in common.
+I hope that it’s somebody relatively close, like a great-grandparent or a great-great-grandparent. And at that point, I then search for all of the descendants of that common ancestor.
+So then she can say, your victim is a descendant of this ancestor in common. And then as she followed the trees back down to the living folk, I would use all of our law enforcement resources to find those living people and contact them.
+Like what kind of resources?
+Everything from D.M.V. records to old census records. But at this point, my primary job with Barbara was to find the living folk and call them up and start asking them to do a DNA test. And that’s how you narrow it in. If the amount of matching DNA increases, you know that you’re getting closer to the correct family descendants.
+And what did you say when you contacted them?
+It was difficult making cold calls like that. I would always start off with, I am working on a cold case, and I’m hoping you can help me out. Some people, they would just hang up. A lot of people thought it was a scam. I had one woman that thought I was going to try to clone her.
+So this goes on for many months. Barbara estimates at the end that it takes 20,000 hours of work from about 100 volunteers.
+Many of whom are distant relations of Lisa’s.
+The maternal line tree, in particular, was enormous. It had something like 18,000 people in it.
+So eventually, they narrow Lisa’s father down to one of five brothers who seemed to live in New Hampshire. Unfortunately, all of the brothers were married when Lisa was conceived, and so they’re not really happy to hear that they might have this other child.
+Yeah. So they don’t want to be tested, which is not helpful. On the other side of Lisa’s family, though, on her mother’s side, Barbara and her team have more luck. They eventually find this person who, based on looking at the family tree, appears likely to be Lisa’s grandfather.
+That’s a breakthrough.
+It’s a breakthrough. He is also skeptical of all of this at first. But they eventually convince him it’s legit, and he agrees to be helpful, partly because another family member convinces him. And they do a DNA test, and what they find is it confirms that he is indeed Lisa’s grandfather. And what her grandfather tells her is the last time he saw her, she was two. And her mother was involved with this guy.
+And his name was Bob Evans.
+The family didn’t know a lot about him.
+At the time, he talked up that they owed money to a bunch of people, insinuated that it was to dangerous bad people that they owed money to, even.
+But in the middle of the night, they absconded, and the family never heard from them again. And they just assumed that she’d just gone off with this guy. They didn’t know what had happened.
+That’s when I contacted Manchester Police Department and briefed them on the case. Told them, this is a missing person. Denise Beaudin moved away with this guy Bob Evans, and she’s actually a missing person.
+So what did you tell Lisa?
+When I called her up, I told her that we had been able to figure it out. And she got very quiet. And then I asked her if she’d like to know her name.
+I told her her name is Dawn Beaudin. And then she called me a couple days later, had had some time to think about it and was wondering, well, should she change her date of birth, change her name?
+It had to be a big shock. And I just told her, that’s something for you to think about and decide on.
+It was very emotional being able to actually do that for her, particularly knowing what had happened to her. And so it was very nice to be able to give her back her family and to give her her name.
+It was very satisfying to be able to tell her who she is. It made it all worth it.
+So what Deputy Pete Headley and other investigators believe is that sometime after he kidnapped Dawn, he killed her mom. They have not found her body. But the reason they believe this is because this was part of a pattern of behavior. It’s believed that he killed at least two other women he was involved with and three children.
+Wow. But not Dawn.
+But not Dawn. We still do not know the extent of his crimes, but he’s known as the Bear Brook Killer. And he died in prison.
+So I just want to get this straight. That little girl who is taken by her neighbors and ends up in the hands of police, the man who she thought was her father was actually a serial killer who kidnapped and likely murdered her mother.
+And Lisa is Dawn.
+Lisa is Dawn.
+And Barbara has done all this using GEDMatch.
+Yes. And this is a really big deal, because it shows that you can use GEDMatch and use family tree building techniques to identify much more than just an adoptee’s parents.
+You can identify a person.
+And so word gets out that Barbara and Pete solved the Lisa case. And eventually, there’s another investigator. He’s been working on this cold case for decades. He has no real leads. All he has is some crime scene DNA. And so he reaches out and asks for help.
+Police finally got their break in the Golden State Killer case by combing through commercial genealogy websites.
+And this is the case of the Golden State Killer.
+Police say one of the most elusive serial killers in American history.
+Golden State Killer.
+The Golden State Killer has been captured.
+At least 12 murders.
+45 rapes and more than 100 burglaries.
+We found the needle in the haystack.
+— to genetic information listed on the websites.
+He’s been called the East Side Rapist, the Visalia Ransacker, the Original Night Stalker, and the Golden State Killer. Today, it’s our pleasure to call him defendant.
+So all of this work from the Lisa case has led to this groundbreaking moment. This is the first time that we’re seeing a public arrest in such a high-profile case, a case of a serial killer that has eluded detectives for decades. And now they finally have a name. They finally have somebody behind bars. And that is because they have used this technique that people are calling genetic genealogy.
+And that leads us back to the site that Curt Rogers built — GEDMatch.
+Yeah. It’s only after the announcement that the alleged Golden State Killer has been arrested, Curt told me, that he learned that his site had been pivotal to this investigation. He had been asked previously if his site could be used by law enforcement to identify murderers and rapists, and he’d actually said, no, he couldn’t explicitly sanction it because people were there primarily for genealogical research. No one was expecting to be cooperating with law enforcement.
+My concerns were that there could be a violation of privacy. I had to figure that out in my head, if that was true or not.
+And what helped you figure it out?
+Time. A lot of sleepless nights.
+But then he starts getting these emails, and they are so congratulatory. They are telling him that he has done great things for the world, and he is feeling incredibly proud of what he has created.
+It’s like when they first discovered that fingerprints could be used to identify individuals. We’ve now started a whole new field of forensics. It’s not as direct as fingerprints. Don’t get me wrong. But it’s a whole new way of finding people.
+So he and his partner decide to officially open up GEDMatch to law enforcement.
+To me, the real important thing was the people who had been victims, and that includes their families. And bringing closure to them is extremely important to me. It really is.
+And they rewrite the user agreement so that what it now says is that, by default, users are opted in to allow their profiles to be searched by law enforcement for the purposes of sexual assault and murder cases.
+I’d never realized how many families and people there are out there who have been suffering for decades because of some violent crime that’s happened in their family. And there must be millions, literally millions, of people like that.
+Tomorrow on “The Daily,” Part 2 of the story.
+At the time of the Golden State Killer suspect arrest, a lot of people were opining that this was going to be a one-off, that it was too difficult, too much time, investment, et cetera. And I wanted to prove that that wasn’t true, that the power of genetic genealogy could absolutely be applied to cold cases and even active cases. There was no reason that that couldn’t happen.
+Here’s what else you need to know today. On Wednesday, YouTube said it would remove thousands of videos and channels that advocate for bigoted ideologies, like neo-Nazism and white supremacy, in the latest attempt by a major technology company to limit hate speech. YouTube, which is owned by Google, said its new policy would ban videos that justify discrimination by claiming a specific group is superior to others or that deny the existence of violent incidents, such as the Holocaust and the Sandy Hook school shooting. And the Trump administration said it would drastically reduce federal spending on medical research that uses tissue from aborted fetuses, fulfilling a longtime goal of anti-abortion groups. Scientists have long used fetal tissue to test drugs and vaccines, targeting everything from H.I.V. to cancer, and say that in many cases, there is no substitute. But opponents, including Representative Steve Scalise, the number two Republican in the House of Representatives, called federal funding of such research immoral.
+The GEDmatch database can now be used to identify at least 60 percent of all Americans of European ancestry through their cousins, according to two recent analyses by genetics researchers. But unlike 23andMe and other big genealogy sites, GEDmatch has no lab. Rather, the site serves as a place where people, who have had their DNA analyzed elsewhere, can locate more relatives and dive deeper into their ancestry.
+Aesthetically, GEDmatch.com resembles an internal company wiki in need of an update. But what it offers to researchers and criminal investigators is tremendous flexibility. There are now more than 17 million DNA profiles in genealogical databases, but most of the bigger sites restrict what can be uploaded, banning not only crime scene evidence but anything processed by an external lab. GEDmatch will take it all — blood processed by an obscure lab, spit processed by 23andMe — for free, so long as it’s in the right format.
+On April 25, the Sacramento County district attorney’s office announced that there had been a breakthrough in the case of the Golden State Killer.

@@ -1,0 +1,23 @@
+• Australia is older and more Asian, and the number of same-sex couples is rising, census data shows.
+• Johnny Depp and Barnaby Joyce are arguing over dogs again.
+• Is it really a good idea to let the government unlock our encrypted messages?
+A little less than a year after a shaky expansion into online census-taking (which birthed #censusfail) the Australian Bureau of Statistics has released the first batch of results from its 2016 national survey.
+So, what does the fresh ink show?
+1. What a Diverse Country!
+Australia may be the most culturally diverse country in the developed world. Around one in two Australians have at least one parent born overseas.
+In fact, Australia has a higher proportion of people born overseas (26 percent) than Canada (22 percent), New Zealand (23 percent) and the United Kingdom (13 percent) — and nearly twice the proportion as in the United States (14 percent).
+Despite its historic ties to Britain, overseas-born Australians are for the first time more Asian than European, and all together, Australians speak more than 300 languages and subscribe to over 100 religions.
+It’s also worth noting that Australians are increasingly faithless: The number of Australians who identify with “no religion” is up to 30 percent. Christianity is still Australia’s most common religion, but it’s down from 74 percent in 1991 to 52 percent in 2016.
+For many Australians, the “Australian dream” of home ownership is looking a little more like a work in progress. Though a majority of Australians own a house with a mortgage, the proportion of people renting has increased around 20 percent since 1991. The percentage of Australians outright owning their homes has decreased to 31 percent in 2016 from 41 percent in 1991 — numbers that reflect Australia’s increasingly unaffordable housing market.
+Same-sex couples can’t marry in Australia — but there are more of them: The A.B.S. counted more than 47,000 same-sex couples last year, a 42 percent increase from the 2011 census. That means that around half a percent of Australian households are now headed by a same-sex couple.
+One more detail about home life that piqued our interest: 1 in 5 Australian men do zero hours of “unpaid domestic labor,” meaning helping around the house. Get to work, gentlemen!
+There’s no escaping it: Australia is getting older. Its median age is now 38 — up from 37 in 2011 — and the proportion of its population aged 65 years and over is up to 16 percent, from 14 percent.
+How have some countries worked to balance the ledger and inject youth back into their wobbling economies? Migration, naturally.
+Deputy Prime Minister Barnaby Joyce may, against all odds, have Johnny Depp in his sights again.
+That prompted a bit of a threat from Mr. Joyce. “I might have another look at this,” he said Tuesday on ABC TV.
+Attorney General George Brandis and Immigration Minister Peter Dutton are in Canada today for a meeting of the so-called Five Eyes — an intelligence alliance of Australia, Canada, New Zealand, Britain and the United States.
+Australia’s priority issue? Encryption. Specifically, they want better cooperation from encryption “service providers” like Apple, WhatsApp and Signal.
+A key attraction of encrypted messaging apps is that intercepted messages cannot be read or deciphered — they rely on device-side authentication. Even the service providers themselves, by design, cannot read end-to-end encrypted messages.
+Mr. Cardozo said such criminals would quickly adapt to other platforms, where cryptography couldn’t be broken. “The encryption cat is out of the bag,” he said in a telephone interview.
+Mr. Brandis, who is leading the anti-encryption push, came under fire during another digital privacy debate in 2014, after a live interview in which he appeared to misunderstand what metadata is.
+Mr. Cardozo said that Mr. Brandis’s comments then showed a lack of digital sophistication, which cast further doubt on his credibility in arguing for the tearing down of encryption.

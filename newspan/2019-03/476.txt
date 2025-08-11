@@ -1,0 +1,35 @@
+Personal Tech|Protecting Your Internet Accounts Keeps Getting Easier. Here’s How to Do It.
+Protecting Your Internet Accounts Keeps Getting Easier. Here’s How to Do It.
+When Facebook revealed last week that it had stored millions of people’s account passwords in an insecure format, it underlined the importance of a security setting that many of us neglect to use: two-factor authentication.
+That might sound like a mouthful, but it has become essential for our digital protection. What it stands for is basically two steps to verify that you are who you say you are, so that even if a password falls into the hands of the wrong people, they cannot pretend to be you.
+Here’s how two-factor authentication has generally worked: Say, for instance, you enter your user name and password to get into your online bank account. That’s step one. The bank then sends a text message to your phone with a temporary code that must be punched in before the site lets you log in. That’s step two. In this way, you prove your identity by having access to your phone and that code.
+Sounds simple and safer, right? Yet barely anyone uses it. According to Google, fewer than 10 percent of its users have signed up for two-factor authentication to protect their Google accounts for services including email, photos and calendars.
+In reality, it isn’t that complicated. And in recent years, the technique has evolved to become more secure and, in some cases, even easier to use.
+That’s because in addition to receiving text messages, you can now log in by using codes shown in an app, by plugging in a physical security key or by setting up your phone to receive a notification and hitting a button. More on that below.
+Using just one or two of these methods will go a long way toward preventing an inappropriate person, like a jealous ex or a hacker, from getting access to your account. So here’s a guide to four ways of setting up two-factor authentication on some of the most popular sites — and the pros and cons of each method.
+Let’s start by setting up your Instagram account with traditional two-factor authentication using text messages. This is the most common verification technique across apps and websites, though it has some of the biggest vulnerabilities.
+Inside your Instagram app, open settings, then tap privacy and security and select two-factor authentication.
+Enter your phone number. You will receive a text message containing a six-digit code. Enter the code.
+From now on, whenever you log in to your Instagram account, you will receive a text message containing a temporary code. This must be entered before you log in.
+Pros: This method is super easy: You do not need to install any additional apps on your phone to receive texts. And if you lose your device or switch to a new phone, you can still receive your login codes as long as you have the same phone number.
+Cons: Phone numbers and text messages are susceptible to phishing or hijacking by hackers (though this is unlikely to happen unless you are a high-profile target such as a well-known activist). If you travel abroad, receiving text messages on a foreign carrier can be pricey. And there are security risks in receiving texts on foreign networks in countries with heavy surveillance such as China and Russia.
+Another way to start two-factor authentication is to receive a temporary code via a so-called authenticator app. For this example, let’s protect your Facebook account with such an app.
+On your phone, open your app store and download a free authenticator app, like Google Authenticator or Authy.
+Then on Facebook’s website, go to your security and login settings. Click “use two-factor authentication,” then “get started.” After re-entering your password, choose authentication app as your security method. From here, follow the onscreen instructions.
+From now on, whenever you log in to Facebook, you can open the authenticator app and look at the temporary six-digit code generated for your Facebook account. You must enter this code before being able to log in.
+Pros: You do not need an internet or a cellphone connection to receive a code via an authentication app. Most important, a hijacker can’t easily steal your codes from an authenticator app.
+Cons: If you lose your phone or switch to a new one, you have to regain access to your account through a recovery method such as entering a backup code or asking the app provider to reset your account. That can be time consuming.
+Google Prompt is a relatively new authentication feature for securing Google accounts. Instead of receiving a text message with a code, you receive a notification through a Google app asking whether the person trying to sign in is you. Hitting “Yes” logs you in.
+On Gmail.com, go to your account settings and click “security.” Click 2-Step Verification, and then click Add Google Prompt.
+Click Get Started and select your smartphone.
+On your phone, open the Google or Gmail app. Google will show a device trying to log in to your account. Tap Yes on the prompt.
+From now on, whenever you log in to your Gmail account, the Gmail or Google app will ask whether the person seeking access is you. Hitting Yes will log you in.
+Pros: It’s easy. Receiving a notification requires only an internet connection. Selecting Yes is faster than typing in a code.
+Cons: Not all apps and sites have a prompt-based verification method, meaning your banking site, for example, may still text you a temporary code. If your internet connection is spotty, you may also have a difficult time receiving the prompt.
+Last, let’s go over the most physical two-factor authentication method, which involves plugging in a key. Google was one of the first to introduce a security key program in 2017, and many websites, including Twitter and Facebook, have since adopted the method.
+Buy a security key, such as Google’s $50 Titan security key bundle.
+On Twitter’s website, go to your account settings and click “Set up login verification.” Enter your phone number, and then punch in the code you receive via text message.
+In “Security key,” click set up. Insert the security key into a USB port, and press the button on the key. Press the button again to verify the key.
+The next time you log in to Twitter, click “Choose different verification method” and select “Use your security key.” After plugging the key into your computer, you will be able to log in.
+Pros: For people who are extra paranoid about being phished or hacked, this is one of the most secure authentication methods because physical access to your key is required for logging in.
+Cons: The keys cost money. What’s more, some sites require you to insert the key every time, so if you forget to carry your key, logging in with a backup method can be complicated. And not all web browsers support logging in with security keys.

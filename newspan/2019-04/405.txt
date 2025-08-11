@@ -1,0 +1,41 @@
+Your Money|The New Equifax Boss Wants to Make Amends. We Have Some Questions.
+The New Equifax Boss Wants to Make Amends. We Have Some Questions.
+Mark Begor thinks Equifax can be the consumer-friendly credit bureau. So where are our free credit reports, automatic credit freezes for babies and consistent straight talk?
+ATLANTA — A few years ago, Mark Begor checked his credit report, as befits a corporate executive with proper personal finance hygiene. It was filthy.
+There was a notation about a Kirby vacuum purchase that he had not made and a credit card that was not in his wallet. Later, he found out about a mobile phone plan he had not signed up for.
+Mr. Begor, a former General Electric finance executive and future Equifax chief executive, soon got a crash course in identity theft — and just how hard it is for a victim to set the credit record straight.
+Those words could have come from the mouth of any of the millions of people who have dealt with his company. Now he says he wants Equifax — yes, Equifax, the company that let thieves steal over 140 million Social Security numbers and other data in a breach disclosed in September 2017 — to be the most consumer-friendly credit reporting agency.
+You probably don’t believe him. And you probably shouldn’t. Not yet at least. But given how rare it is to hear from him and his brethren at Experian and TransUnion, it’s worth hearing him out.
+I’ve been wanting to speak to somebody — anybody — in a position of authority at Equifax since that frantic day when it told the world our data had been compromised. That fall, Equifax canceled a meeting I had with Mr. Begor’s predecessor, Richard Smith, at the last minute. Mr. Smith was gone not long after.
+This week, I met with Mr. Begor, and he was, refreshingly, not even a bit defensive.
+He acknowledged some of the problems I had written about in the past 18 months, even if we disagreed on their breadth. There was the dumpster fire of a P.R. response to the breach, tortuous customer service and persistently abysmal security practices. Poor execution with new apps and with child credit freezes has become a sort of brand standard since the breach.
+He talked up some solutions: $50 million this year — about 20 times what it would have normally spent — to upgrade consumer-facing technology and improve its dreadful call center operation.
+Let’s applaud a few specific victories, too. At my urging, the company is no longer telling people to put “Equifax Security Freeze” on the front of envelopes containing sensitive data they are sending to the company, thus removing a helpful “Steal Me!” label for thieves who could assume your identity just as you’re trying to protect it. And at some point in the next year or so, the company will let you upload those documents instead.
+What Equifax has is an empathy problem — its own consumer research has made that crystal clear. It’s a natural outgrowth of the fact that consumers aren’t the company’s customers; they and their data are the product it packages and sells. Mr. Begor isn’t fond of this construction, and he emphasizes that we consumers are his customers’ customers, after all.
+In preparation for the interview, I consulted with experts including Eva Velasquez, president of the Identity Theft Resource Center. She wondered about Mr. Begor’s capacity for understanding the depth of despair that Equifax inspires.
+Does he really, truly understand why the breach made people so mad?
+On that note, I issued him a series of challenges — opportunities, really — to make good on his word. He did not quite agree to any of them outright, though I hope to get him to yes on at least a few over time. Here’s what I asked for.
+Can we please have unlimited free credit reports?
+That would be positive from a consumer perspective, but the real question is how much revenue Equifax might give up from selling those reports. I couldn’t get a clear answer in the interview or in a follow-up email.
+Why can’t we have one place to go to press one button with one password to freeze or thaw our credit files with all three credit bureaus simultaneously?
+When the bureaus’ chief executives appeared before the House Committee on Financial Services recently, Representative Sean Duffy, Republican of Wisconsin, asked them why they couldn’t just get this done over a cup of coffee.
+Mr. Begor wouldn’t make any promises. “As you know, getting three people to dance is always challenging, but there is definitely a discussion going on,” he said.
+Why not wipe child identity theft off the map by creating and immediately freezing a credit file for every newborn baby?
+This question was inspired by Anna Syvertsen, one of dozens of readers who have written to me to share their tales of woe about their efforts to get freezes for their children. I shared a long, searching note from Ms. Syvertsen, who lives in Madison, Wis., with Mr. Begor. He grimaced a bit.
+“We can do better, no question,” he said.
+But wouldn’t it be best to make these freezes automatic? Mr. Begor said he hadn’t thought about it. He should.
+Why can’t I just delete my credit file and stop doing business with you if I so choose?
+I’ve tackled this question before in its own column, where I tried to explain why it wasn’t yet possible to delete your Equifax file and cast your lot with Experian and TransUnion alone (or take yourself off the credit map altogether). Mr. Begor’s reply here was a bit confusing. He didn’t think that Equifax could allow this for regulatory reasons, which is the opposite of what I’d reported in the past.
+That’s possible — it may create better predictability that could help some borrowers in certain circumstances. But more data in the system is definitely better for Equifax.
+How does Equifax view informed consent?
+This question came from Bob Sullivan, an independent technology journalist, a co-host of the Breach podcast (on which I’ve appeared) and a personal friend.
+What does he mean? Consider Equifax’s Work Number, which helps lenders verify consumers’ employment and salary using information that employers provide. Equifax has marketing material pitching employment status to debt collectors who want an early nod that someone is no longer employed.
+Is this something a newly consumer-friendly credit bureau ought to feel good about?
+Mr. Begor did not even realize Equifax was doing it until I told him, though he said he did believe the company got proper consent and used the data in a permissible fashion. He declined to declare that he would not market in this way anymore.
+Equifax had more to say on this after the interview, and it was the Equifax corporate-speak of old.
+“We continue to re-examine the clarity of our communications with consumers, and as appropriate, we will work with our customers to update the language that you are referencing,” the company added in a statement.
+What does that even mean? It was Equifax that used “the language,” after all, not their customers.
+Eventually, the company told me that it was open to making it more clear to customers what they’re agreeing to. But it said it wasn’t willing to stop offering important services to its customers — businesses, banks and other financial institutions — to ensure they got paid what they were owed.
+“With respect to the Work Number specifically, it is only one of many data sets used by financial institutions to help collect past-due debt,” Equifax said.
+So that was a no: Equifax won’t stop marketing your employment information to debt collectors. It’s a stark reminder that Equifax serves businesses first — and that Mr. Begor has a challenge ahead of him making the company work better for anyone else.
+I am rooting for him. You should, too. Really, what choice do we have? We didn’t ask to be in bed with Equifax and couldn’t get out if we tried. If the company does what he says it will, we’ll at least be a little more comfortable.

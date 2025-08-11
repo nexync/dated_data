@@ -1,0 +1,6 @@
+As the weather gets warmer, the risk of developing an infection at the site of a surgical wound increases, a new study reports.
+Surgical site infections are a leading cause of increased hospital readmissions, longer hospital stays, greater health care costs and mortality.
+Researchers used databases of hospital discharges across the United States to identify every adult hospitalization with a surgical site infection from 1998 to 2011, and tracked local temperature with data from the National Oceanic and Atmospheric Administration. The study, in Infection Control & Hospital Epidemiology, included more than 55 million hospitalizations in more than 2,500 hospitals.
+Compared with January, the risk of being admitted to a hospital for a surgical site infection rose steadily from 9 percent higher in February to 21 percent higher in August. Then the risk declined in each month through December.
+After controlling for many other variables, the researchers found that for every five-degree Fahrenheit increase in average monthly temperature, the risk of hospital admission for a surgical site infection increased by 2.1 percent.
+Why this happens is not clear.

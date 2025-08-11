@@ -1,0 +1,33 @@
+On Wednesday, a group of security experts revealed two security flaws that affect nearly all microprocessors, the digital brains of the world’s computers. These flaws, called Meltdown and Spectre, could allow hackers to lift passwords, photos, documents and other data from smartphones, PCs and the cloud computing services that many businesses rely on.
+Some of the world’s largest tech companies have been working on fixes for these problems. But the researchers who discovered the flaws said one of them, Spectre, is not completely fixable. “It is a fundamental flaw in the way processors have been built over the last decades,” said Paul Kocher, one of the researchers who discovered these flaws.
+Here is a guide to what you need to know and what you should do.
+Where exactly are these flaws?
+Both are issues with the way computer chips are designed.
+Meltdown affects most processors made by Intel, the company that supplies the chips for a majority of PCs and more than 90 percent of computer servers.
+Spectre is far more difficult for hackers to exploit. But it is even more pervasive, affecting Intel chips, microprocessors from the longtime Intel rival AMD and the many chips that use designs from the British company ARM. Your smartphone most likely contains an ARM chip.
+Both flaws provide hackers with a way of stealing data, including passwords and other sensitive information. If hackers manage to get software running on one of these chips, they can grab data from other software running on the same machine.
+This is a particular issue on cloud computing services.
+Why are cloud computing services so important?
+Operated by companies like Amazon, Microsoft and Google, these are services where any business or individual can rent access to computing power over the internet. On a cloud service, each server is typically shared by many different customers. By exploiting the Meltdown flaw, a hacker can just load some software onto a cloud service and then grab data from anyone else who has loaded software onto the same server.
+What about phones and PCs?
+Phones and PCs are more difficult targets. Before they can exploit the chip flaws, hackers must find a way of getting their software onto your device. They could fool you into downloading an app from a smartphone app store. Or they could trick you into visiting a website that moves code onto your machine.
+But companies are fixing these flaws?
+They are trying. Meltdown can be fixed by installing a software “patch” on the machine. Microsoft has released a patch for PCs that use its Windows operating system. Apple said it had released software patches for iOS, Macs and the Apple TV that help mitigate the issue. Intel is also working on updates to help fix the problem.
+The onus is now on consumers and businesses to install the fix on their machines.
+Keep your software up-to-date. That includes your operating system and apps like your web browser and antivirus software. Microsoft, Mozilla and Google have already released patches for Internet Explorer, Firefox and Chrome to help address the problem.
+Installing an ad blocker on your web browser is also a safeguard, according to security experts. Even the largest websites do not have tight control over the ads that appear on their sites — sometimes malicious code can appear inside their ad networks. A popular ad blocker among security researchers is uBlock Origin.
+Your operating system and apps typically have a button you can click to check for software updates. For example, in Google’s Chrome browser on a computer, you can click on the three dots in the upper-right corner and click Update Google Chrome. To update Windows, click the Start button and click through these buttons: Settings, Update & security, Windows Update and Check for updates. To update the Mac system, open the App Store app and check the Updates tab for the latest software.
+Don’t procrastinate. Last year, a piece of malware called WannaCry infected hundreds of thousands of Windows machines worldwide. Microsoft had released an update before the attack, but many machines were behind on downloading the latest security updates.
+What about the cloud services?
+Amazon, Google and Microsoft said that they had already patched most of the of servers that underpin their cloud computing services, and that largely addresses the problem. But Amazon and Google also said customers might need to make additional changes.
+To share computing power with customers, cloud services offer “virtual machines.” These are computers that exist only in digital form. Customers use these virtual machines to run their own software. After Amazon, Google and Microsoft update their machines, customers may have to update the operating systems running on their own virtual machines to guard against some exploits.
+If everybody updates his or her software, all is good?
+No. The researchers who discovered Meltdown said that patching systems would slow them down by as much as 30 percent in certain situations. That could be a problem for big cloud systems.
+Independent software developers also ran tests on a patched version of Linux, the open-source operating system that now drives more than 30 percent of the world’s servers, and saw similar slowdowns.
+Consumers are less likely to be affected, and Mr. Kocher said slowdowns could dissipate over time as companies refined their patches.
+What about the Spectre flaw?
+According to the researchers who discovered these flaws, including security experts at Google, the memory chip maker Rambus and various academic institutions, Spectre can’t be completely fixed. But patches can solve the problems in some situations. Intel and Microsoft and others said the same.
+Spectre can’t be fixed?
+No, according to the researchers. But Spectre is much more difficult than Meltdown for hackers to exploit.
+Similar to Meltdown, Spectre can steal information from one application and share it with another. For example, an app you download from the web could steal information like passwords from other software on a computer.
+On Wednesday, the Department of Homeland Security issued an alert that said the only solution to the threats posed by Meltdown and Spectre would be a full replacement of the chips. But that does not seem feasible, given how many machines are involved. “Spectre is going to be with us a lot longer,” Mr. Kocher said.

@@ -1,0 +1,31 @@
+The 86 cancer patients were a disparate group, with tumors of the pancreas, prostate, uterus or bone. One woman had a cancer so rare there were no tested treatments. She was told to get her affairs in order.
+Still, these patients had a few things in common. All had advanced disease that had resisted every standard treatment.
+All carried genetic mutations that disrupted the ability of cells to fix damaged DNA. And all were enrolled in a trial of a drug that helps the immune system attack tumors.
+The results, published on Thursday in the journal Science, are so striking that the Food and Drug Administration already has approved the drug, pembrolizumab, brand name Keytruda, for patients whose cancers arise from the same genetic abnormality.
+It is the first time a drug has been approved for use against tumors that share a certain genetic profile, whatever their location in the body. Tens of thousands of cancer patients each year could benefit.
+“This is absolutely brilliant,” said Dr. José Baselga, physician in chief at Memorial Sloan Kettering Cancer Center in New York, which has just hired the study’s lead investigator, Dr. Luis A. Diaz Jr.
+After taking pembrolizumab, 66 patients had their tumors shrink substantially and stabilize, instead of continuing to grow. Among them were 18 patients whose tumors vanished and have not returned.
+There was no control group, which meant the results had to be absolutely compelling to be convincing. The study started in 2013 and is funded by philanthropies; the drugmaker’s only role was to supply the drug. The study is continuing.
+The drug, made by Merck, is already on the market for select patients with a few types of advanced lung, melanoma and bladder tumors. It is expensive, costing $156,000 a year.
+A test for the mutations targeted by the drug is already available, too, for $300 to $600.
+Just 4 percent of cancer patients have the type of genetic aberration susceptible to pembrolizumab. But that adds up to a lot of patients: as many as 60,000 each year in the United States alone, the study’s investigators estimated.
+Clinicians have long been accustomed to classifying cancers by their location in the body — patients are diagnosed with lung cancer, for example, or brain cancer.
+Yet researchers have been saying for years that what matters was the genetic mutation causing the tumors. At first, they were certain they would be able to cure cancers with drugs that zeroed in on the mutations, wherever the tumors were lodged.
+But cancers were more complicated than that, said Dr. Drew M. Pardoll, director of the Johns Hopkins Bloomberg-Kimmel Institute and an author of the new paper.
+A mutation that appeared in half of all melanomas, for example, turned out to be rare in other cancers. And even when scientists pinpointed that mutation in 10 percent of colon cancers, the drug that worked for melanoma patients did not work for other cancer patients.
+“It was a great dream,” Dr. Pardoll sighed.
+The new study was based on a different idea. The immune system can recognize cancer cells as foreign and destroy them. But tumors deflect the attack by shielding proteins on their surface, making them invisible to the immune system.
+Pembrolizumab is a new type of immunotherapy drug known as a PD-1 blocker, which unmasks the cancer cells so that the immune system can find and destroy them.
+The drug is the happy result of a failed trial. A nearly identical drug, nivolumab, was given to 33 colon cancer patients, and just one showed any response — but his cancer vanished altogether.
+What was special about that one patient?
+Dr. Diaz, a geneticist at Johns Hopkins until now, and lead author of the new study, found the answer: a genetic mutation that prevented the tumor from repairing DNA damage.
+As a result, the man’s cancer cells contained a plethora of mutated genes, which produced thousands of strange-looking proteins on the surfaces of the cells. Once the tumor’s cloaking mechanism was short-circuited by the drug, the man’s immune system had no trouble targeting the foreign proteins on the cancer cells.
+That led to the idea for the Dr. Diaz’s new study. He and his colleagues sought patients whose tumors had the same genetic defect, which can arise in any of four genes in a pathway that repairs damaged DNA. They gave these patients a PD-1 blocker and were surprised by the results.
+One patient in the study, Adrienne Skinner, 60, of Larchmont, N.Y., had an extraordinarily rare and deadly cancer, ampullary cancer, that arises at the end of the bile duct. There is no standard treatment, and the prognosis is dire.
+Her doctors scheduled her for a drastic surgery that removes part of the pancreas, part of the small intestine, and the gall bladder. But her surgeon canceled the operation when he discovered her cancer had invaded her liver.
+She tried chemotherapy instead — six months of one kind, then six months of another. Neither worked.
+Then she qualified for Dr. Diaz’s clinical trial at Johns Hopkins. On April 15, 2014, Ms. Skinner had her first dose of the drug.
+In July, her doctor inserted an endoscope for another biopsy. He turned to Ms. Skinner and said, “If someone hadn’t told me you have ampullary cancer, I would not have known.” The tumor was gone.
+The trial involved giving patients the drug for two years, so Ms. Skinner continued to take the drug as a sort of insurance. Last year, she stopped, and her cancer has not returned.
+But even this promising trial has left a thread dangling: Why didn’t all of the patients respond?
+There is now a fervid search for the answer. “Multiple labs are looking like crazy,” Dr. Balsega said.

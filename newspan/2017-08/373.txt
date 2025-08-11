@@ -1,0 +1,34 @@
+There are some questions in biology that you’d think were settled long ago. For instance: How many types of cells are there in the human body?
+“If you just Google this, the number everyone uses is 200,” said Jay Shendure, a geneticist at the University of Washington. “But to me that seems absurdly low.” A number of scientists like him want to build a more complete catalog.
+Yet there are an estimated 37 trillion cells in the human body. The traditional ways to identify cell types — such as carefully tracing the shape of individual cells under a microscope — are too slow and crude for the job.
+On Thursday, Dr. Shendure and his colleagues published a report describing a speedy new method for taking such a cell census. Instead of inspecting one cell at a time, they measured the activity of genes inside 42,035 cells at once.
+Although still at an experimental stage, the method may become an essential tool for cataloging every cell type in the human body, experts said.
+In the laboratory, scientists easily discern the difference between, say, a muscle and a nerve cell. But these broad categories encompass many different types of cells.
+A muscle cell might be a skeletal muscle cell, the kind you use to walk or lift a cup.  Our hearts are built of special muscle cells all their own, known as cardiomyocytes.
+Even these come in different types. Some contract the chambers to pump blood, for example, while others conduct electric impulses around the heart.
+Genetically speaking, all cells in the body are identical. They all carry the same 20,000 or so protein-coding genes. What distinguishes each type is the particular combination of genes the cell uses to make proteins.
+The first step in this process is making a copy of the gene in the form of a molecule called RNA. The cell uses the RNA molecule as a template to build a protein.
+In the first step, the researchers pour thousands of cells into hundreds of miniature “wells.” Each well contains molecular tags that attach themselves to every RNA molecule inside the cells.
+The process is repeated two or more times until each cell ends up with a unique combination of tags attached to its RNA molecules. Dr. Shendure and his colleagues then break open the cells and read the sequences of tags at once.
+The “bar codes” allow the scientists to see which genes are active in each cell. Cells of the same type should share many of those genes in common.
+“We came up with this scheme that allows us to look at very large numbers of cells at the same time, without ever isolating a single cell,” said Dr. Shendure.
+He and his colleagues call their method sci-RNA-seq (short for single-cell combinatorial indexing RNA sequencing). To test it, they set out to classify every cell in a tiny worm, Caenorhabditis elegans.
+Scientists know more about C. elegans’s cells than any other animal’s. In the 1960s, the biologist Sydney Brenner made it a model for investigating biological development.
+Dr. Brenner and later generations of scientists tracked the worm’s growth from a single cell to about 1,000 cells at maturity, classifying them into types with a microscope. Eventually, scientists plucked individual cells from the worm’s body and painstakingly measured their DNA activity.
+Dr. Shendure and his colleagues decided to see how results from sci-RNA-seq compared to those from decades of research.
+They raised 150,000 C. elegans larvae and then doused them with chemicals that broke them apart into individual cells. (Each larva has 762 cells, not counting the cells that will become eggs or sperm.) They then tagged all the RNA in the cells.
+With the new method, the researchers were able to identify 27 cell types that had been identified in previous studies. But the team also was able to break them down into smaller groups, each with a slightly different pattern of gene activity.
+They identified 40 different kinds of neurons, for example, including very rare types. In few cases, only a single such neuron develops in each worm.
+“I was excited because it worked extremely well — they uncovered results that will be valuable for me and for the whole field,” said Cori Bargmann, an expert on C. elegans at the Rockefeller University.
+Yet for now, sci-RNA-seq falls far short of capturing the full complexity of cell types, even in such a simple animal.
+Dr. Shendure and his colleagues could not match some of their clusters of neurons to a known type of cell, and they did not find most of the 118 different types of neurons that earlier studies have documented.
+“We don’t consider this a finished project,” said Dr. Shendure.
+Dr. Bargmann and her colleagues are already trying to match Dr. Shendure’s results to neurons in the worm. “Of course, there is more to do, but I am pretty optimistic that this can be solved,” she said.
+Sarah A. Teichmann, a cell biologist at the Wellcome Trust Sanger Institute who was not involved in the new study, said the report illustrated how fast the field of cell-typing has moved.
+In a review posted on the pre-publication service Arxiv, Dr. Teichmann and her colleagues noted that it was only in 2009 that scientists managed to measure gene activity this way in a single cell. They broke the thousand-cell barrier just three years ago.
+This exponential increase will be crucial to the success of the Human Cell Atlas, an international initiative of which Dr. Teichmann is a joint leader. The researchers plan to create a complete catalog of every cell type in the human body.
+Dr. Teichmann’s fellow atlas leader, Aviv Regev, a computational biologist at the Broad Institute and MIT, said that differences between the human body and that of C. elegans would require some different strategies.
+For one thing, humans are huge compared to C. elegans. The researchers certainly will not try to dissolve human bodies into 37 trillion loose cells and analyze them all at once.
+“The human cell atlas initiative will work through organs, tissues and systems,” Dr. Regev said.
+And C. elegans follows a tightly controlled genetic program to build its body. Its cells always end up in the same place, in the same numbers. Humans are a lot more flexible in how they develop: the locations of cells vary from one person’s body to the next.
+“The trick is to relate cells to the place they came from,” Dr. Regev said.

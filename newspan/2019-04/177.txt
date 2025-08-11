@@ -1,0 +1,33 @@
+Two new studies confirm that weight control is often the result of genetics, not willpower.
+The study subjects had been thin all their lives, and not because they had unusual metabolisms. They just did not care much about food.
+They never ate enormous amounts, never obsessed on the next meal. Now, a group of researchers in Britain may have found the reason.
+The people carry a genetic alteration that mutes appetite. It also greatly reduces their chances of getting diabetes or heart disease.
+The scientists’ study, published on Thursday in the journal Cell, relied on data from the U.K. Biobank, which includes a half million people aged 40 to 69. Participants have provided DNA samples and medical records, and have allowed researchers to track their health over years.
+A second study in the same journal also used data from this population to develop a genetic risk score for obesity. It can help predict, as early as childhood, who is at high risk for a lifetime of obesity and who is not.
+Together, the studies confirm a truth that researchers wish more people understood. There are biological reasons that some struggle mightily with their weight and others do not, and the biological impacts often are seen on appetite, not metabolism. People who gain too much weight or fight to stay thin feel hungrier than naturally thin people.
+The study of the appetite-dulling mutation was led by Dr. Sadaf Farooqi, professor of metabolism and medicine at the University of Cambridge, and Nick Wareham, an epidemiologist at the university.
+The study drew on Dr. Farooqi’s research into a gene, MC4R. She has probed it for 20 years, but for the opposite reason: to understand why some people are overweight, not why some are thin.
+People with MC4R mutations tend to be obese. Researchers have recorded as many as 300 mutations in this gene, and they are the most common single-gene cause of obesity. Mutations in the gene account for 6 percent of children with severe obesity.
+The mutations destroy satiety, the feeling of fullness after a meal, Dr. Farooqi and her colleagues have found.
+Normally, when people eat a meal, the gene is switched on and sends a signal telling people they are full. Then the gene turns itself off. But some people carry a rare mutation in MC4R that prevents the gene from working.
+As a result, their bodies never get the signal that they have eaten enough. They always feel hungry and often are overweight. Their risk of diabetes and heart disease is 50 percent higher than those without the mutation.
+In the new study, Dr. Farooqi and her colleagues found that in some thin people, the MC4R gene is always turned on, instead of always off, because of different mutations involving a previously unknown metabolic pathway.
+These people continually feel satiated. About 6 percent of the population carries such protective mutations.
+“This proves that MC4R is an important, if not the most important, controller of weight,” Dr. Farooqi said. And the new pathway provides an obvious target for drugs to protect against obesity.
+Researchers increasingly are finding that appetite and satiety determine who gains excess weight and who does not, noted Cecilia Lindgren, professor of genomic endocrinology and metabolism at the University of Oxford.
+In the other study of U.K. Biobank data, Dr. Amit V. Khera, a cardiologist at Massachusetts General Hospital, and his colleagues sought a way of predicting, from a huge collection of tiny variations in DNA, who is destined to be fat or to struggle with weight, and who would be spared a weight problem.
+The scientists put together an obesity risk score based on DNA alterations at two million places in the genome. People with the highest scores weighed 30 pounds more on average than those with the lowest scores. Among the very obese, 60 percent had a high score.
+“We were shocked by the difference,” said Dr. Sekar Kathiresan, a co-author of the paper and a geneticist at the Broad Institute in Boston.
+But the U.K. Biobank population consisted only of adults. “We wondered, when does this start?” Dr. Kathiresan said.
+The researchers turned to additional data, confirming their findings in 300,000 participants in other genetic studies. At birth, babies with high scores weighed the same as babies with low scores, the scientists found.
+By age 3 1/2, though, they were clearly heavier on average than others their age. By age 8, the children often were obese, and by late adolescence they weighed on average 30 pounds more than those with low risk scores.
+Having a high score “is not deterministic,” Dr. Kathiresan said. “It doesn’t mean that just because you are in the top percentile you are doomed.” But a high score does indicate that weight control may be a struggle.
+Dr. Joel Hirschhorn, a geneticist at Boston Children’s Hospital, noted that most of the spots on the genome that make up the risk score have nothing to do with weight. It is not yet clear which are most important.
+He was struck by the fact that obesity does not really seem firmly set until children are 8 years old. “Those eight years might be magical and give you a unique opportunity to make a difference,” he said.
+That might not be easy, noted Ruth Loos, director of the obesity genetics program at the Icahn School of Medicine at Mount Sinai. Children who are always hungry find ways to get more food.
+“In an environment like ours, there is a lot of seduction,” she said.
+Cheap, tasty, high-calorie foods are available almost everywhere, and snacking and grazing are commonplace. Those at high risk for obesity “may be more easily seduced,” Dr. Loos said.
+But the risk scores may also reveal strategies that might work, said Dr. Lee M. Kaplan, director of the obesity, metabolism and nutrition institute at Massachusetts General Hospital.
+Among the 10 percent of the population with the highest risk scores, many are not fat. Why is that?
+Are there undiscovered genes that counter the ones pushing people to overeat? Or do these people have good strategies for dealing with hunger and controlling eating?
+“The bottom line is that this opens up a whole new list of questions that can be asked and answered,” Dr. Kaplan said.

@@ -1,0 +1,13 @@
+President Trump has carried his Twitter habit into his presidency. He has also brought with him another tech habit that is causing concern.
+Mr. Trump has been using his old, unsecured Android phone to post on Twitter since moving to Washington late last week.
+The president’s desire to use his old, personal smartphone raises concerns that its use could be exposing him and the nation to security threats.
+He is using the Android smartphone mainly to post on Twitter, not to make calls. But it’s unclear what security measures have been put in place on the device and how vulnerable he could be to someone stealing data or breaking into his Twitter account.
+Twitter requires a connection to the internet, which exposes the device to security vulnerabilities if proper measures like two-factor authentication — a password and a code texted to a phone, for example — are not in place. If he uses the smartphone on an unsecure Wi-Fi network, he could be exposing his location and other personal information on the device.
+■ It is unclear if the device and its functions like texting are encrypted to thwart hacking.
+■ The device could be more vulnerable to hacking if used on unsecured Wi-Fi and cellular networks, such as when Mr. Trump travels between meetings or anywhere outside the White House.
+■ Hackers could access the device to turn on the camera and microphone.
+■ Stingray devices, a type of surveillance tool often used by law enforcement, can track a device’s location and other information.
+“There are a lot of questions, but it is clear there are often vulnerabilities in our phones and internet systems — and it is critical that people take precautions to ensure their sensitive information is protected from hackers and other malicious actors,” said Neema Singh Guliani, legislative counsel with the American Civil Liberties Union.
+The president’s use of the personal device is particularly notable given his criticism of Hillary Clinton for using a personal email address and server when she was secretary of state.
+In 2009, President Barack Obama fought to become the first president with a smartphone; though he won, the use of a White House-issued secure device came with many rules.
+“As president, he is the biggest sitting target in the world,” said Kevin Bankston, the director of New America’s Open Technology Institute.

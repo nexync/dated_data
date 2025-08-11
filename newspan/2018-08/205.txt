@@ -1,0 +1,18 @@
+Technology|Data Breaches Keep Happening. So Why Don’t You Do Something?
+Data Breaches Keep Happening. So Why Don’t You Do Something?
+Last year was a banner year for the exposure of personal information, and so far this year there has been a steady drumbeat of data breaches, so many that experts worry that people are just throwing up their hands in defeat.
+Timehop, an app that collects old photos and posts from social media, disclosed a breach in July that affected 21 million of its users. Names, dates of birth, phone numbers and email addresses were among the identifiable details that were leaked.
+Under Armour revealed a data breach in March of 150 million accounts on its food and nutrition app MyFitnessPal; the genealogy site MyHeritage announced one in June affecting 92 million users, and 340 million individual records held by the marketing firm Exactis were exposed that month on a publicly accessible server.
+In one of the most jaw-dropping cases, Yahoo last year updated figures to reveal that an attack in 2013 had affected all three billion of its user accounts, up from a previous estimate of one billion.
+Experts caution that the stream of news about such breaches can set a new normal and instill a sense of fatalism — and complacency — in consumers.
+But evidence suggests that high-profile breaches don’t typically change consumers’ behavior.
+A Pew Research Center study found most Americans keep track of their passwords by memorizing or writing them down, with only 12 percent using a password manager, which can generate hard-to-crack passwords.
+A RAND Corporation report in 2016 said only 4 percent of people started using password managers after being notified that their data was exposed in a breach, Dr. Vance said.
+And an experiment conducted by Dr. Vance and other researchers found a disconnect between consumers’ professed concerns about online security and their actions. In the experiment, people using their personal computers to complete an assigned task tended to ignore warnings that some sites they were about to visit were not secure.
+He said consumers may be told the same advice repeatedly but are slow to respond unless they’ve already had a bad experience. Only then does this “once bitten, twice shy” lesson sink in.
+Steven Andrés, who teaches at the Fowler College of Business and homeland security program at San Diego State University, said it would be reasonable to think consumers would be more diligent after heavily publicized breaches, but some research indicates just the opposite.
+A “recency bias” leads consumers to believe that as a breach recedes in the headlines, it becomes less threatening, Dr. Vance said. However, the data in the Equifax breach does not have a half-life and could be used for nefarious purposes at any point.
+Blame human nature.
+Anticipated danger can easily be “deflected, deferred or declined” because it makes us feel anxious and stressed, said James Norrie, dean of the Graham School of Business at York College of Pennsylvania and a cybersecurity expert.
+People also tend to have unrealistically optimistic outlooks about future events and believe that bad things will happen to someone else, experts said.
+Consumers will be best served if they heed this familiar advice: Don’t reuse passwords, rely on two-factor verification, install software only from trusted sources, question any alert that pops up on your screen and get a password manager.

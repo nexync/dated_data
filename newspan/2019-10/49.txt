@@ -1,0 +1,22 @@
+Health|Scientists Designed a Drug for Just One Patient. Her Name Is Mila.
+An achievement in ultra-personalized medicine also raises questions about fairness and regulation.
+A new drug, created to treat just one patient, has pushed the bounds of personalized medicine and has raised unexplored regulatory and ethical questions, scientists reported on Wednesday.
+The drug, described in The New England Journal of Medicine, is believed to be the first “custom” treatment for a genetic disease. It is called milasen, named after the only patient who will ever take it: Mila (mee-lah) Makovec, who lives with her mother, Julia Vitarello, in Longmont, Colo.
+Mila, 8, has a rapidly progressing neurological disorder that is fatal. Her symptoms started at age 3. Within a few years, she had gone from an agile, talkative child to one who was blind and unable to stand or hold up her head. She needed a feeding tube and experienced up to 30 seizures a day, each lasting one or two minutes.
+Ms. Vitarello learned in December 2016 that Mila had Batten’s disease. But the girl’s case was puzzling, doctors said. Batten’s disease is recessive — a patient must inherit two mutated versions of a gene, MFSD8, to develop the disease.
+Mila had just one mutated gene, and the other copy seemed normal. That should have been sufficient to prevent the disease.
+In March 2017, Dr. Timothy Yu and his colleagues at Boston Children’s Hospital discovered that the problem with the intact gene lay in an extraneous bit of DNA that had scrambled the manufacturing of an important protein.
+That gave Dr. Yu an idea: Why not make a custom piece of RNA to block the effects of the extraneous DNA? Developing such a drug would be expensive, but there were no other options.
+Ms. Vitarello already had set up Mila’s Miracle Foundation and was appealing for donations on GoFundMe. So, she began fund-raising in earnest, eventually raising $3 million for a variety of research efforts.
+Dr. Yu’s team oversaw development of the drug, tested it in rodents, and consulted with the Food and Drug Administration. In January 2018, the agency granted permission to give the drug to Mila. She got her first dose on Jan. 31, 2018.
+The drug was delivered through a spinal tap, so it could reach her brain. Within a month, Ms. Vitarello noticed a difference. Mila was having fewer seizures, and they were not lasting as long.
+With continued treatments, the number of seizures has diminished so much that the girl has between none and six a day, and they last less than a minute.
+Mila rarely needs the feeding tube now, and is able once again to eat puréed foods. She cannot stand unassisted, but when she is held upright, her neck and back are straight, no longer slumped.
+Still, Mila has lost the last few words of her vocabulary and remains severely disabled.
+“She is starting not to respond to things that made her laugh or smile,” Ms. Vitarello said.
+Milasen is believed to be the first drug developed for a single patient (CAR-T cancer therapies, while individualized, are not drugs). But the path forward is not clear, Dr. Yu and his colleagues acknowledged.
+There are over 7,000 rare diseases, and over 90 percent have no F.D.A.-approved treatment, according to Rachel Sher, vice president of regulatory and government affairs at the National Organization for Rare Disorders.
+What type of evidence is needed before exposing a human to a new drug? Even in rapidly progressing, fatal illnesses, precipitating severe complications or death is not acceptable, so what is the minimum assurance of safety that is needed?
+She also asked how a custom drug’s efficacy might be evaluated, and how regulators should weigh the urgency of the patient’s situation and the number of patients who could ultimately be treated. None of those questions have an easy answer.
+Brad Margus, founder of the A-T Children’s Project, said he was hoping Dr. Yu would develop another custom drug for a 2-year-old girl with A-T, or ataxia telangiectasia, an extremely rare genetic disorder that causes a variety of symptoms, including problems moving, a weakened immune system and slowed mental development. Mr. Margus’s two sons have A-T.
+Milasen will not cure Mila, Ms. Vitarello acknowledged. But Mila was 7 when she got her first dose.

@@ -1,0 +1,23 @@
+WASHINGTON — The Supreme Court on Monday ruled that companies can use arbitration clauses in employment contracts to prohibit workers from banding together to take legal action over workplace issues.
+The vote was 5 to 4, with the court’s more conservative justices in the majority. The court’s decision could affect some 25 million employment contracts.
+Justice Ginsburg called on Congress to address the matter.
+Justice Gorsuch wrote that there are policy arguments on both sides of the dispute but that the role of the courts was to interpret the governing statutes.
+“The respective merits of class actions and private arbitration as means of enforcing the law are questions constitutionally entrusted not to the courts to decide but to the policymakers in the political branches where those questions remain hotly contested,” he wrote.
+Chief Justice John G. Roberts Jr. and Justices Anthony M. Kennedy, Clarence Thomas and Samuel A. Alito Jr. joined the majority opinion.
+The cases featured an unusual element: Lawyers for the federal government appeared on both sides.
+The Obama administration had filed a brief supporting the workers on behalf of the National Labor Relations Board. The Trump administration reversed course, and it argued on behalf of the employers. The labor board’s general counsel, however, argued for the workers.
+The three consolidated cases decided Monday concerned charges that employers had underpaid their workers. The workers’ employment contracts required that they resolve such disputes in arbitration rather than court and, importantly, that they file their claims one by one.
+Arbitration clauses in employment contracts are a recent innovation, but they have become quite common. In 1992, Justice Ginsburg wrote, only 2 percent of non-unionized employers used mandatory arbitration agreements, while 54 percent do so today. Some 23 percent of employees not represented by unions, she wrote, are subject to employment contracts that require class-action waivers.
+Under those contracts, Justice Ginsburg wrote, it is often not worth it and potentially dangerous to pursue small claims individually. “By joining hands in litigation, workers can spread the costs of litigation and reduce the risk of employer retaliation,” she wrote.
+The contracts may also encourage misconduct, Justice Ginsburg wrote.
+“Employers, aware that employees will be disinclined to pursue small-value claims when confined to proceeding one-by-one, will no doubt perceive that the cost-benefit balance of underpaying workers tips heavily in favor of skirting legal obligations,” she wrote, adding that billions of dollars in underpaid wages are at issue.
+Justice Ginsburg added that requiring individual arbitrations can produce inconsistent results in similar cases, particularly because arbitrations are often confidential.
+Justices Stephen G. Breyer, Sonia Sotomayor and Elena Kagan joined Justice Ginsburg’s dissent.
+The case was the court’s latest attempt to determine how far companies can go in insisting that disputes be resolved in individual arbitrations rather than in court.
+The Supreme Court ruled in earlier cases that companies doing business with consumers may require arbitration and forbid class actions in their contracts, which are often of the take-it-or-leave-it variety.
+The question for the justices in the new cases is whether the same principles apply to employment contracts.
+In both settings, the challenged contracts require that disputes be raised through the informal mechanism of arbitration rather than in court and that claims be brought one by one. That makes it hard to pursue minor claims that affect many people, whether in class actions or in mass arbitrations.
+In 2011, in AT&T Mobility v. Concepcion, the Supreme Court ruled that the Federal Arbitration Act, which favors arbitration, allowed companies to avoid class actions by insisting on individual arbitrations in their contracts with consumers.
+By a 5-to-4 vote, the court said a California couple who objected to a $30 charge for what had been advertised as a free cellphone were barred from banding together with other unhappy customers.
+Arbitration clauses with class waivers are now commonplace in contracts for things like cellphones, credit cards, rental cars and nursing home care.
+Two federal appeals courts, in Chicago and San Francisco, accepted that argument. A third, in New Orleans, has rejected it. The court agreed to hear appeals in all three cases: Epic Systems Corp. v. Lewis, No. 16-258; Ernst & Young v. Morris, No. 16-300; and National Labor Relations Board v. Murphy Oil USA, No. 16-307.

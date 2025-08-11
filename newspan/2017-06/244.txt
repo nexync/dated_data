@@ -1,0 +1,33 @@
+Your phone, in all likelihood, knows more about you than your doctor. Your credit card company knows your likes and dislikes better than your closest friend.  Your telephone service provider knows where you are at all times. Facebook, for many, knows more than the rest combined.
+For all of Silicon Valley’s cheerleading of “big data,” Mr. Glimcher said it had yet to be used to effectively solve some of society’s most vexing problems.
+So he was intrigued when Miyoung Chun, the executive vice president for science programs at the Kavli Foundation and a leader of the Obama administration’s Brain Initiative, approached him five years ago about what the future of big data might look like.
+The answer he came up with was the Human Project.
+This fall, Mr. Glimcher and his team will start recruiting 10,000 New Yorkers willing to open up their lives to researchers for the next two decades, if not longer.
+Researchers will follow every aspect of their lives, virtually all the time, to try to answer fundamental questions about why we make the decisions we make and how they affect our lives.
+The hope is that in the vast streams of data — around 250 gigabytes of information on each subject every year, the equivalent of a computer hard drive — patterns will emerge that will help improve public health, education and decision making.
+The method of following a group of people over a long period of time to study health has proved effective in the past, most notably in a study that began in 1948 by tracking 5,209 adults from Framingham, Mass., which is now in its third generation. That project was designed to study cardiovascular health, and much of what we know about heart disease and the effects of things like diet and exercise is derived from its findings.
+The Human Project will be Framingham on steroids.
+Mr. Glimcher and his team hope to collect information on subjects as varied as the genome and social interactions. They will collate some 50,000 data points, including medical records, credit card information, GPS tracking and education records. They will also conduct physical examinations, including taking blood and urine samples.
+But the first challenge will be getting people to sign up.
+One of the flaws in the current collection of big data, Mr. Glimcher said, is that it misses large swaths of the population. Simply put, it skews to the wealthier and the healthier. For instance, if one looked at Google Traffic, it might seem that the South Bronx had the best roads with the fewest problems. However, Mr. Glimcher said, that is probably not the result of fewer potholes, but rather fewer people with smartphones.
+“So how do we get a data set that covers everything?” he asked.
+The researchers decided to randomly target families in 150 census blocks in New York City, and their research suggests that they will have a 40 percent success rate in getting people to participate. Even with a 10 percent success rate, Mr. Glimcher said, they will get the people they need.
+But unlike cellphone and social media companies, Mr. Glimcher said, the Human Project wants to be sure everyone knows exactly what he or she is signing up for.
+“The way the industry has gone has been an embarrassment, if not a crime,” Mr. Glimcher said.
+For instance, he said, many of the people he and his team have spoken to have no idea that they are being geo-tracked all the time, or that when they go to a hospital they often sign forms that allow their health information to be sold to big health care companies.
+“Our subjects have to understand what they are getting into,” he said.
+Unfortunately, he said, to keep the sample randomized, they cannot take volunteers at this point but are considering setting up a “citizen scientist” cohort in the future.
+So far, Mr. Glimcher said, it is not the data that comes from the phone or other technology that gives people the most pause. It is the data collected from something much more basic: feces.
+One of the Human Project’s goals is to study the microbiome and the millions of bacteria in the gut. The best way to find information on the subject is in stool samples. But that requires some explaining.
+The dozens of recruiters who will fan out across the city are being trained to handle that topic and many others. They will also have to convince people that all of this information will be kept safe.
+In fact, a big part of the $15 million start-up budget is being spent on security.
+A special data center is being built at the new campus of New York University in Brooklyn, where the Human Project will be based.
+Mr. Glimcher said a company that had a lot of experience working with “three-letter organizations” would be building the center.
+It will be as secure as the information kept by Chase Bank, he added.
+However, unlike at a bank, the data needs to be available to researchers from a variety of disciplines, so a system of security zones will be in place.
+In the “green zone,” all activity will be monitored, but access to secure information will be limited.
+To look at the actual data, people will have to enter the “yellow zone” using a thumbprint and a non-clonable ID card for entry. Outside researchers can request a mini-data set, which will not include any identifying information.
+To enter this area, people will have to pass through what is known as a “man trap,” essentially an antechamber between two sets of doors. There they will have to provide a thumbprint and an ID and will be scanned via video to ensure they are alone. Finally, those seeking access will have to enter a code proving that they are not under duress.
+The data is also largely protected from subpoena power, Mr. Glimcher said.
+When the project is fully staffed, dozens of researchers will be analyzing the data. By 2020, Mr. Glimcher and his team hope to have enough data to start making some interesting findings.
+And as the years pass, they hope to create what will essentially become an atlas for the entire human experience.

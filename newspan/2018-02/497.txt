@@ -1,0 +1,3 @@
+Technology|Good News: A.I. Is Getting Cheaper. That’s Also Bad News.
+The drone, made by a company called Skydio and announced this month, costs $2,499. It was made with technological building blocks that are available to anyone: ordinary cameras, open-source software and low-cost computer chips.
+Automated techniques will make it easier to carry out attacks that now require extensive human labor, including “spear phishing,” which involves gathering and exploiting personal data of victims. In the years to come, the report said, machines will be more adept at collecting and deploying this data on their own.

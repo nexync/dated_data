@@ -1,0 +1,9 @@
+Netflix announced on Wednesday that users worldwide can download some videos to their mobile devices instead of streaming them over cellular data, a feature that could keep eyeballs on the app when internet signals are spotty or unavailable.
+Users boarding an airplane, leaving on a road trip or ducking into the subway, for example, could use Wi-Fi to download their favorite movies and TV shows beforehand, then view them when the cellular signal dips out.
+Even in areas with strong cellular coverage, watching content offline would allow users to avoid depleting their monthly data limits, addressing a major frustration of mobile video, which eats up data ravenously.
+Customers who watch only a limited amount of video before incurring overage fees with their cellular carriers are more likely to stop watching videos — an unpalatable option for media companies like Netflix that want to keep eyes glued to their products.
+AT&T also appears to have come to a similar conclusion. In announcing DirecTV Now, a television service that can be streamed on mobile devices, the company said on Monday that its cellular customers would be able to watch shows without that usage counting toward their monthly data limits.
+“The last thing you want to do when you’re binging or enjoying entertainment is trying to calculate how many gigs I’m using or where I am in my data plan,” Brad Bentley, AT&T’s chief marketing officer, said on Monday, referring to gigabytes of data.
+Netflix is not the first video streaming company to introduce the offline option. Amazon Video, one of Netflix’s biggest competitors, has made some videos available offline since September 2015.
+Hulu does not offer offline viewing, but Ben Smith, Hulu’s head of experience and a senior vice president, said on Tuesday that the company was working on it, according to CIO, an industry publication.
+“We’ll get there, for sure, in our industry,” he said.

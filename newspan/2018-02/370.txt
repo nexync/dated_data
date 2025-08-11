@@ -1,0 +1,19 @@
+MOUNTAIN VIEW, Calif. — A few years ago, Google created a new kind of computer chip to help power its giant artificial intelligence systems. These chips were designed to handle the complex processes that some believe will be a key to the future of the computer industry.
+On Monday, the internet giant said it would allow other companies to buy access to those chips through its cloud-computing service. Google hopes to build a new business around the chips, called tensor processing units, or T.P.U.s.
+“We are trying to reach as many people as we can as quickly as we can,” said Zak Stone, who works alongside the small team of Google engineers that designs these chips.
+Google’s move highlights several sweeping changes in the way modern technology is built and operated. Google is in the vanguard of a movement to design chips specifically for artificial intelligence, a worldwide push that includes dozens of start-ups as well as familiar names like Intel, Qualcomm and Nvidia.
+And these days, companies like Google, Amazon and Microsoft are not just big internet companies. They are big hardware makers.
+As a way of cutting costs and improving the efficiency of the multibillion-dollar data centers that underpin its online empire, Google designs much of the hardware inside these massive facilities, from the computer servers to the networking gear that ties these machines together. Other internet giants do much the same.
+In addition to its T.P.U. chips, which sit inside its data centers, the company has designed an A.I. chip for its smartphones.
+Right now, Google’s new service is focused on a way to teach computers to recognize objects, called computer vision technology. But as time goes on, the new chips will also help businesses build a wider range of services, Mr. Stone said.
+At the end of last year, hoping to accelerate its work on driverless cars, Lyft began testing Google’s new chips.
+Using the chips, Lyft wanted to accelerate the development of systems that allow driverless cars to, say, identify street signs or pedestrians. “Training” these systems can take days, but with the new chips, the hope is that this will be reduced to hours.
+“There is huge potential here,” said Anantha Kancherla, who oversees software for the Lyft driverless car project.
+T.P.U. chips have helped accelerate the development of everything from the Google Assistant, the service that recognizes voice commands on Android phones, to Google Translate, the internet app that translates one language into another.
+They are also reducing Google’s dependence on chip makers like Nvidia and Intel. In a similar move, it designed its own servers and networking hardware, reducing its dependence on hardware makers like Dell, HP and Cisco.
+This keeps costs down, which is essential when running a large online operation, said Casey Bisson, who helps oversee a cloud computing service called Joyent, which is owned by Samsung. At times, the only way to build an efficient service is to build your own hardware.
+“This is about packing as much computing power as possible within a small area, within a heat budget, within a power budget,” Mr. Bisson said.
+A new wave of artificial intelligence, including services like Google Assistant, are driven by “neural networks,” which are complex algorithms that can learn tasks on their own by analyzing vast amounts of data. By analyzing a database of old customer support phone calls, for example, a neural network can learn to recognize commands spoken into a smartphone. But this requires serious computing power.
+This does not mean that Google will stop buying chips from Nvidia and other chip makers. But it is altering the market. “Who’s buying and who’s selling has changed,” Mr. Weber said.
+Over the years, Google has even flirted with the possibility of designing its own version of the chips it buys from Intel.
+“That’s not rocket science,” he said.

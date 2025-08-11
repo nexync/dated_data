@@ -1,0 +1,39 @@
+But try telling that to Google.
+For much of the last week, I have been trying to persuade the world’s most powerful search engine to remove my photo from biographical details that belong to someone else. A search for “Rachel Abrams” revealed that Google had mashed my picture from The New York Times’s website with the Wikipedia entry for a better-known writer with the same name, who died in 2013.
+My father pointed this out in a quizzical text message, but the error seemed like an inconsequential annoyance best ignored indefinitely. To anyone who knows me, it is clearly not me — I am not married, my mother’s name is not Midge, and I was not born in 1951.
+But when an acquaintance said she was alarmed to read that I had passed away, it seemed like an error worth correcting.
+And so began the quest to convince someone at Google that I am alive.
+Plenty of people try to remove negative or inaccurate information about themselves from the internet. There are entire companies that will do this for you. But often, the misinformation appears on websites other than Google, which Google doesn’t really see as its problem.
+My picture, however, appeared inaccurately only in Google search results, so it seems reasonable to assume that a company with thousands of employees, whose parent company, Alphabet, has a market capitalization of about $740 billion, would be able to help.
+But like many technology companies, Google doesn’t really put a lot of emphasis on human technical support, something anyone who has had a problem with Gmail already knows. There’s no customer service hotline, and it’s unclear which of the various “feedback” options is appropriate.
+Fixing this problem may be a lighthearted trip down a journalistic rabbit hole for me, but in an era of revenge porn and fake news, companies like ReputationDefender deal with people who face far worse consequences because of digital misinformation — like damaged job prospects or reputations.
+As information streams at us, it can be difficult to distinguish between fact and fiction. “Search results these days are your first impression,’’ Mr. Matta said.
+And when things go wrong online, we’re often at the mercy of faceless technology companies that prefer to interact with us through the web.
+But even against that backdrop, correcting the impression about something as simple as whether a person is alive should be eminently fixable. Right?
+Since the Google entry was using my official Times photo, I first contacted someone on Google’s corporate communications team, identifying myself as a member of the media.
+First, the spokeswoman writes back with a link to a publicly available help page for a Knowledge Graph panel — which is the name for the box of information that sometimes appears at the top right of Google search results.
+The Knowledge Graph panel typically appears for some commonly searched terms, like “Macy’s” or “Brad Pitt.” These cards also appear for local businesses and other less prominent people, often pulling from Wikipedia.
+This allows Googlers to get basic information, like a phone number or address, without visiting another website. The cards also feed answers to smart speakers like Amazon’s Alexa or Google Home.
+If these speakers rely on the cards, it’s conceivable that they would repeat their errors, so my cousin and I decide to ask his Alexa some questions.
+“Who is Rachel Abrams?” he asks. Alexa replies that Rachel Abrams is a sprinter from the Northern Mariana Islands (which is true of someone else). He asks if Rachel Abrams is deceased, and Alexa responds yes, citing information in the Knowledge Graph panel.
+That biographical information belongs to the writer Rachel Abrams, the late wife of Elliott Abrams, who held prominent positions during the administrations of Presidents Ronald Reagan and George W. Bush. Ms. Abrams, who came from a family of well-known conservative thinkers, published online on her blog, Bad Rachel, and her writing appeared in national publications.
+Alexa makes a noise that sounds like a sigh, and powers off.
+A friend tries Google Home next. It does not bring up the Northern Mariana Islands. It also does not seem to know about any Rachel Abrams at The New York Times.
+After submitting feedback through one of Google’s help pages, as well as the “feedback” button at the bottom of the Knowledge Graph card, I visit the help page suggested by Google’s spokeswoman.
+Before I can suggest a change to a Knowledge Graph card, Google must recognize me as an “official representative for a topic,” according to the website. This seems cumbersome but doable, since I am arguably the leading authority on who I am, what I look like and whether I’m alive.
+I try to make one of the options work anyway, without any luck. At the bottom, the author of this help page, a cartoon doodle of a “search expert” named Katie, asks whether her advice was helpful.
+“No,” I click, prompting me to fill out another feedback box.
+Katie thanks me for my submission, although she doesn’t pledge to do anything.
+I am moving closer to actual death by the minute, and running out of ideas.
+I decide to call the number listed for the Googleplex, the company’s headquarters in Mountain View, Calif. The automated greeting informs me that the Googleplex does not provide support, but that there is plenty of help online.
+On the bright side, the recording says that if I don’t enjoy the music, I can hit any key to browse Google’s selection.
+At this point, more than one friend has mentioned to me the 1985 movie “Brazil,” which I Google during my 20 minutes on hold. Apparently, “Brazil” is about a much worse bureaucratic nightmare set in a “consumer-driven dystopian world in which there is an overreliance on poorly maintained” machines (according to Wikipedia).
+Finally, a Google employee comes on the line, and points me toward Google’s publicly available online help forum, which I pull up. Reading to me from the very same screen I’m looking at, she tells me that fixing a Knowledge Graph panel can take between three weeks and three months.
+The website says I should keep submitting feedback, over and over again from different IP addresses. If possible, I should also enlist the help of other people. I surmise that this will help push my query to the top of Google’s to-do pile. Or it won’t do anything. One thing’s for sure — there’s no way to know!
+Complaints about what appears in Google’s search results aren’t new. But as the company has grown into one of the largest technology forces on the planet, the strategy for fixing the inevitable misfires can’t keep up with the thousands of complaints it receives every day.
+One option, Mr. Matta explained, is to create an entirely new webpage about myself and hope that I eventually become more famous than the other Rachel Abrams, so that my Knowledge Graph card may one day shove hers out of the way.
+This strategy seems unfair to both of us. On Thursday afternoon, I decide to email the company’s chief executive officer, Sundar Pichai. What would Mr. Pichai tell people facing a similar problem?
+I also alert the Google spokeswoman that I am writing an article about this nearly weeklong effort and ask for comment — a requirement of journalistic fairness, but a step that may also push Google to fix the problem more quickly, an advantage that most users won’t have.
+“We recognize that the process of requesting a change to the Knowledge Graph panel can be difficult,” she responds. Early next year, she says, Google will introduce a “wholly overhauled process,” including more help if the automated systems don’t work.
+It’s “important to balance the need to make changes quickly with wanting to ensure the change is accurate,” she writes.
+Mr. Pichai doesn’t respond. But hours later, my photo has been removed. I am alive again.

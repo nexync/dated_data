@@ -1,0 +1,11 @@
+Smartphone apps track a staggering amount of data about our whereabouts every day. That data has become a hot commodity.
+A New York Times investigation has found that the information being collected about us through apps on our smartphones is far more extensive than most of us imagine — or are aware we have consented to.
+Jennifer Valentino-DeVries, an investigative reporter who covers technology for The Times.
+Natasha Singer, a Times reporter who covers health technology, education technology and consumer privacy.
+Michael H. Keller, an investigative reporter for The Times.
+Gabriel J.X. Dance, deputy investigations editor for The Times.
+Companies are using location data to cater to advertisers, retail outlets and even hedge funds. They say the information is anonymous, but a database reviewed by The Times revealed people’s movements in startling detail.
+Read more about how The Times analyzed location tracking companies for this investigation.
+Here’s how to stop apps from tracking your location.
+Jennifer Valentino-DeVries, Natasha Singer, Michael H. Keller and Gabriel J.X. Dance contributed reporting.
+“The Business of Selling Your Location” was produced by Andy Mills, with help from Clare Toeniskoetter, and edited by Larissa Anderson.

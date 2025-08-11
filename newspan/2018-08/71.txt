@@ -1,0 +1,31 @@
+With a sophisticated new algorithm, scientists have found a way to forecast an individual’s risks for five deadly diseases.
+Scientists have created a powerful new tool to calculate a person’s inherited risks for heart disease, breast cancer and three other serious conditions.
+By surveying changes in DNA at 6.6 million places in the human genome, investigators at the Broad Institute and Harvard University were able to identify many more people at risk than do the usual genetic tests, which take into account very few genes.
+Of 100 heart attack patients, for example, the standard methods will identify two who have a single genetic mutation that place them at increased risk. But the new tool will find 20 of them, the scientists reported on Monday in the journal Nature Genetics.
+The researchers are now building a website that will allow anyone to upload genetic data from a company like 23andMe or Ancestry.com. Users will receive risk scores for heart disease, breast cancer, Type 2 diabetes, chronic inflammatory bowel disease and atrial fibrillation.
+People will not be charged for their scores.
+A risk score, including obtaining the genetic data, should cost less than $100, said Dr. Daniel Rader, a professor of molecular medicine at the University of Pennsylvania.
+Dr. Rader, who was not involved with the study, said the university will soon be offering such a test to patients to assess their risk for heart disease. For now, the university will not charge for it.
+Dr. Sekar Kathiresan, senior author of the new paper and director of the Center for Genomic Medicine at Massachusetts General Hospital, said his team had validated the heart risk calculation in multiple populations.
+But DNA is not destiny, Dr. Kathiresan stressed. A healthy lifestyle and cholesterol-lowering medications can substantially reduce risk of heart attack, even in those who have inherited a genetic predisposition.
+The new tool also can find people at the low end of the risk range for the five diseases. This should prove useful to certain patients: for example, a woman who is trying to decide when she should start having regular mammograms, or a 40-year-old man with a slightly high cholesterol level who wants to know if he should take a statin.
+Still, there are concerns about how the genetic test will be used. “It carries great hope, but also comes with a lot of questions,” said Dr. David J. Maron, director of preventive cardiology at Stanford University.
+And, he wondered, will the results actually lead people to make decisions that improve their health?
+People may need genetic counseling before and after getting these sorts of risk scores, noted Eric Schadt, dean of precision medicine at the Icahn School of Medicine at Mount Sinai.
+Patients may not appreciate the consequences of learning they have a high likelihood of having a heart attack or breast cancer or one of the other diseases the test assesses.
+“Do people really understand that once you learn something you cannot unlearn it?” said Dr. Schadt, who is also chief executive of Sema4, a diagnostics company.
+But medical experts said this sort of risk assessment is the wave of the future. “I’m not sure we can stop it,” said Dr. John Mandrola, a cardiac electrophysiologist at Baptist Health in Louisville, Ky.
+The study began because there was general agreement among researchers that many common diseases are linked not to one mutation, but rather to thousands or millions of mutations, said the first author of the new paper, Dr. Amit V. Khera, a cardiologist at Massachusetts General Hospital and a researcher at the Broad Institute.
+In recent years, scientists have cataloged more than 6 million tiny changes in DNA that slightly affect the chances that people will get various diseases.
+Each of those genetic alterations has such a small effect — a 1 percent or so increase or decrease in a person’s odds of getting a disease — that it would not be helpful to test for each one in isolation.
+But it should be possible, scientists felt, to combine data on all the small DNA changes to construct an individual risk score. To do that, the researchers needed a new algorithm that would weigh the significance of the variations in the genes.
+Then they had to test the risk scores they obtained. Dr. Khera and his colleagues turned to the U.K. Biobank, which holds genetic and disease information on half a million people.
+The investigators found that their algorithm did predict the odds of being diagnosed with one of the five diseases. But the U.K. Biobank consists mostly of white Europeans.
+So the investigators also tested and validated their method in populations of East Asians, South Asians, African Americans and Hispanics.
+The researchers also tried their algorithm on 20,000 patients who were seen at Brigham and Women’s Hospital and Massachusetts General Hospital.
+They found that those who had a high risk score for a heart attack were indeed four times more likely to have had a heart attack than other patients.
+“Unless I do this genetic testing, there is no way I could pick those people out,” Dr. Khera said.
+Just as important is finding people at very low risk, he and other researchers said.
+At the University of Pennsylvania, doctors will incorporate risk scores on heart attacks into advice to patients on preventive care.
+Dr. Rader said he often sees healthy patients in their 30s and 40s with a family history of heart disease. They have borderline levels of LDL cholesterol, the dangerous kind. But many do not want to start taking a statin.
+For now, he said, he does his best to assess their risk, then tells some of them “it’s kind of up to you” whether to take a statin. But that advice “is not very satisfying,” he said.

@@ -1,0 +1,19 @@
+The chip maker Broadcom said on Wednesday that it had agreed to acquire Brocade Communications Systems, a maker of routers, switches and other computer networking equipment, for $5.5 billion in cash.
+It is the latest deal in the rapidly consolidating semiconductor industry, where companies are seeking to achieve greater scale and to provide a larger array of products to their clients.
+The transaction came more than a year after Avago Technologies agreed to acquire Broadcom for $37 billion and took the Broadcom name.
+“This strategic acquisition enhances Broadcom’s position as one of the leading providers of enterprise storage connectivity solutions” to original equipment manufacturers, Hock E. Tan, the Broadcom president and chief executive, said in a news release.
+Under the terms of the deal, Broadcom said that Brocade investors would receive $12.75 a share in cash. That would represent a 47 percent premium to the Brocade’s closing price on Friday before media reports that the companies were in talks. Brocade’s stock closed Wednesday at $11.24.
+The board of Brocade and the executive committee of Broadcom’s board have unanimously approved the deal.
+The transaction is subject to regulatory approval and approval by Brocade’s shareholders. It is expected to close in the second half of Broadcom’s 2017 fiscal year, which began on Oct. 31.
+The chip industry has had a wave of acquisitions, with more $100 billion in deals in the last two years.
+Last week, Qualcomm agreed to acquire NXP Semiconductors for $38.5 billion. In July, SoftBank of Japan bought ARM Holdings, a British chip designer, for $32 billion.
+Last year, Intel paid nearly $17 billion for Altera and NXP itself acquired Freescale Semiconductor, for $11.8 billion.
+For Broadcom, the Brocade deal represents the latest in a series of transactions since the company formerly known as Avago went public in 2009.
+Avago was originally a part of Agilent Technologies, the former semiconductor arm of HP. It was spun out in an initial public offering of stock in 2009 by its owners at the time, the private equity firms Silver Lake and Kohlberg Kravis Roberts.
+Since Avago became a public company in 2009, its management team has pursued more than a half-dozen acquisitions.
+The company, now known as Broadcom, has headquarters in Singapore and San Jose. Its products include chips used in iPhones, set-top boxes for televisions, modems and computer networks.
+The Brocade transaction is centered around its storage area network business, which provides data storage solutions for businesses, and is expected to complement Broadcom’s existing offerings.
+As part of the deal, Broadcom said that it planned to divest Brocade’s IP Networking business, which consists of wireless and campus networking, data center switching and routing and software networking solutions businesses. The business was acquired as part of Brocade’s $1.5 billion deal for Ruckless Wireless in April.
+The deal to acquire Brocade is not conditional on the divestiture of Brocade’s IP Networking business.
+As part of the transaction, Broadcom would assume $400 million in debt.
+Brocade was advised by Evercore Partners and the law firm Wilson Sonsini Goodrich & Rosati, while the law firm Latham & Watkins advised Broadcom.

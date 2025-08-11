@@ -1,0 +1,6 @@
+The size of the dose and weight of the patient may have significant effects on outcome.
+A daily dose of baby aspirin is widely recommended for heart disease prevention, but a one-dose-fits-all approach may not work.
+A new analysis, in The Lancet, looked at data from 10 randomized trials and found that the size of the dose and the weight of the patient have significant effects on outcome.
+Researchers found that a daily dose of 75 to 100 milligrams of aspirin lowered the risk of cardiovascular events by 23 percent for people weighing less than 154 pounds, but had no effect in those weighing more. In people over 154 pounds, low-dose aspirin increased the risk for a fatal cardiovascular event.
+Higher doses — 325 to 500 milligrams a day — were effective in lowering cardiovascular risk in people who weighed more than 154.
+Low-dose aspirin reduced the risk for colorectal cancer in people weighing less than 154 pounds, but not in those weighing more. High doses lowered the cancer risk in people between 154 and 176 pounds, but not in those heavier than that.

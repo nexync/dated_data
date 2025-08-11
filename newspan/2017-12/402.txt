@@ -1,0 +1,25 @@
+How do New York Times journalists use technology in their jobs and in their personal lives? Cade Metz, a technology reporter for The Times based in San Francisco, discussed the tech he is using.
+You write a lot about artificial intelligence. What is the strongest A.I. product that people can use right now?
+A good thing to try is the digital assistant on the latest Google Pixel phone because it shows both the power of artificial intelligence and the limitations.
+It is very good at recognizing what you say, and it responds in a voice that sounds more human than most computer noises we are used to. Researchers at a Google A.I. lab in London built a system that learns to speak by analyzing recordings of human voices and identifying the patterns that make them human.
+But it still doesn’t sound exactly like a human. And though the Google Assistant — like other digital assistants from the likes of Amazon and Apple — does a decent job of responding to some questions and commands, it is a long way from not just recognizing but actually understanding conversational speech.
+That is the story of A.I. over the last five years. The improvements have been enormous. But there is still a very long way to go.
+Do you use it at all to help you do your work?
+Nope. I reviewed the new Pixel phone. But I get along fine with my older Android phone. The irony is that I am a techno-skeptic.
+At least in my own head, this makes good sense. I don’t cover a consumer technology company. I cover the people and the ideas that are driving the next wave of technologies. And I took at where these technologies will take us — for better or for worse.
+But here is what I would like: a service that automatically transcribes my recorded interviews. There are services that use humans to do this, but they’re expensive. Speech recognition technology has improved to the point where machines should be able to quickly and accurately do this for me on the cheap.
+What are the potential pitfalls of so much A.I. in our lives?
+They are myriad. The latest A.I. services, like the one that handles the voice for the Google Assistant, learn tasks by analyzing enormous amounts of data. By analyzing millions of llama photos, for instance, a system can learn to recognize a llama.
+But this kind of machine learning can have unintended consequences. A few years back, Google got into trouble because its image recognition service identified some black people as gorillas.
+What’s more, researchers have shown that these kinds of systems can be fooled into seeing things that aren’t there. That becomes an issue as the latest computer vision techniques find their way into security cameras, cars and other robotics.
+The other worry is that the rise of certain technologies — including autonomous cars and other robotics — will significantly shift the job market. This is sure to happen at some point, but experts disagree on when.
+Tech companies have hyped up virtual reality for the last few years. But VR is still mostly a gaming accessory. Do you think it will ever be used by everyday people?
+Like A.I., V.R. is overhyped. The difference is that A.I. is changing the everyday world in very real ways. Look at the Amazon Echo, the autonomous cars now being tested in places like the Phoenix area, the enormous improvements of widely used services like Google Translate. V.R. is, as you say, still mostly a gaming accessory.
+There are some interesting possibilities, though. Therapists are using V.R. for exposure therapy, after two decades of published research in this area. Basically, it can help people conquer phobias or other conditions like post-traumatic stress disorder.
+But everyday use? That is not happening anytime soon — especially for people like me, who wear glasses and don’t like heavy equipment strapped to our heads.
+What tech product do you love using in your daily life?
+Apple’s iTunes. And the Amazon Kindle app. And Stitcher, a podcast app that reliably delivers everything from Revisionist History to archived episodes of Desert Island Discs. I also like my headphones.
+The beauty of technology is that you can read, watch and listen to anything you want when you want it. Almost.
+Some researchers are developing robots that learn on their own. Is Skynet inevitable?
+This fear is blown way out of proportion. But that might be a good thing. Though the Skynet scenario is unlikely to be a problem for many, many years — the far more immediate worry is the coming shift in the job markets from automation, and that is still years away — we certainly don’t want Skynet catching us unawares.
+That is why some researchers are already starting to think about what they call A.I. safety. They want to make sure that miscreants can’t fool security cameras into seeing things that aren’t there — and that A.I. systems can’t prevent humans from flipping their off switch, however far away that possibility may be.

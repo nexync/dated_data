@@ -1,0 +1,26 @@
+Business|Did an Echo Call 911 During a Domestic Assault? Amazon Says No.
+Did an Echo Call 911 During a Domestic Assault? Amazon Says No.
+The authorities credit an Amazon Echo with calling the police during a violent domestic assault in Albuquerque.
+It started as a tale of technology coming to the rescue: The authorities said an Amazon Echo called 911 during a violent assault in Albuquerque.
+The call led to the arrival of sheriff’s deputies and helped save a woman and her daughter from a “very violent situation,” Manuel Gonzales III, the sheriff of the Bernalillo County Sheriff’s Department in New Mexico, said in a statement.
+“The unexpected use of this new technology to contact emergency services has possibly helped save a life,” he said.
+This account was widely reported in the news media. But Amazon and a national 911 association have cast doubts on it, saying it could not have unfolded that way.
+Echo is a smart home device with a virtual assistant, Alexa, that responds to voice commands and can, among other things, play music, tell you the weather or search the web. One of the things it cannot do, however, is call 911, an Amazon spokeswoman, Rachel Hass, said by email.
+The device also would have to be prompted first by four “wake words”: Alexa, Echo, computer or Amazon.
+Trey Forgety, director of government affairs and information and security issues for NENA: The 9-1-1 Association, said he would be “sort of surprised” if Alexa could respond as it was described by officials.
+“I have not heard of an Alexa device being a problem from a 911 perspective because they do not have native telephone capabilities,” he said.
+He said Echo behaves differently than Siri, the virtual assistant on iPhones that can place calls with a prompt. He recalled a case when a television news station aired a report that included the phrase “Hey Siri, call 911,” which led to a flood of calls to emergency dispatchers from phones responding to the command.
+The Albuquerque story began on July 2 as Milana Honorio and her boyfriend, Eduardo Barros, were house sitting for her parents in Albuquerque, a criminal complaint said.
+When her text message tone sounded, Mr. Barros, 28, accused her of cheating on him and reacted angrily.
+Mr. Barros said he was “going to kill her if she called the cops,” the complaint said. “Did you call the sheriff?” he asked.
+Mr. Barros grabbed her 9 mm handgun, hit her in the face and kicked her at least 10 times in the face and stomach while she was on the floor, the complaint said.
+“Barros told her she was not going anywhere and he was going to kill her,” it said.
+Pressed about the doubts raised by Amazon, she said on Tuesday in an email that Alexa was used “along with the home phone system” to call 911.
+Glenn Platt, director of interactive media studies at the Miami University, in an email on Tuesday outlined a series of steps that might explain what happened.
+The Echo can’t interpret what you mean, but it can activate calls that are in a contact list, he wrote.
+At best, the phone would have called, and an operator would have heard the ambient conversation, but the Echo itself would not have called, would not have been able to communicate anything or indicate the location of the call, he wrote.
+The complaint said deputies responded to a “911 open line/hang up.” It was not clear how the Echo was configured, and efforts to reach Ms. Honorio were unsuccessful.
+Mr. Barros faces aggravated battery with a deadly weapon and related charges after a six-hour standoff. Ms. Honorio had injuries to her face but refused medical attention and her daughter who was also in the house, was uninjured, the department said.
+The episode was the latest to raise questions about the role of smart home devices that respond to voice commands.
+Last year, detectives investigating a murder in Arkansas were seeking access to audio that may have been recorded on an Echo device.
+Mark A. Testoni, the president and chief executive of SAP National Security Services, who tracks issues of big data and privacy, said a broader question raised by the episode in New Mexico is to what extent consumers are aware of a device’s capabilities and whether clearer disclosures — similar to nutritional labels on food packages — are needed.

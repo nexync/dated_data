@@ -1,0 +1,35 @@
+More than two weeks ago, hackers seized parts of the computer systems that run Baltimore’s government.
+It could take months of work to get the disrupted technology back online. That, or the city could give in to the hackers’ ransom demands.
+Here’s a brief rundown of what happened.
+On May 7, the city discovered that it was a victim of a ransomware attack, in which critical files are encrypted remotely until a ransom is paid.
+The city immediately notified the F.B.I. and took systems offline to keep the ransomware from spreading, but not before it took down voice mail, email, a parking fines database, and a system used to pay water bills, property taxes and vehicle citations.
+At least 1,500 pending home sales have been delayed, too, according to a letter from a group of congressional lawmakers in Maryland requesting information on the attack from the directors of the F.B.I. and the Secret Service.
+This week, the city put into place an offline fix to allow the transactions to proceed.
+What was the threat?
+A copy of a digital ransom note, obtained by The Baltimore Sun, stated that the city could unlock the seized files for a price: three Bitcoins (nearly $24,000) per system or 13 Bitcoins (about $102,000) for them all.
+“We won’t talk more, all we know is MONEY!” the note said.
+Baltimore has released little else about the attack, citing a continuing F.B.I. investigation.
+The authorities have not named any individuals or groups behind the attack, but they have identified the malicious software, or malware, behind it as “RobbinHood,” a relatively new ransomware variant, according to The Baltimore Sun.
+Such attacks are often carried out by Russian or Eastern European hackers, but that isn’t always the case. The ransomware attack that crippled Atlanta’s government for days last year has since been attributed to two men in Iran.
+Was Baltimore targeted?
+The city has not described how the attack was executed, but experts don’t believe that hackers sought the city out.
+“I think it was purely an opportunistic attack,” said Lawrence Abrams, the creator and owner of Bleeping Computer, a technology news site.
+The language used in the Baltimore ransom note was nearly identical to those used in other RobbinHood attacks, according to Mr. Abrams, who has spoken to various researchers about RobbinHood and seen a handful of systems infected by it.
+The creator or creators of RobbinHood most likely scanned a large number of online systems for vulnerabilities to exploit, such as gaps in protocols used to grant remote access to computers, he said.
+And Baltimore isn’t alone.
+Early on April 10, officials in Greenville, N.C., discovered that they, too, were the victims of a RobbinHood attack. The city declined to pay the ransom, and the attack remains under investigation by the F.B.I., Mayor P.J. Connelly said by email.
+How common are ransomware attacks?
+The first known ransomware attack was carried out three decades ago, according to Allan Liska, an analyst with Recorded Future, a cybersecurity firm.
+In that 1989 attack, disks claiming to offer information about AIDS were mailed to more than 10,000 people around the world. Each contained software designed to lock up a computer’s files with instructions to mail a check to Panama so the user could receive another program to undo the damage.
+But ransomware attacks have been carried out much more frequently in recent years thanks to the advent of difficult-to-track payment methods.
+“The reason for the modern rise in ransomware, and frankly the wild success, is directly attributable to Bitcoin and other cryptocurrencies,” Mr. Liska said.
+In a recent report on ransomware targeting state and local governments, Mr. Liska traced the current era back to 2013, when the police department in Swansea, Mass., was infected by malware known as CryptoLocker.
+There have been at least 169 incidents of state and local governments falling prey to ransomware since that year, though Mr. Liska said that estimate was probably low because governments don’t always publicize such attacks.
+About 70 percent of state and local governments refused to pay a ransom, while 17 percent did, he said. The outcome could not be determined in the remaining cases.
+Should Baltimore pay?
+The encryption used by ransomware can often be difficult to crack, but Mr. Liska nonetheless advised against paying the ransom.
+“That money is going to help make the bad guy’s job easier,” he said, noting that the perpetrator might use the proceeds to pay for better, more effective attacks.
+There’s also no guarantee that hackers will hold up their end of the bargain if a victim pays. That said, the hackers might release the files if only to show future victims that it’s worth paying, Mr. Liska said.
+In the case of the RobbinHood attack, for example, the creator or creators offered to decrypt up to three files at no cost, to show “we are honest,” according to a screenshot Mr. Abrams shared of the ransom payment page.
+The hackers even included a privacy statement.
+“I want to mention that your privacy is important for us, all of your records including IP address and Encryption keys will be wiped out after your payment,” it read.

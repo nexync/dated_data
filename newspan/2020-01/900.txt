@@ -1,0 +1,12 @@
+He was crucial to the spread of the protocols that underpin today’s internet (and gave Queen Elizabeth her own email address).
+Peter Kirstein, a British computer scientist who was widely recognized as the father of the European internet, died on Wednesday at his home in London. He was 86.
+His daughter, Sara Lynn Black, said the cause was a brain tumor.
+Professor Kirstein fashioned his pivotal role in computer networking the old-fashioned way: through human connections. In 1982, his collegial ties to American scientists working in the nascent field of computer networks led him to adopt their standards in his own London research lab.
+Those standards were called Transmission Control Protocol and Internet Protocol, or TCP/IP, which enable different computer networks to share information. Professor Kirstein embraced TCP/IP despite competing protocols being put forward at the time by international standards groups.
+Professor Kirstein was so avid a fan of computer networking that he gave Queen Elizabeth II her own email address, HME2. In 1976, while christening a telecommunications research center in Malvern, England, the queen became one of the first heads of state to send an email.
+In 2003, when the queen made Professor Kirstein a Commander of the Order of the British Empire, he reminded her of that day in Malvern, and “she smiled,” he recalled in an interview for this obituary in 2019.
+“If she actually remembered sending that email, I can’t say,” he said.
+Peter Thomas Kirschstein was born on June 20, 1933, in Berlin to Walter and Eleanor (Jacobsohn) Kirschstein. Both parents were dentists. His mother was born in London but raised in Germany. His father, who had been awarded the Iron Cross for his service in World War I, considered himself a patriotic German, Professor Kirstein said.
+Professor Kirstein formed a close working relationship with Dr. Cerf and another American, Robert Kahn — the co-inventors of TCP/IP — and exerted considerable influence in the field through his ties to the British Ministry of Defence and the British Engineering and Physical Science Research Council.
+With additional support from the Pentagon’s research arm, the Defense Advanced Research Projects Agency, he became a crucial facilitator in the spread of TCP/IP in Europe, pushing academic and research communities there to use them. He adopted TCP/IP at University College London in 1982.
+The protocols remain the technical underpinning of today’s internet.

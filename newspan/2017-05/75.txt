@@ -1,0 +1,13 @@
+Whether a painful strep throat turns into a fatal case of heart disease depends not just on prompt antibiotic treatment but also on the patient’s genetic makeup, according to a new study led by Oxford University scientists.
+About 15 million people around the world have rheumatic heart disease, scarring of the heart valves that can lead to early death unless the valve is surgically repaired or replaced.
+The disease is mostly a relic of the past in rich and middle-income countries, where pediatricians quickly treat strep throat and rheumatic fever in children, which causes the joint pain once called childhood rheumatism.
+But in poor countries where doctors and diagnostic kits are scarce and cardiac surgery is rare, more than 230,000 people die of rheumatic heart disease every year, mostly children and young adults.
+The Oxford study, published in Nature Communications this month, was done in Fiji, New Caledonia and other South Pacific islands “because it’s one of the top reasons young people die there,” said Dr. Tom Parks, a genetics expert at Oxford and the lead author.
+People who inherit a particular genetic mutation from one parent are about 40 percent more likely to get valve damage if a strep infection is not cured, Dr. Parks and his colleagues found. Those getting it from both parents are almost twice as likely to wind up with damaged heart valves.
+The mutation appears in the genes serving as blueprints for antibodies made by white blood cells. Heart valves are not directly inflamed and scarred by the strep bacteria. Researchers believe the damage is done by the antibodies and the killer white blood cells they attract.
+The dangerous mutation is found in about 15 percent of Europeans and Asians but in more than 20 percent of Pacific Islanders.
+It is even more common in Africans, Dr. Parks said, but it is not clear how many deaths it causes there — possibly because young Africans face even more lethal threats like malaria and H.I.V.
+The mutation was spotted by using Oxford’s supercomputers to analyze gene sequences from 3,000 individuals.
+Dr. Parks compared the research to driving around a place like Queens, where any wrong digit in a long string of numbers leads to a different address. “You kind of get lost,” he said.
+Pediatricians are extremely eager to have a streptococcus A vaccine, especially as more antibiotics fail to control the infection.
+But it seems clear, Dr. Parks said, that any new vaccine will have two jobs: to induce the formation of protective antibodies and to avoid triggering any harmful ones.

@@ -1,0 +1,13 @@
+HONG KONG — One of the tech world’s deepest-pocketed investors has been scouring the globe to find and fund the technologies that are building the future.
+Advanced robotics. Indoor farming. Data-driven drug research.
+And now: on-demand dog walking.
+The SoftBank Vision Fund, a nearly $100 billion pot of money managed by the Japanese billionaire Masayoshi Son, is investing $300 million in Wag, a start-up in Los Angeles whose app lets you summon someone to walk your dog.
+The Vision Fund’s investment is several times the $68 million in total funding that Wag has raised since it was founded in 2015.
+“We look forward to enhancing our technology and service offerings to enable more people to keep their dogs happy and healthy,” Wag’s newly appointed chief executive, Hilary Schneider, said in a statement announcing the investment on Tuesday.
+Still, other investments by Mr. Son, the leader of the Japanese conglomerate SoftBank, suggest that he is not likely investing in Wag solely to bet on the business of keeping Fluffy content.
+A little over a year into its existence, the Vision Fund has come to focus on companies that can collect and harness vast oceans of data to transform industries as diverse as medicine, food and finance.
+Apart from big names like Uber, it has invested in outfits like Compass, a New York-based platform for buying and selling property; Vir Biotechnology, which researches and develops treatments for infectious diseases; and Oyo, a hotel network in India.
+“Location data is central and mission critical to the development of the world’s most exciting technologies,” Mr. Misra said.
+Data on the real-world comings and goings of internet users — and, evidently, their dogs — is a highly sought-after commodity among technology companies. It can attract furious controversy when it is mishandled, though. Security analysts criticized the fitness app Strava this week for inadvertently revealing the locations of military bases by publishing its users’ running routes.
+And Wag itself does not have an unblemished record for safeguarding users’ information. The Wall Street Journal recently found unprotected pages on the company’s website that contained the personal data, including home addresses, of at least 100 customers.
+The pages were later taken down. Wag said that the problem was the result of a software glitch, and that it had no indication that hackers or thieves had gained access to the customer data.

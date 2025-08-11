@@ -1,0 +1,19 @@
+On July 20, 1969, moments after mission control in Houston had given the Apollo 11 lunar module, Eagle, the O.K. to begin its descent to the moon, a yellow warning light flashed on the cockpit instrument panel.
+The alarm appeared to indicate a computer systems overload, raising the specter of a breakdown. With only a few minutes left before touchdown on the moon, Steve Bales, the guidance officer in mission control, had to make a decision: Let the module continue to descend, or abort the mission and send the module rocketing back to the command ship, Columbia.
+By intercom, Mr. Bales quickly consulted Jack Garman, a 24-year-old engineer who was overseeing the software support group from a back-room console.
+Mr. Garman had painstakingly prepared himself for just this contingency — the possibility of a false alarm.
+Mr. Garman, whose self-assurance and honed judgment effectively saved mankind’s first lunar landing, died on Tuesday outside Houston. He was 72. His wife, Susan, said the cause was complications of bone marrow cancer.
+Mr. Garman went on to have a distinguished career with NASA. In 1970, he was a member of the team that was awarded the Presidential Medal of Freedom for bringing home safely the Apollo 13 moon mission, which had been aborted after an onboard explosion. He left the agency in 2000 to join private industry.
+But during his decades of research and development that advanced computer technology in the Apollo, space shuttle and space station programs, no single episode defined Mr. Garman’s reputation as much as the pivotal split-second call he made when the Apollo 11 landing was imperiled.
+Any alarm on a dashboard 240,000 miles away would have been disquieting. It would be “like having a fire alarm go off in a closet, O.K.?” Mr. Garman said in a 2001 oral history for the Johnson Space Center in Houston. But the category group of this alarm caused a particular stir because it had not occurred in early flight simulations.
+But the 1202 alarm message coming from the Eagle’s onboard computer — seemingly warning of a strained systems condition called “executive overflow” — was one that Mr. Bales, the guidance officer, had encountered before. Mr. Garman himself had helped trigger the alarm in a test during a module trial run, according to collectspace.com.
+“I clearly recall helping to come up with a couple of semifatal computer errors,” Mr. Garman said.
+It was one of those false alarms that almost scuttled the Apollo moon landing. Rather than pose a serious problem, it proved to be a self-correcting signal indicating that the mission’s relatively primitive guidance computers were struggling to keep up with the tide of data they were receiving.
+Four similar alarms followed within a minute.
+“I remember distinctly yelling — by this time yelling, you know, in the loop here — ‘Same type!’” Mr. Garman said.
+“It was a heart stopper,” Mr. Duke said.
+John Royer Garman was born on Sept. 11, 1944, in Oak Park, Ill., the son of Leo Garman, a banker, and the former Janet Royer.
+In addition to his wife, the former Susan Hallmark, with whom he lived in Friendswood, Tex., near Houston, he is survived by two daughters, Janet Arkinson and Mary Garman Duarte.
+Mr. Garman graduated in 1966 from the University of Michigan with a Bachelor of Science degree in engineering physics and a specialty in computing, which intrigued him early on.
+NASA hired him at 21, making him the director of flight operations for mission planning and analysis in the flight support division. He was later appointed the deputy director of the mission support directorate, the director of information systems services in the space station program office, and the chief information officer at the Johnson Space Center.
+After leaving the space agency, he joined OAO Corporation, a custom computer programming service, which was acquired by Lockheed Martin. He retired in 2010.

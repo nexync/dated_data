@@ -1,0 +1,8 @@
+A new virtual gold rush is underway.
+Even as Bitcoin, riven by internal divisions, has struggled, a rival virtual currency — known as Ethereum — has soared in value, climbing 1,000 percent over the last three months.
+Beyond the price spike, Ethereum is also attracting attention from giants in finance and technology, like JPMorgan Chase, Microsoft and IBM, which have described it as a sort of Bitcoin 2.0.
+The rise of the relatively new virtual currency has been helped by a battle within the Bitcoin community over how the basic Bitcoin software should develop.
+The fights have slowed down Bitcoin transactions and led some people to look for alternative virtual currencies to power their businesses. Enter Ethereum.
+Like Bitcoin, the Ethereum system is built on a blockchain in which every transaction is recorded publicly. The promise of such a system is that it allows the exchange of money and assets more quickly and more cheaply than relying on a long chain of middlemen.
+But Ethereum has also won fans with its promise to do much more than Bitcoin. In addition to the virtual currency, the software provides a way to create online markets and programmable transactions known as smart contracts.
+The system is complicated enough that even people who know it well have trouble describing it in plain English. But one application in development would let farmers put their produce up for sale directly to consumers and take payment directly from consumers. There are already dozens of functioning applications built on Ethereum, enabling new ways to manage and pay for electricity, sports bets and even Ponzi schemes.

@@ -1,0 +1,29 @@
+Cardiologists are seeing infected patients whose worst symptoms are not respiratory, but cardiac.
+The 64-year-old patient arrived at a hospital in Brooklyn with symptoms looking like those seen in patients having a serious heart attack.
+An electrocardiogram revealed an ominous heart rhythm. The patient had high blood levels of a protein called troponin, a sign of damaged heart muscle. Doctors rushed to open the patient’s blocked arteries — but found that no arteries were blocked.
+The patient was not having a heart attack. The culprit was the coronavirus.
+The Brooklyn patient recovered after 12 days in the hospital and is now at home. But there have been reports of similar patients in the United States and abroad, and the cases have raised troubling questions for doctors.
+What should doctors do these days when they see patients with apparent heart attacks? Should they first rule out coronavirus infection — or is that a waste of valuable time for the majority of patients who are actually having heart attacks?
+Should every coronavirus patient be tested for high blood levels of troponin to see if the virus has attacked the heart?
+“I don’t know what the right answer is,” said Dr. Nir Uriel, a cardiologist at Columbia University and Weill Cornell Medicine in New York.
+The Brooklyn patient had myocarditis, an inflammation of the heart that has been seen in patients with other viral infections, such as MERS — also caused by a coronavirus — and the H1N1 swine flu.
+But the new coronavirus, called SARS-CoV-2, mostly infects the lungs, causing pneumonia in severe cases. Believing it caused respiratory disease, many cardiologists thought the coronavirus was outside their specialty.
+A report on heart problems among coronavirus patients in Wuhan, China, was published in JAMA Cardiology on Friday.
+The study, led by Dr. Zhibing Lu at Zhongnan Hospital of Wuhan University, found that 20 percent of patients hospitalized with Covid-19, the illness caused by the coronavirus, had some evidence of heart damage.
+Many were not known to have underlying heart disease. But they often had abnormal electrocardiograms, like the patient in Brooklyn, in addition to elevated troponin levels, which sometimes soared to levels seen in patients with heart attacks.
+The risk of death was more than four times higher among these patients, compared with patients without heart complications.
+The journal also published a report, by doctors in Italy, describing a previously healthy 53-year-old woman who developed myocarditis.
+Like the patient in Brooklyn, her electrocardiogram was abnormal, and she had high levels of troponin in her blood. Because of the coronavirus outbreak in Italy, doctors thought to test her and found she was infected.
+Dr. Enrico Ammirati, an expert in myocarditis at Niguarda Hospital in Milan who consulted on the case, said the patient’s heart problems were likely caused by her body’s immune response to the virus.
+But so much about this new pathogen is unknown, and it is not yet clear what might cause heart damage following infection.
+“Myocarditis can likely be caused either by the virus itself, or the body’s immune and inflammatory response to the virus,” said Dr. Scott Solomon, a cardiologist at Harvard Medical School.
+Infected patients who get myocarditis do not necessarily have any more virus in their bodies than those who do not develop the condition, he said.
+It is possible — but not yet established — that myocarditis results from an immune system that lurches out of control while trying to turn back the coronavirus, pumping out such excessive levels of chemicals called cytokines that cause inflammation that they damage the lungs and the heart alike.
+The condition, called a cytokine storm, is more serious in older people and in people with underlying chronic diseases, Dr. Solomon said. It is the primary reason for the severe respiratory complications that can lead to death in patients with the coronavirus.
+Cytokines also promote blood coagulation and interfere with the body’s clot-busting system, said Dr. Peter Libby, a cardiologist at Harvard Medical School. Blood clots in coronary arteries can block blood flow and cause heart attacks.
+Another possibility, Dr. Libby said, is that some coronavirus patients develop heart problems as a consequence of infections in their lungs.
+At the same time, fever caused by the virus increases the body’s metabolism and the heart’s output of blood. The result is that the patient’s heart must struggle with an increased demand for oxygen but a reduced supply, an imbalance that may lead to heart damage.
+But doctors cannot rule out the possibility that the coronavirus directly damages the heart, several experts said.
+In Seattle, a patient infected with the virus recently died after experiencing so-called heart block: The electrical signals originating in the top of the organ, which sets the heart’s normal rhythm, were not reaching the bottom of the heart.
+When that happens, the heart goes into an emergency mode with so-called escape rhythm, which causes it to beat very slowly. The man had underlying lung disease, which worsened his prognosis.
+Dr. April S. Stempien-Otero, a cardiologist at the University of Washington, hopes an autopsy will show whether the virus attacked the man’s heart.

@@ -1,0 +1,23 @@
+Scientists have developed a brain implant that noticeably boosted memory in its first serious test run, perhaps offering a promising new strategy to treat dementia, traumatic brain injuries and other conditions that damage memory.
+The device works like a pacemaker, sending electrical pulses to aid the brain when it is struggling to store new information, but remaining quiet when it senses that the brain is functioning well.
+In the test, reported Tuesday in the journal Nature Communications, the device improved word recall by 15 percent — roughly the amount that Alzheimer’s disease steals over two and half years.
+The implant is still experimental; the researchers are currently in discussions to commercialize the technology. And its broad applicability is unknown, having been tested so far only in people with epilepsy.
+Experts cautioned that the potential for misuse of any “memory booster” is enormous — A.D.H.D. drugs are widely used as study aids. They also said that a 15 percent improvement is fairly modest.
+Still, the research marks the arrival of new kind of device: an autonomous aid that enhances normal, but less than optimal, cognitive function.
+Doctors have used similar implants for years to block abnormal bursts of activity in the brain, most commonly in people with Parkinson’s disease and epilepsy.
+“The exciting thing about this is that, if it can be replicated and extended, then we can use the same method to figure out what features of brain activity predict good performance,” said Bradley Voytek, an assistant professor of cognitive and data science at the University of California, San Diego.
+The implant is based on years of work decoding brain signals, supported recently by more than $70 million from the Department of Defense to develop treatments for traumatic brain injury, the signature wound of the Iraq and Afghanistan wars.
+The research team, led by scientists at the University of Pennsylvania and Thomas Jefferson University, last year reported that timed electrical pulses from implanted electrodes could reliably aid recall.
+“It’s one thing to go back through your data, and find that the stimulation works. It’s another to have the program run on its own and watch it work in real time,” said Michael Kahana, a professor of psychology at the University of Pennsylvania and the senior author of the new study.
+“Now that the technology is out of the box, all sorts of neuro-modulation algorithms could be used in this way,” he added.
+Dr. Edward Chang, a professor of neurosurgery at the University of California, San Francisco, said, “Very similar approaches might be relevant for other applications, such as treating symptoms of depression or anxiety,” though the targets in the brain would be different.
+The research team tested the memory aid in 25 people with epilepsy who were being evaluated for an operation.
+The evaluation is a kind of fishing expedition, in which doctors thread an array of electrodes into the brain and wait for seizures to occur to see whether surgery might prevent them. Many of the electrodes are placed in the brain’s memory areas, and the wait can take weeks in the hospital.
+Cognitive scientists use this period, with patients’ consent, to give memory tests and take recordings.
+In the study, the research team determined the precise patterns for each person’s high-functioning state, when memory storage worked well in the brain, and low-functioning mode, when it did not.
+The scientists then asked the patients to memorize lists of words and later, after a distraction, to recall as many as they could.
+Each participant carried out a variety of tests repeatedly, recalling different words during each test. Some lists were memorized with the brain stimulation system turned on; others were done with it turned off, for comparison.
+On average, people did about 15 percent better when the implant was switched on.
+The new technology presents both risks and opportunities. Dr. Kahana said the implants could potentially sharpen memory more dramatically if the approach were refined to support retrieval — digging out the memory — rather than only storage.
+Still, as currently devised, the implant requires that multiple electrodes be placed in the brain to determine its high- or low-functioning state (though stimulation is sent to just one location).
+This makes it an extremely delicate operation that would likely be reserved only for severe cases of impairment — and certainly not for students cramming for tests, Dr. Voytek said.

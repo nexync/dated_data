@@ -1,0 +1,22 @@
+WELLINGTON, New Zealand — The New Zealand government admonished Google on Friday for disclosing the identity of a man charged with killing a female British backpacker, highlighting the tension that arises when local courts order the suppression of information that can be easily found online.
+Google executives from the United States and Britain are set to travel to New Zealand to meet with Andrew Little, the justice minister, on Tuesday. Mr. Little is demanding that the company change its algorithms to ensure that material published outside New Zealand that violates local court suppression orders is not visible in the country.
+The dispute was prompted by the first court appearance, on Monday, of a 26-year-old man accused of killing Grace Millane, the backpacker, who was visiting Auckland. She vanished the day before her 22nd birthday after a night out with the man; her body was found a week later on the city’s western edge.
+While Ms. Millane was missing, her family appealed to the public for information about what might have happened to her. The case captured more attention around the world than any other killing in New Zealand in recent years and it provoked a conversation about violence against women.
+The man’s name has been suppressed under a legal provision often invoked by defendants in New Zealand that is meant to guarantee fair trials, and it was not released by local reporters.
+But several British media outlets published it, and on Thursday Google included the man’s name in the subject line of an email sent to people in New Zealand who subscribe to a service that highlights local topics that are trending online.
+Google said in a statement to New Zealand news outlets that it “didn’t receive an order to take action” on the case.
+“When we receive valid court orders, including suppression orders, we review and respond appropriately,” the statement said, adding that Google respected New Zealand’s laws.
+Mr. Little, the justice minister, said he took “with a grain of salt” the suggestion that Google did not know, or would expect to be told, about suppression orders in the case.
+“They’re going to have to change their algorithm, because it’s not right that they think they can get away with undermining fair trial rights,” he said.
+Lokman Tsui, a professor at the School of Journalism and Communication at the Chinese University of Hong Kong, and a former Google employee, said it was a “scary standard” to say Google “should have known” about a suppression order in New Zealand.
+“If that applies, that means they would have to actively monitor every court case going on in the world, looking for names and pre-emptively taking them down,” he said.
+Google has come under pressure in New Zealand before over its handling of information about a court case. Last year, the company refused to remove information connected to the first trial of a man being tried a second time for murder. In that instance, Google said it was not bound by New Zealand law.
+Mr. Little said he also planned to contact British publications that published the man’s name, adding that they could have gotten it only from reporters in New Zealand who found it in court filings in Auckland.
+“I don’t accept their arrogance and their conceit in saying that it’s nothing to do with them and New Zealand’s laws are New Zealand’s laws,” he added.
+It was not clear whether the email about trending topics that breached the suppression order originated at the company’s operations in New Zealand or in another country, and whether it fell within New Zealand’s legal jurisdiction.
+A spokesman, Taj Meadows, did not address where the email originated, but said it had been received by fewer than a few hundred people.
+Mr. Little rejected the idea that the internet’s existence had rendered name suppression orders irrelevant.
+He said he planned to ask the Google executives whether there was a problem with the company’s algorithms that allowed suppressed information to be distributed widely, and, if so, whether Google would take action to fix it.
+“That way, publishers and republishers like Google don’t have the excuse that they’re not responsible, the law can’t be enforced, and they don’t even have to worry about it,” he said.
+Professor Tsui, the former Google employee, said such an approach was not feasible.
+“That solution would cause so many other problems that we really wouldn’t want to go there,” he said.

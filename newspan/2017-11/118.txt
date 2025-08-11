@@ -1,0 +1,8 @@
+Science|How Do Cars Get So Hot?
+How Do Cars Get So Hot?
+Q. Even on a cold day, when I park my car in direct sunlight with the windows closed, the temperature inside climbs above the ambient temperature. Why is that?
+A. The same process that puts children and pets in danger in a closed car on a hot day is at work under the winter sun: the greenhouse effect.
+Light energy, in the form of short, visible wavelengths, passes easily through glass into the closed vehicle. Some of the energy is reflected right back out, again in visible wavelengths.
+But some of it is absorbed by objects and surfaces inside, and then reradiated in longer wavelengths in the invisible infrared range — that is, heat.
+The heat is effectively trapped by automobile glass, which is not as permeable to longer wavelengths. The air inside the car is also trapped.
+Temperatures can rise quickly in a closed, sunlit car. One study, done at warmer temperatures, found typical increases of 20 degrees Fahrenheit above the ambient temperature in just 10 minutes, and 33 degrees in 20 minutes.

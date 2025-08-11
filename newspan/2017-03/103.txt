@@ -1,0 +1,7 @@
+Personal Tech|Does This USB Drive Look FAT?
+Does This USB Drive Look FAT?
+Q. I have a PC and put many photos on a USB drive for use in a digital picture frame. Can someone add pictures to this USB drive if they have a Mac or does it need to be formatted differently?
+As long as the USB drive is formatted as a FAT32 drive, you should be able to pass it back and forth between the different computers to copy photos for the digital photo frame. Some portable USB drives are formatted in FAT16, which Macs can also handle. The exFAT file system is another one both platforms can use.
+You can see how a USB drive is formatted when it is connected to the computer. On a Windows PC, go to the Start Menu, open the My Computer or This PC icon and look at the drive’s entry in the list. You can also right-click on the connected USB drive’s icon, select Properties from the menu and look in the File System area to see the type of formatting used.
+On a Mac, right-click (or hold down the Control key and click) on the drive’s desktop icon, or in the sidebar window. Choose Get Info from the menu to see details about the drive, including format.
+Larger external drives designed for Windows users can sometimes be formatted as NTFS (New Technology File System), which Macs can only read, but not write unless you do some extra fiddling. If you want to use an external NTFS drive with both computer platforms, you can reformat with a FAT32 system, but reformatting effectively erases all the data on the drive.

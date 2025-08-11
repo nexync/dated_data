@@ -1,0 +1,22 @@
+Technology|Google’s Sensorvault Is a Boon for Law Enforcement. This Is How It Works.
+Investigators have been tapping into the tech giant’s enormous cache of location information in an effort to solve crimes. Here’s what this database is and what it does.
+Law enforcement officials across the country have been seeking information from a Google database called Sensorvault — a trove of detailed location records involving at least hundreds of millions of devices worldwide, The New York Times found.
+Though the new technique can identify suspects near crimes, it runs the risk of sweeping up innocent bystanders, highlighting the impact that companies’ mass collection of data can have on people’s lives.
+Why does Google have this data?
+The Sensorvault database is connected to a Google service called Location History. The feature, begun in 2009, involves Android and Apple devices.
+Location History is not on by default. Google prompts users to enable it when they are setting up certain services — traffic alerts in Google Maps, for example, or group images tied to location in Google Photos.
+If you have Location History turned on, Google will collect your data as long as you are signed in to your account and have location-enabled Google apps on your phone. The company can collect the data even when you are not using your apps, if your phone settings allow that.
+Google says it uses the data to target ads and measure how effective they are — checking, for instance, when people go into an advertiser’s store. The company also uses the information in an aggregated, anonymized form to figure out when stores are busy and to provide traffic estimates. And those who enable Location History can see a timeline of their activities and get recommendations based on where they have been. Google says it does not sell or share the data with advertisers or other companies.
+Does Google collect other forms of location data?
+Yes. Google can also gather location information when you conduct searches or use Google apps that have location enabled. If you are signed in, this data is associated with your account.
+The Associated Press reported last year that this data, called Web & App Activity, is collected even if you do not have Location History turned on. It is kept in a different database from Sensorvault, Google says.
+How can I see what data Google has on me?
+To see some of the information in your Location History, you can look at your timeline. This map of your travels does not include all of your Sensorvault data, however.
+Raw location data from mobile devices can be messy and sometimes incorrect. But computers can make good guesses about your likely path, and about which locations are most important. This is what you see on your timeline. To review all of your Location History, you can download your data from Google. To do that, go to Takeout.Google.com and select Location History. You can follow a similar procedure to download your Web & App Activity on that page.
+Your Location History data will appear in computer code. If you can’t read code, you can select the “JSON” format and put the file into a text editor to see what it looks like.
+Can I disable the data collection?
+Yes. The process varies depending on whether you are on a phone or computer. In its Help Center, Google provides instructions on disabling or deleting Location History and Web & App Activity.
+How is law enforcement using the data?
+For years, police detectives have given Google warrants seeking location data tied to specific users’ accounts.
+But the new warrants, often called “geofence” requests, instead specify an area near a crime. Google looks in Sensorvault for any devices that were there at the right time and provides that information to the police.
+Google first labels the devices with anonymous ID numbers, and detectives look at locations and movement patterns to see if any appear relevant to the crime. Once they narrow the field to a few devices, Google reveals information such as names and email addresses.

@@ -1,0 +1,2 @@
+Mr. McCarthy is the House minority leader.
+Under the current internet framework, users’ data is usually controlled by the platform — online consumers leave a trail of data bread crumbs, making us vulnerable to privacy invasions. In a decentralized network, however, our data would be controlled by this blockchain encryption. Users would grant and revoke access to data, no longer entrusting third parties or tech companies with that responsibility.

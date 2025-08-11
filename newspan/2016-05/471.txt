@@ -1,0 +1,14 @@
+Many users of activity trackers have always harbored suspicions: How accurate are these things?
+A handful of tests by journalists and researchers have tried to bring clarity to the issue. Results, alas, have been mixed.
+Researchers from California State Polytechnic University, Pomona, had 43 subjects wear the devices as they ran, jogged and jumped rope, among other activities, and then compared the readings with those of an electrocardiogram.
+During moderate to high-intensity exercise, Fitbit’s sensor was off by an average of about 19 beats a minute, it found.
+Fitbit said the public release of the study, coming before litigation in the case has begun, represented a bid to tarnish its brand.
+The lawsuit, filed in January, seeks compensatory and punitive damages. It accuses the company of misleading customers about the reliability of the PurePulse technology in its heart-monitoring wristbands, and claims this could potentially have dire medical consequences.
+Fitbit, a young company based in San Francisco, is a leader in the wearables industry with a market capitalization of about $3 billion. In 2015, it sold 21.3 million devices, almost double its sales a year earlier. At the same time, it has struggled with comparisons to its flashier rival, Apple Watch.
+Alex Montoye, an assistant professor of clinical exercise physiology at Ball State University, who is not connected to the lawsuit, said that the Pomona study needed rigorous vetting before any conclusions could be drawn.
+In another recent study in the journal Medicine & Science in Sports & Exercise, two other functions of Jawbone and Fitbit devices, the step and calories counts, were put to the test by a research team led by Dr. Montoye.
+The researchers tracked 30 healthy adults as they performed various tasks. When the subjects were engaged in sedentary activities, like using a computer, the devices did relatively well. But both overcounted and undercounted as things intensified, Dr. Montoye said.
+The researchers were surprised to find, however, that their own laboratory equipment got the measurements wrong, as well.
+The pulse trackers have been a more recent addition to the suite of activity trackers on the market. Most use optical sensors that reflect light onto the skin to detect blood volume.
+Independent attempts to assess their accuracy have not exactly settled the question. In 2014, CNET tested several devices, not including Fitbit, and found that they were mostly accurate during rest, but ran into trouble during exercise.
+If that all leaves you unsure about what to trust, there is always a very affordable, perfectly accurate alternative: a stopwatch and two fingers held to your neck.

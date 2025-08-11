@@ -1,0 +1,17 @@
+You may have heard that the European Union punished Google with a record $5.1 billion fine on Wednesday for abusing its power in the mobile phone market.
+Specifically, the authorities dinged Google on its practices with Android, the mobile operating system that the company provides to makers of devices. The size of the fine and the remedies that regulators ordered Google to make were consequential, both symbolically and in how handset manufacturers may incorporate Android into mobile devices in Europe in the future.
+But what does that mean for you if you own an Android phone? Here’s a rundown.
+Android is one of the most prevalent mobile operating systems, used in 80 percent of the world’s smartphones.
+Google freely provides the Android operating system to third-party handset makers. As part of the arrangement, Google requires Android phone makers to pre-install 11 Google apps on their phones. That strategy has helped Google’s signature products — search, maps, Gmail and the Chrome internet browser among them — reach more than one billion people.
+The European Union ruled that Google abused its power by forcing phone makers like Samsung, HTC and Huawei to make those services the primary products on their phones in order to gain access to other Google apps.
+Now the regulators want Google to change its ways so that other players, like rival search engine providers and browser makers, can meaningfully compete. Specifically, the European Union wants Google to stop tying together its search, browser and app store products for handset makers.
+How will this change the Android phone market?
+That remains unclear. Let’s use a current example: When you buy a Samsung phone, it comes with two browsers, two virtual assistants and two messaging apps, among other doubles. That’s because Samsung pre-installs its own apps alongside Google’s apps, which it was required to include.
+The regulators would love it if Google simply let handset makers like Samsung ship Android phones loaded with their own browsers and app stores instead of Google’s. Yet the European Union is letting Google decide how it wants to comply with its ruling. Keep in mind that Google is staffed with some of the world’s top lawyers and engineers, who will probably find compliance solutions that have a minimal impact on its business.
+The other thing is that handset makers are in a tough predicament. They probably wouldn’t want to strip their phones of Google’s apps, simply because many customers enjoy using the search giant’s products.
+How will this affect my Android phone?
+There’s only a slim chance that you will see any changes.
+What if I’m not European?
+The implications of this ruling involve many ifs.
+If Google decides to make any noticeable changes at all, the changes might appear only for European Android users who have phones with the newer Android operating system. American government officials have expressed interest in taking a tougher stance on regulating tech companies, but Europe has largely acted by itself in its regulatory actions against Silicon Valley titans.
+So other than Google’s having to pay a big fine, the ultimate effect of the European ruling may be blunted.

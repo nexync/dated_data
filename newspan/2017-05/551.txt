@@ -1,0 +1,32 @@
+Researchers have traced the cause of a baffling brain disorder to a surprising source: a particular type of bacteria living in the gut.
+Scientists increasingly suspect that the body’s vast community of bacteria — the microbiome — may play a role in the development of a wide variety of diseases, from obesity to perhaps even autism.
+The new study, published on Wednesday in Nature, is among the first to suggest convincingly that these bacteria may initiate disease in seemingly unrelated organs, and in completely unexpected ways.
+Researchers “need to be thinking more broadly about the indirect role of the microbiome” in influencing even diseases that have no obvious link to the gut, said Dr. David Relman, professor of microbiology and immunology at Stanford.
+The researchers studied hereditary cerebral cavernous malformations — blood-filled bubbles that protrude from veins in the brain and can leak blood or burst at any time.
+The findings do not point to a cure, but they do suggest a way to prevent these brain defects in children who inherit a mutated gene that can cause them.
+Researchers warned, though, that it is too soon to say whether the potential treatment — antibiotics, followed by a fecal transplant — will work.
+“Caution, caution, caution,” urged Dr. Mark Ginsberg, a professor of medicine at the University of California, San Diego, who was not involved in the new study.
+When Dr. Mark Kahn, professor of cardiovascular medicine at the University of Pennsylvania’s Perelman School of Medicine, began this work, the microbiome was the last thing on his mind.
+Dr. Kahn and his colleagues studied cerebral cavernous malformations as part of a larger effort to understand the development and function of blood vessels.
+These brain defects occur in as many as one in 100 people, most of whom have no known genetic abnormality. Most learn they have the condition when they have a brain M.R.I. for something unrelated, like a blow to the head.
+The only treatment is surgery, assuming the malformation is in an accessible area of the brain.
+Up to 20 percent of patients have a family history of this brain defect, and in them the disease is much more aggressive.
+They may have a few of these malformations — or thousands. Even babies can have strokes when the blood-filled bubbles burst.
+Three genes have been linked to the disorder, and Dr. Kahn and his colleagues tried to figure out what these mutations really do. The scientists were able to mimic the condition in mice by deleting a gene that is mutated in many patients.
+A year ago, the scientists moved to a new building, and something unexpected happened. The experimental mice stopped developing the brain malformations.
+Dr. Kahn’s student, Alan T. Tang, had been deleting the gene by injecting a drug into the abdomens of the mice. Sometimes a mouse would get an infection that would lead to an abscess, and bacteria leaked from the gut into the blood.
+In the new building, only those mice still developed the brain defect. The other gene-deleted mice did not.
+“When it happens three or four times, you realize this isn’t chance,” Dr. Kahn said.
+He and his colleagues finally identified the culprit: Gram-negative bacteria, named for the way they stain, that carry a molecule in their cell walls, a lipopolysaccharide. Without a functioning gene, the lipopolysaccharide can signal veins in the brain to form blood bubbles.
+In the old lab, mice without the gene carried enough Gram-negative bacteria to set off the disease. But in the new building, the mice were not exposed to the bacteria in sufficient amounts.
+Only those that developed abscesses, which let large numbers of Gram-negative bacteria leak into their blood, developed the brain defect. 
+Replacing their microbiomes with different bacteria — as is done in humans with fecal transplants — prevented the brain disease from recurring. But the researchers could not eliminate malformations that had already formed.
+Dr. Kahn was thrilled with the discovery but worried about its applicability. “We wanted to make sure this is not just some crazy mouse phenomenon and that it has relevance to human disease,” he said.
+The mutation causing the brain defect is carried by a large Hispanic population in New Mexico. But while some have hundreds of blood-filled bubbles in their brains, others living elsewhere in the state are perfectly fine.
+Dr. Kahn contacted researchers who study this group and with their help is obtaining fecal samples from them. He and his colleagues have begun to examine the samples for Gram-negative bacteria.
+The families were all too happy to help. Sandra Gallegos, a 49-year-old customer service agent in Santa Fe, discovered she had the mutated gene after her 9-year-old daughter died from a sudden brain hemorrhage.
+Her older son does not carry the gene, but the younger one, Joel, now 15, does. He has had seizures, and three years ago he underwent brain surgery to remove a blood-filled bubble in a vein in the frontal lobe.
+Mrs. Gallegos has at least three brain malformations. So far, her only symptom has been occasional headaches, but she knows that at any moment one of the bubbles could burst and cause a stroke.
+“It’s very hard to live with this,” she said.
+If the research holds up, Dr. Kahn said, it may one day be possible to prevent the development of the malformations in susceptible newborns by manipulating their microbiome — perhaps with a simple fecal transplant.
+The form of the disease that strikes most patients is “sporadic,” meaning they have not inherited a mutated gene. Usually they have just one malformed vein in their brain.

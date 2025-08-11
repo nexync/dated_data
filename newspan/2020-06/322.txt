@@ -1,0 +1,79 @@
+MUNICH — Dr. Camilla Rothe was about to leave for dinner when the government laboratory called with the surprising test result. Positive. It was Jan. 27. She had just discovered Germany’s first case of the new coronavirus.
+Interviews with doctors and public health officials in more than a dozen countries show that for two crucial months — and in the face of mounting genetic evidence — Western health officials and political leaders played down or denied the risk of symptomless spreading. Leading health agencies including the World Health Organization and the European Center for Disease Prevention and Control provided contradictory and sometimes misleading advice. A crucial public health discussion devolved into a semantic debate over what to call infected people without clear symptoms.
+This series of articles examines the missteps, misunderstandings and missed warning signals that allowed Covid-19 to spread around the world.
+The two-month delay was a product of faulty scientific assumptions, academic rivalries and, perhaps most important, a reluctance to accept that containing the virus would take drastic measures. The resistance to emerging evidence was one part of the world’s sluggish response to the virus.
+It is impossible to calculate the human toll of that delay, but models suggest that earlier, aggressive action might have saved tens of thousands of lives. Countries like Singapore and Australia, which used testing and contact-tracing and moved swiftly to quarantine seemingly healthy travelers, fared far better than those that did not.
+It is now widely accepted that seemingly healthy people can spread the virus, though uncertainty remains over how much they have contributed to the pandemic. Though estimates vary, models using data from Hong Kong, Singapore and China suggest that 30 to 60 percent of spreading occurs when people have no symptoms.
+Even now, with more than 9 million cases around the world, and a death toll approaching 500,000, Covid-19 remains an unsolved riddle. It is too soon to know whether the worst has passed, or if a second global wave of infections is about to crash down. But it is clear that an array of countries, from secretive regimes to overconfident democracies, have fumbled their response, misjudged the virus and ignored their own emergency plans.
+It is also painfully clear that time was a critical commodity in curbing the virus — and that too much of it was wasted.
+On the night of Germany’s first positive test, the virus had seemed far away. Fewer than 100 fatalities had been reported worldwide. Italy, which would become Europe’s ground zero, would not record its first cases for another three days.
+A few reports out of China had already suggested the possibility of symptomless spreading. But nobody had proved it could happen.
+That night, Dr. Rothe tapped out an email to a few dozen doctors and public health officials.
+“Infections can actually be transmitted during the incubation period,” she wrote.
+Three more employees from the auto parts company, Webasto, tested positive the following day. Their symptoms were so mild that, normally, it’s likely that none would have been flagged for testing, or have thought to stay at home.
+Dr. Rothe decided she had to sound the alarm. Her boss, Dr. Michael Hoelscher, dashed off an email to The New England Journal of Medicine. “We believe that this observation is of utmost importance,” he wrote.
+Editors responded immediately. How soon could they see the paper?
+The next morning, Jan. 30, public health officials interviewed the Chinese businesswoman by phone. Hospitalized in Shanghai, she explained that she’d started feeling sick on the flight home. Looking back, maybe she’d had some mild aches or fatigue, but she had chalked them up to a long day of travel.
+When the health officials described the call, Dr. Rothe and Dr. Hoelscher quickly finished and submitted their article. Dr. Rothe did not talk to the patient herself but said she relied on the health authority summary.
+Within hours, it was online. It was a modest clinical observation at a key time. Just days earlier, the World Health Organization had said it needed more information about this very topic.
+What the authors did not know, however, was that in a suburb 20 minutes away, another group of doctors had also been rushing to publish a report. Neither knew what the other was working on, a seemingly small academic rift that would have global implications.
+The second group was made up of officials with the Bavarian health authority and Germany’s national health agency, known as the Robert Koch Institute. Inside a suburban office, doctors unfurled mural paper and traced infection routes using colored pens.
+Their team, led by the Bavarian epidemiologist Dr. Merle Böhmer, submitted an article to The Lancet, another premier medical journal. But the Munich hospital group had scooped them by three hours. Dr. Böhmer said her team’s article, which went unpublished as a result, had reached similar conclusions but worded them slightly differently.
+Dr. Rothe had written that patients appeared to be contagious before the onset of any symptoms. The government team had written that patients appeared to be contagious before the onset of full symptoms — at a time when symptoms were so mild that people might not even recognize them.
+The Chinese woman, for example, had woken up in the middle of the night feeling jet-lagged. Wanting to be sharp for her meetings, she took a Chinese medicine called 999 — containing the equivalent of a Tylenol tablet — and went back to bed.
+Perhaps that had masked a mild fever? Perhaps her jet lag was actually fatigue? She had reached for a shawl during a meeting. Maybe that was a sign of chills?
+That weekend, Andreas Zapf, the head of the Bavarian health authority, called Dr. Hoelscher of the Munich clinic. “Look, the people in Berlin are very angry about your publication,” Dr. Zapf said, according to Dr. Hoelscher.
+He suggested changing the wording of Dr. Rothe’s report and replacing her name with those of members of the government task force, Dr. Hoelscher said. He refused.
+The health agency would not discuss the phone call.
+The Robert Koch Institute declined repeated interview requests over several weeks and did not answer written questions.
+The controversy also overshadowed another crucial development out of Munich.
+The next morning, Dr. Clemens-Martin Wendtner made a startling announcement. Dr. Wendtner was overseeing treatment of Munich’s Covid-19 patients — there were eight now — and had taken swabs from each.
+He discovered the virus in the nose and throat at much higher levels, and far earlier, than had been observed in SARS patients. That meant it probably could spread before people knew they were sick.
+But the Science story drowned that news out. If Dr. Rothe’s paper had implied that governments might need to do more against Covid-19, the pushback from the Robert Koch Institute was an implicit defense of the conventional thinking.
+As Dr. Rothe and Dr. Hoelscher reeled from the criticism, Japanese doctors were preparing to board the Diamond Princess cruise ship. A former passenger had tested positive for coronavirus.
+Yet on the ship, parties continued. The infected passenger had been off the ship for days, after all. And he hadn’t reported symptoms while onboard.
+Immediately after Dr. Rothe’s report, the World Health Organization had noted that patients might transmit the virus before showing symptoms. But the organization also underscored a point that it continues to make: Patients with symptoms are the main drivers of the epidemic.
+Once the Science article was published, however, the organization waded directly into the debate on Dr. Rothe’s work. On Tuesday, Feb. 4, Dr. Sylvie Briand, the agency’s chief of infectious disease preparedness, tweeted a link to the Science article, calling Dr. Rothe’s report flawed.
+With that tweet, the W.H.O. focused on a semantic distinction that would cloud discussion for months: Was the patient asymptomatic, meaning she would never show symptoms? Or pre-symptomatic, meaning she became sick later? Or, even more confusing, oligo-symptomatic, meaning that she had symptoms so mild that she didn’t recognize them?
+To some doctors, the focus on these arcane distinctions felt like whistling in the graveyard. A person who feels healthy has no way to know that she is carrying a virus or is about to become sick. Airport temperature checks will not catch these people. Neither will asking them about their symptoms or telling them to stay home when they feel ill.
+The W.H.O. later said that the tweet had not been intended as a criticism.
+One group paid little attention to this brewing debate: the Munich-area doctors working to contain the cluster at the auto parts company. 
+“For us, it was pretty soon clear that this disease can be transmitted before symptoms,” said Dr. Monika Wirth, who tracked contacts in the nearby county of Fürstenfeldbruck.
+Dr. Rothe, though, was shaken. She could not understand why much of the scientific establishment seemed eager to play down the risk.
+“We will be proven right,” she told Dr. Hoelscher.
+On Feb. 4, Britain’s emergency scientific committee met and, while its experts did not rule out the possibility of symptomless transmission, nobody put much stock in Dr. Rothe’s paper.
+The data would soon arrive, and from an unexpected source. Dr. Böhmer, from the Bavarian health team, received a startling phone call in the second week of February.
+Virologists had discovered a subtle genetic mutation in the infections of two patients from the Munich cluster. They had crossed paths for the briefest of moments, one passing a saltshaker to the other in the company cafeteria, when neither had symptoms. Their shared mutation made it clear that one had infected the other.
+Dr. Böhmer had been skeptical of symptomless spreading. But now, there was no doubt: “It can only be explained with pre-symptomatic transmission,” Dr. Böhmer said.
+Now it was Dr. Böhmer who sounded the alarm. She said she promptly shared the finding, and its significance, with the W.H.O. and the European Center for Disease Prevention and Control.
+Neither organization included the discovery in its regular reports.
+A week after receiving Dr. Böhmer’s information, European health officials were still declaring: “We are still unsure whether mild or asymptomatic cases can transmit the virus.” There was no mention of the genetic evidence.
+W.H.O. officials say the genetic discovery informed their thinking, but they made no announcement of it. European health officials say the German information was one early piece of an emerging picture that they were still piecing together.
+The doctors in Munich were increasingly frustrated and confused by the World Health Organization. First, the group wrongly credited the Chinese government with alerting the German authorities to the first infection. Government officials and doctors say the auto parts company itself sounded the alarm.
+Then, the World Health Organization’s emergency director, Dr. Michael Ryan, said on Feb. 27 that the significance of symptomless spreading was becoming a myth. And Dr. Maria Van Kerkhove, the organization’s technical lead on coronavirus response, suggested it was nothing to worry about.
+The agency still maintains that people who cough or sneeze are more contagious than people who don’t. But there is no scientific consensus on how significant this difference is or how it affects the spread of virus.
+And so, with evidence mounting, the Munich team could not understand how the W.H.O. could be so sure that symptomless spreading was insignificant.
+The Munich cluster was not the only warning.
+The Chinese health authorities had explicitly cautioned that patients were contagious before showing symptoms. A Japanese bus driver was infected while transporting seemingly healthy tourists from Wuhan.
+And by the middle of February, 355 people aboard the Diamond Princess cruise ship had tested positive. About a third of the infected passengers and staff had no symptoms.
+But public health officials saw danger in promoting the risk of silent spreaders. If quarantining sick people and tracing their contacts could not reliably contain the disease, governments might abandon those efforts altogether.
+In Sweden and Britain, for example, discussion swirled about enduring the epidemic until the population obtained “herd immunity.” Public health officials worried that might lead to overwhelmed hospitals and needless deaths.
+Plus, preventing silent spreading required aggressive, widespread testing that was then impossible for most countries.
+Looking back, health officials should have said that, yes, symptomless spreading was happening and they did not understand how prevalent it was, said Dr. Agoritsa Baka, a senior European Union doctor.
+But doing that, she said, would have amounted to an implicit warning to countries: What you’re doing might not be enough.
+By early March, while the World Health Organization continued pressing the case that symptom-free transmission was rare, science was breaking in the other direction.
+Researchers in Hong Kong estimated that 44 percent of Covid-19 transmission occurred before symptoms began, an estimate that was in line with a British study that put that number as high as 50 percent.
+The Hong Kong study concluded that people became infectious about two days before their illness emerged, with a peak on their first day of symptoms. By the time patients felt the first headache or scratch in the throat, they might have been spreading the disease for days.
+In Belgium, doctors saw that math in action, as Covid-19 tore through nursing homes, killing nearly 5,000 people.
+More than 700 people aboard the Diamond Princess were sickened. Fourteen died. Researchers estimate that most of the infection occurred early on, while seemingly healthy passengers socialized and partied.
+Government scientists in Britain concluded in late April that 5 to 6 percent of symptomless health care workers were infected and might have been spreading the virus.
+In Munich, Dr. Hoelscher has asked himself many times whether things would have been different if world leaders had taken the issue seriously earlier. He compared their response to a rabbit stumbling upon a poisonous snake.
+“We were watching that snake and were somehow paralyzed,” he said.
+Acceptance. Or Not.
+As the research coalesced in March, European health officials were convinced.
+By the end of the month, the U.S. Centers for Disease Control announced it was rethinking its policy on masks. It concluded that up to 25 percent of patients might have no symptoms.
+After The Times asked about those discrepancies, the organization removed the advertisements.
+Back in Munich, there is little doubt left. Dr. Böhmer, the Bavarian government doctor, published a study in The Lancet last month that relied on extensive interviews and genetic information to methodically track every case in the cluster.
+In the months after Dr. Rothe swabbed her first patient, 16 infected people were identified and caught early. All survived. Aggressive testing and flawless contact-tracing contained the spread.
+Dr. Böhmer’s study found “substantial” transmission from people with no symptoms or exceptionally mild, nonspecific symptoms.
+Dr. Rothe and her colleagues got a footnote.

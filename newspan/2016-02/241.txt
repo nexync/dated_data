@@ -1,0 +1,39 @@
+DealBook|A New Breed of Trader on Wall Street: Coders With a Ph.D.
+A New Breed of Trader on Wall Street: Coders With a Ph.D.
+HOLLYWOOD, Fla. — The mood in the markets may be getting grimmer, but in the booming world of exchange-traded funds, people just want to party.
+And so it was last month at the $2.8 trillion industry’s annual jamboree in South Florida, where 2,200 investment advisers and fund salesmen came together for three days of hard drinking and product pitching. Against a backdrop of New Orleans jazz bands and poolside schmooze-fests — some call it spring break for the E.T.F. crowd — one event stood out, though.
+It was an invitation-only party (crabs, cocktails and a D.J. on a moonlit dock) thrown by Jane Street, a secretive E.T.F. trading firm that, after years of minting money in the shadows of Wall Street, is now pitching itself to some of the largest institutional investors in the world.
+And the message was clear: Jane Street, which barely existed 15 years ago and now trades more than $1 trillion a year, was ready to take on the big boys.
+Much of what Jane Street, which occupies two floors of an office building at the southern tip of Manhattan, does is not known. That is by design, as the firm deploys specialized trading strategies to capture arbitrage profits by buying and selling (using its own capital) large amounts of E.T.F. shares.
+As the popularity of E.T.F.s has soared — exchange-traded funds now account for a third of all publicly traded equities — the spreads, or margins, have narrowed substantially, making it harder to profit from the difference.
+And in many cases, some of the most popular E.T.F.s track hard-to-trade securities like junk bonds, emerging-market stocks and a variety of derivative products, adding an extra layer of risk.
+These dangers were brought home last August, when markets were rattled by China’s decision to devalue its currency; some of the largest E.T.F.s sank by 50 percent or more.
+While traders at large investment banks watched their screens in horror, at Jane Street, a bunch of Harvard Ph.D.s wearing flip-flops, shorts and hoodies, swung into action with a wave of buy orders. By the end of the day, the E.T.F. shares had retraced their sharp falls.
+It is not only Jane Street, of course. Cantor Fitzgerald, the Knight Capital Group and the Susquehanna International Group have all capitalized on the E.T.F. explosion.
+And as these firms have grown, so has the demand for a new breed of Wall Street trader — one who can build financial models and write computer code but who also has the guts to spot a market anomaly and bet big with the firm’s capital.
+In a word, these are not your suit-and-tie bond and stock traders of yore, riding the commuter train into Manhattan. They are, instead, the pick of the global brain crop.
+Here is a small sample of Jane Street’s main traders: Tao Wang (doctorate in philosophy and finance from the National University of Singapore), Min Zhu (master’s in chemistry, Columbia), Brett Harrison (master’s in computer science with a focus in artificial intelligence, Harvard) and Srihari Seshadri (bachelor’s in computer science, Carnegie Mellon).
+For large asset management firms like BlackRock, Vanguard and Invesco, the business of rolling out one E.T.F. after another has become a major profit center. But in many ways, the real money is being made by the trading firms that specialize in making a market in these securities.
+For example, Jane Street, which is privately held, has increased its shareholder’s equity, or net worth, to more than $1 billion today from $228 million in 2007.
+That cash cushion handily surpasses what such established investment banks as Evercore, Moelis and Greenhill have (as of 2014) as well as that at money management firms like Eaton Vance.
+Moreover, it supports just 450 people in offices in New York, London and Hong Kong.
+Jane Street was founded at the beginning of the previous decade, when a couple of option traders and a computer expert left Susquehanna to start their own business.
+Harnessing Ph.D.-toting mathematicians to the most powerful computers money can buy has become the accepted way for hedge funds and banks to get a trading edge these days, but Jane Street takes this marriage of high tech and high intellect to a new level.
+Writing computer code, or at the least being conversant in the firm’s program of choice, OCaml, is a requisite for all traders. Indeed, new traders must complete a monthlong OCaml boot camp before they start trading.
+And to the degree that the super-shy Jane Street does have a public face, it belongs to its chief technology officer, Yaron Minsky, who gives frequent lectures at Harvard, M.I.T. and Carnegie Mellon, promoting the firm’s ability to manage risk by developing the best software around.
+If Mr. Minsky is the spirit guide for Jane Street’s techies, Sandor Lehoczky, a past math Olympian and co-author of a book on problem-solving strategies for number whizzes, stands guard over the firm’s brain.
+A star trader for the company, he also oversees its hiring process.
+Jane Street has acquired a reputation for being perhaps the toughest interview in Silicon Valley and on Wall Street.
+This is in part because the firm hires only a handful of new employees each year. To survive, candidates have to ace brain-twisting math riddles and game theory tests.
+But as Mr. Lehoczky has said when asked what he is looking for in an E.T.F. trader, the ideal candidate possesses what he calls second-order knowledge — a form of intellectual humility in which really smart people can accept being wrong and own up to mistakes.
+In that vein, a prospect might be fed a math problem that cannot be answered, just to gauge reaction to failure.
+Because Jane Street finds itself competing more with Facebook and Google for talent than with, say, Goldman Sachs, the firm lays on the perks. These include a catered breakfast and lunch, a substantial gym right off the trading floor, generous child care benefits and an in-house speaker series that has featured the likes of Salman Rushdie, Christopher Hitchens and Garry Kasparov.
+As for compensation, how much Jane Street’s rocket scientists get paid is as closely guarded a secret as its trading formulas. Still, it is apparently quite a bit.
+“As a trader, if you do well, you will retire before you turn 30,” said one employee on an industry message board.
+A number of larger banks, Goldman in particular, have been involved in exchange-traded funds for some time now, but the rest of the Wall Street banks are seeking to recruit their own E.T.F. hotshots.
+One such trader is Monish Shah, a 31-year-old native of Mumbai, who was hired by the Japanese bank Mizuho to build a trading desk in its New York office.
+Mr. Shah fits the profile of the up-and-coming E.T.F. trader: He is young, has a master’s degree in quantitative finance at Georgia Tech and is as much a writer of code as he is a trader.
+On an old-school trading desk of mostly white men in their 50s buying and selling common stock, Mr. Shah stands out.
+Ensconced at the far end of the firm’s equity desk, his four computer screens flash an array of color-coded execution cues, and he is a frequent target of good-natured trading-room banter, sending up his supersize console, his youth and even his Indian accent.
+As stocks tumbled yet again on a Friday this month, curses rang out up and down the desk. An E.T.F. that Mr. Shah had been eyeing was down more than 3 percent, and now his color-coded signals were flashing green for buy — which is what he did, just as the market bell rang at 4 p.m.
+Within a half-hour, the desk was empty as his colleagues rushed to catch the early train home. But Mr. Shah was not going anywhere; he had a business to build.

@@ -1,0 +1,40 @@
+Health|Doctors Said Immunotherapy Would Not Cure Her Cancer. They Were Wrong.
+Doctors Said Immunotherapy Would Not Cure Her Cancer. They Were Wrong.
+No one expected the four young women to live much longer. They had an extremely rare, aggressive and fatal form of ovarian cancer. There was no standard treatment.
+The women, strangers to one another living in different countries, asked their doctors to try new immunotherapy drugs that had revolutionized treatment of cancer. At first, they were told the drugs were out of the question — they would not work against ovarian cancer.
+Now it looks as if the doctors were wrong. The women managed to get immunotherapy, and their cancers went into remission. They returned to work; their lives returned to normalcy.
+The tale has befuddled scientists, who are struggling to understand why the drugs worked when they should not have. If researchers can figure out what happened here, they may open the door to new treatments for a wide variety of other cancers thought not to respond to immunotherapy.
+“What we are seeing here is that we have not yet learned the whole story of what it takes for tumors to be recognized by the immune system,” said Dr. Jedd Wolchok, chief of the melanoma and immunotherapeutics service at Memorial Sloan Kettering Cancer Center in New York.
+Four women hardly constitutes a clinical trial. Still, “it is the exceptions that give you the best insights,” said Dr. Drew Pardoll, who directs the Bloomberg-Kimmel Institute for Cancer Immunotherapy at Johns Hopkins Medicine in Baltimore.
+The cancer that struck the young women was hypercalcemic small cell ovarian cancer, which typically occurs in a woman’s teens or 20s. It is so rare that most oncologists never see a single patient with it.
+But Dr. Douglas Levine, director of gynecologic oncology at New York University Langone Medical Center, specialized in this disease. A few years ago, he discovered that the cancer was driven by a single gene mutation. The finding was of little use to patients — there was no drug on the horizon that could help.
+Women with this form of ovarian cancer were sharing news and tips online in a closed Yahoo group. Dr. Levine asked to become part of the group and began joining the discussions. There he discovered patients who had persuaded doctors to give them an immunotherapy drug, even though there was no reason to think it would work.
+The women reported that their tumors shrank immediately.
+The idea behind immunotherapy is to dismantle a molecular shield that some tumors use to avoid an attack by the body’s white blood cells.
+The immune system sees these tumors as foreign — they are fueled by hundreds of genetic mutations, which drive their growth and are recognized by the body. 
+Immunotherapy drugs pierce that protective shield, allowing the immune system to recognize and demolish tumor cells. But the new drugs do not work against many common cancers.
+Those cancers are supported by fewer genetic mutations, and experts believe that the tumor cells just do not look threatening enough to the body to spur a response. So the immune system leaves them alone.
+Lung cancer, a genetic type of colorectal cancer and melanoma have huge numbers of mutations, and immunotherapy drugs often are successful in treating them. Cancers of the prostate, pancreas, breast, ovaries — and most other tumors — carry few mutations.
+“These are the cancers that rarely respond,” Dr. Pardoll said.
+The idea that the drugs might work against something like hypercalcemic ovarian cancer, which is fueled by just one genetic mutation, just made no sense.
+“For the vast majority of cancers, there is an amazingly clean correlation between response to therapy and mean mutational load,” Dr. Pardoll said.
+But there were a few oddball exceptions. An unusual skin cancer called Merkel cell carcinoma responded to immunotherapy, scientists found. It is caused by a virus, and researchers suggested the infection itself draws the attention of the immune system.
+Mesothelioma also responded, perhaps because the asbestos that caused it also inflames the immune system. And some kidney cancers responded to immunotherapy treatment; no one knows why.
+And then came a handful of women with a rare ovarian cancer. Oriana Sousa, 28, a psychologist in Marinha Grande, Portugal, was one of them.
+She found out she had cancer in December 2011. She knew something was wrong — for several months she had been feeling tired, constipated and endlessly thirsty. She began vomiting and had abdominal cramps. But her doctors told her she was fine and not to worry.
+Finally, her aunt, a nurse, suggested she see a different doctor, who performed a CT scan of her abdomen. It revealed a huge mass. The doctor operated to find out what it was. Two days later, he gave her the bad news: Cancer, and a really terrible form of it.
+For the next four years, Ms. Sousa’s doctors tried to control the cancer, giving her rounds of chemotherapy, radiotherapy and surgery. But every time, new tumors emerged.
+“I suffered a lot, and I felt I had no life,” she said.
+Things are different now. In 2015, she finally persuaded a doctor to give her an immunotherapy drug, nivolumab. Immediately, her tumors shrank and continued shrinking as she continued with the drug — so much that her doctors now say she has no evidence of disease. Life has returned to normal.
+What saved her? Dr. Eliezer M. Van Allen, a cancer researcher at Dana-Farber Cancer Institute, has come across one clue.
+He found that a gene mutated in kidney cancer was sort of a master regulator of other genes, controlling which were turned on and when. But the regulated genes were normal and did not produce proteins that the immune system might recognize as abnormal.
+Nonetheless, patients responding to immunotherapy were the ones with the master gene mutation. “We saw this result and weren’t sure what to make of it,” he said.
+Dr. Levine and his colleagues found the same phenomenon in patients with hypercalcemic ovarian cancers. One explanation, he and Dr. Van Allen said, is that the immune system may recognize that cells in which genes are erratically turning on and off are dangerous and should be destroyed.
+“That is strictly hypothesis,” Dr. Levine cautioned.
+One thing is clear, though: When pathologists examine these tumors, they find white blood cells in them — as if the immune system were trying to attack. And that finding has led both Dr. Pardoll and Dr. Padmanee Sharma of M.D. Anderson Cancer Center in Houston to plan new clinical trials.
+They know that immunotherapy fails most patients, even those with cancers that are most likely to respond. So they have set out to create a test to determine who might respond to immunotherapy and then treat those patients — regardless of their cancer type.
+Dr. Sharma’s study, funded by the Parker Institute, is getting ready to enroll patients. The researchers will look at pathology slides of patients’ tumors to see if white blood cells are worming their way into the cancers. If so, the patients will get an immunotherapy drug to help activate their white blood cells to attack the tumor.
+If there are few white blood cells in the tumor tissue, patients will get a combination of two immunotherapy drugs to help move more white blood cells into the tumor and help them attack.
+At Johns Hopkins, Dr. Pardoll and his colleagues are planning a similar trial. They will be looking for tumors — it does not matter what type — that have a protein, PD-L1, on the surface that repels the immune system. Any patient whose tumor fits that description will get an immunotherapy drug.
+It’s a shot in the dark. But sometimes such a shot finds the mark, as Ms. Sousa will tell you.
+“Incredible things happen, and against all the odds,” she said.

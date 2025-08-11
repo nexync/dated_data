@@ -1,0 +1,2 @@
+PCR is a venerable technology, invented about 35 years ago by the biochemist Kary Mullis. It allowed scientists to find pieces of DNA that contained a particular sequence, even if that sequence was extremely rare.
+Dr. Abudayyeh, Dr. Zhang, and their colleague Jonathan Gootenberg at M.I.T.’s McGovern Institute have been trying out Crispr to see if it can work as that new technology.

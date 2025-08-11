@@ -1,0 +1,9 @@
+For weeks, users of Amazon’s digital assistant, Alexa, have reported versions of the same unsettling event: being startled as they went about their day by Alexa letting out an eerie laugh.
+Now, Amazon says that it knows why that’s been happening and is working to fix the problem.
+One user said on Twitter that he was talking to his sister when he heard his device laugh. He had stopped the conversation and began searching online for an explanation of what had just occurred. Finding nothing, he asked Alexa to repeat the last sound she had made.
+Another Twitter user reported being startled by Alexa’s laugh, at first thinking there was a child in the room.
+The episode underscored the concerns swirling around Echo and other smart speakers, like Google Home, which often sit in intimate spaces, awaiting a call to action.
+Critics have argued that the always-on devices pose a threat to privacy and security. There have been reports of children ordering items through the devices without parental consent, and last year Burger King took advantage of the devices by incorporating a command into a commercial.
+Despite those concerns, the technology has been widely embraced. Reports vary on just how many Americans use such devices, but all suggest that adoption is relatively high.
+On Tuesday, for example, the polling organization Gallup and Northeastern University reported that about one in five American adults use an intelligent home device such as Alexa, Google Home or other competing devices.
+Amazon sold tens of millions of Alexa devices during the recent holiday season, with analysts saying that the Echo accounts for more than 70 percent of smart speaker sales.

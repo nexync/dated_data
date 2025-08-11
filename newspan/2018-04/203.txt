@@ -1,0 +1,31 @@
+Technology|Facebook Is Complicated. That Shouldn’t Stop Lawmakers.
+Facebook Is Complicated. That Shouldn’t Stop Lawmakers.
+WASHINGTON — When it comes to regulating Facebook, Congress is in over its head. But does that matter?
+This week’s marathon testimony by Mark Zuckerberg, the social network’s chief executive, revealed the limited understanding many lawmakers have of what Facebook is and how it works. Members of Congress came with a mixed bag of concerns for Mr. Zuckerberg, including a few incisive points about Facebook’s privacy and data collection policies and a lot of off-topic ramblings about how computers work, but these questions never amounted to a unified theory of Facebook’s troubles, or suggestions of how they might be solved.
+It’s tempting to claim that technological illiteracy is the problem — that some older and tech-phobic lawmakers are fundamentally incapable of regulating Facebook properly.
+But I want to suggest another takeaway. The biggest obstacle to regulating Facebook is not Congress’s lack of computer literacy, which gave Mr. Zuckerberg the upper hand this week. It’s a lack of political will, and an unwillingness to identify the problems they’re trying to fix in the first place.
+After all, Congress typically does not require subject matter expertise of its members. Most politicians in Washington did not understand the complexities of mortgage-backed securities in 2009, when Wall Street executives testified in the wake of the financial crisis. The lawmakers also are not pharmaceutical experts, or transportation policy wonks or deeply knowledgeable in many of the other complex issues that come before them. And yet, Congress — with the help of staff experts and outside advisers — has managed to pass sweeping legislation to prevent excesses and bad behavior in those sectors.
+“It’s never an issue of the members being able to do it — their staff is often incredibly dedicated and can dig into these issues,” said Ashkan Soltani, a former chief technologist at the Federal Trade Commission. The challenge, Mr. Soltani said, is that there’s a “lost in translation” problem of trying to condense complex, multifaceted issues into easily digested sound bites that will play well with constituents.
+Members of the Energy and Commerce Committee pressed Facebook’s chief executive on data privacy, security and political bias on the social media platform.
+If Congress wants to rein in Facebook’s enormous power — and the questions lawmakers asked left little doubt that it does — then the first step is identifying what, specifically, they think is wrong with Facebook.
+Is it that Facebook is too cavalier about sharing user data with outside organizations?
+Is it that Facebook collects too much data about users in the first place?
+Is it that Facebook is promoting addictive messaging products to children?
+Is it that Facebook’s news feed is polarizing society, pushing people to ideological fringes?
+Is it that Facebook is too easy for political operatives to exploit, or that it does not do enough to keep false news and hate speech off users’ feeds?
+Is it that Facebook is simply too big, or a monopoly that needs to be broken up?
+All of these are concerns lawmakers brought up during this week’s hearings, and they would all require different and narrowly tailored regulatory solutions.
+Congress could address the issue of data collection by adopting European-style data protection policies, requiring stronger user controls for personal information or requiring social networks to delete certain types of user data automatically after a given time.
+If it wanted to, Congress could address the issue of hateful content by adopting strict hate speech laws like the ones that exist in Germany, which make social platforms liable if they fail to remove hate speech in a timely manner.
+Or, if it decides that Facebook is just too darn big, Congress could spearhead an effort to break it up.
+All of these are theoretically possible outcomes, depending on which of Facebook’s many issues lawmakers decide to address. Lawmakers do not need to be computer scientists, or to come up with an omnibus bill to address all of Facebook’s flaws in one fell swoop. It could pick off one issue at a time, consult with the experts and take a piecemeal approach.
+But first, it needs to understand which pieces need fixing, and how to carry out fixes without creating unintended consequences. And it needs to demonstrate that it has the political resolve to push these changes through, even as the tech industry furiously lobbies against them, as it undoubtedly will.
+Perhaps the most dispiriting exchange all week was when Senator Lindsey Graham, Republican of South Carolina, asked Mr. Zuckerberg about Facebook’s market power, and the notion that it is too dominant for any other social network to compete with.
+“Is there an alternative to Facebook in the private sector?” Mr. Graham asked.
+Mr. Zuckerberg dodged the question, saying that people use lots of apps to communicate.
+“You don’t feel like you have a monopoly?” Mr. Graham wondered.
+“It certainly doesn’t feel that way to me,” Mr. Zuckerberg said.
+By raising the issue of Facebook’s lack of competition, Mr. Graham was circling around an important point. Facebook has, indeed, taken steps to acquire or crush multiple apps that have posed a competitive threat. It even runs a service called Onavo, which allows it to keep tabs on which other apps its users are using and functions as a kind of early-warning system for possible competitors.
+But when it came time to draw the conclusion his questions had been leading to — that Facebook’s primary problem was its size, and that regulation should address its anticompetitive tendencies — Mr. Graham pulled his punches, even asking Mr. Zuckerberg for advice about regulating his own company.
+“Would you work with us in terms of what regulations you think are necessary in your industry?” Mr. Graham asked.
+This week’s hearings proved that a groundswell of support is building on Capitol Hill to regulate Facebook and other internet companies. But until Congress stops asking these companies how they want to be regulated and starts making its own decisions about what problems it wants to fix, its targets will continue to slip through its fingers.

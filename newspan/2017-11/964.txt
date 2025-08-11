@@ -1,0 +1,2 @@
+New technology used in Abilify’s digital pill can collect data on whether patients have taken their medicine, as well as patients’ own reports on their mood.
+AiCure, a smartphone-based visual recognition system in which patients document taking medicine, has had success with tuberculosis patients treated by the Los Angeles County Health Department and is working with similar patients in Illinois, said Adam Hanina, AiCure’s chief executive.

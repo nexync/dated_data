@@ -1,0 +1,31 @@
+A free market ideology has long been the prevailing ethos on the online markets where drugs and stolen credit cards are for sale.
+But a fierce debate has erupted among the operators and users of these markets over whether free markets need some limits.
+On Tuesday, one of the largest marketplaces operating on the so-called dark web, Hansa Market, decided to institute new limits by banning the sale of the deadly synthetic opioid known as fentanyl, which has been at the center of the nationwide overdose epidemic.
+On Hansa Market’s messaging forums, some users quickly celebrated the decision.
+But there was also resistance from free market purists. And most other similar websites are continuing to allow the sale of fentanyl.
+Hansa Market’s decision was, in one sense, a practical move. The largest dark web marketplace, known as AlphaBay, was taken down two weeks ago in a coordinated law enforcement action.
+In the months before it was taken down, AlphaBay came under intense scrutiny over the large number of dealers selling synthetic opioids like fentanyl. AlphaBay’s role in the sale of such drugs was detailed in a front-page article in The New York Times last month.
+These vendors were tied to numerous overdose deaths across the country, and several large vendors were arrested in the months before the site was taken down.
+Last weekend, an AlphaBay customer wrote a popular post on Reddit urging other dark web markets to ban fentanyl and credit card fraud out of a desire for self-preservation.
+“For the average drug user not interested in fent, a specialized market not allowing these things will be safer and less targeted,” the user, going by the screen name Chemical_Love_Story, wrote, using an abbreviation for fentanyl.
+The conversation, though, quickly shifted from practical questions of evading law enforcement to moral questions of what sorts of limits should be permissible in drug markets.
+“I hate the point that I’m arguing right now because, like you say, I think it should be up to the individual what they can and can’t put into their bodies,” the author of the post wrote in response to other commenters.
+“No other drug has ever made me question my stance on decriminalizing all drugs,” he wrote.
+Fentanyl has become notorious because it is so much more potent than heroin and other traditional opioids. Just a few flakes are often enough to kill someone.
+In the last two years, many areas of the United States have seen fentanyl and similar chemicals overtake heroin and prescription pills as the leading cause of overdose deaths.
+Law enforcement officials have said most synthetic opioids are coming into the country from China, where the drugs are produced in underground labs.
+The unusual attributes of these chemicals have given dark net markets an outsize role in the distribution of the drugs, prosecutors and investigators have said. Several of the AlphaBay dealers who were arrested recently had trafficked enough fentanyl to get millions of people high.
+The prominence of the dark markets means that the decisions made by its operators could have some impact on the broader distribution of synthetic opioids.
+“I think if anyone is going to put a stop to its distribution, it has to be us, in this community,” the author of the recent Reddit post wrote.
+So far, though, most other large online marketplaces have shown no signs of moving toward a similar ban.
+One of the longest-surviving sites, Dream Market, had 480 listings for fentanyl on Tuesday, with offerings from several vendors going by the same screen names as leading vendors on AlphaBay.
+Even after Hansa Market instituted its ban, one vendor on the site still had listings for one gram of “China White Synthetic Heroin Fentanyl,” which was going for $122.35 and was advertised as shipping from China.
+Generally the administrators of the sites can take down listings that do not follow site rules.
+Dark web operators are able to have such latitude in running their sites because the underlying technology obscures the location of both the site operators and the users, making it harder for the police to intervene.
+The debate about how dark net operators should limit the commerce on their sites is as old as the sites themselves.
+After an extensive online discussion, the operator of the original dark net market, the Silk Road, decided to prohibit the sale of weapons and child pornography.
+Advocates for radically free markets have argued that such bans merely lead buyers and sellers to find other markets that do allow the trade, which happened with both guns and child pornography.
+But the authorities have focused their attention on those sites, and most markets impose at least some restrictions on what they will allow. Before it banned fentanyl this week, Hansa Market already prohibited “murder for hire,” “human organs” and “living animals,” among other categories. But the site still allows for trade in stolen financial credentials.
+Isak Ladegaard, a sociologist at Boston College focusing on dark net markets, said Hansa Market’s new policy was unlikely to reduce the traffic of the drugs.
+“My guess is that Hansa vendors who make a lot of money from fentanyl will simply sell that product in other markets while continuing to sell permitted products on Hansa,” he said.
+Last fall, a smaller site, Darknet Heroes League, instituted a ban on fentanyl. In a series of messages on the site’s internal messaging system, the site’s administrator said that the traffic was still likely to go on elsewhere but that that did not deter the site.

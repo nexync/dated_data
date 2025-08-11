@@ -1,0 +1,27 @@
+Sifting through teaspoons of clay and sand scraped from the floors of caves, German researchers have managed to isolate ancient human DNA — without turning up a single bone.
+“It’s a bit like discovering that you can extract gold dust from the air,” said Adam Siepel, a population geneticist at Cold Spring Harbor Laboratory.
+Until recently, the only way to study the genes of ancient humans like the Neanderthals and their cousins, the Denisovans, was to recover DNA from fossil bones.
+Looking for these genetic signposts in sediment has become possible only in the last few years, with recent developments in technology, including rapid sequencing of DNA.
+Although DNA sticks to minerals and decayed plants in soil, scientists did not know whether it would ever be possible to fish out gene fragments that were tens of thousands of years old and buried deep among other genetic debris.
+Bits of genes from ancient humans make up just a minute fraction of the DNA floating around in the natural world.
+But the German scientists, led by Matthias Meyer at the Max Planck Institute for Developmental Biology in Tübingen, have spent years developing methods to find DNA even where it seemed impossibly scarce and degraded.
+Scientists began by retrieving DNA from ancient bones: first Neanderthals, then Denisovans.
+To identify the Denisovans, Svante Paabo, a geneticist at the Planck Institute and a co-author of the new paper, had only a child’s pinkie bone to work with.
+His group surprised the world in 2010 by reporting that it had extracted DNA from the bone, finding that it belonged to a group of humans distinct from both Neanderthals and modern humans.
+But that sort of analysis is limited by the availability of fossil bones.
+“In a lot of cases, you can get bones, but not enough,” said Hendrik Poinar, an evolutionary geneticist at McMaster University.
+Finding and analyzing ancient DNA in dirt is far more difficult than getting it out of bone. The idea was not new, noted Viviane Slon, a member of Dr. Meyer’s group and the first author of the new paper.
+Other groups of researchers have found DNA in sediment, including Dr. Poinar and Michael Hofreiter, his former student. Using a tablespoon of dirt from a cave in Colorado, his team discovered traces from 16 animal species that had lived there. It took two weeks to do it.
+Researchers who had scoured that cave for bones had spent 20 years there and had sifted through two metric tons of dirt to find bones, teeth or skin of 20 animal species — including the 16 that Dr. Poinar’s group later identified.
+The new study involved searching for ancient DNA in four caves in Eurasia where humans were known to have lived between 14,000 and 550,000 years ago.
+Dr. Meyer and his colleagues figured out which DNA in the cave sediment was prehistoric by looking for telltale signs of degradation at the ends of the molecules.
+They then plucked out DNA from Neanderthals and Denisovans by using molecular hooks to snare genes in mitochondria — the cells’ energy factories — that are unique to these humans.
+The scientists also built a robotic system to analyze the samples quickly; the old way, pipetting by hand, required several days to analyze only a fraction as many samples.
+The group needed that efficiency. From different dirt samples, they recovered between 5,000 and 2.8 million DNA fragments. The number of DNA fragments per sample that were from ancient humans was minuscule and ranged from 0 to 8,822, depending on the site in the cave.
+The discovery that it is now possible to do all this, Dr. Reich said, is just “an amazing, amazing thing.” The questions that can now be addressed seem almost endless.
+Researchers could feasibly begin searching for bones in caves where DNA in the dirt indicates habitation by ancient humans. And they are likely to begin learning much more about human prehistory.
+The Denisovans, for example: Tiny pieces of genes inherited from them have been found in modern humans in Papua New Guinea. How did they get there? And why these people, and not humans closer to Siberia?
+With the new technique, one way to try to verify the presence of humans would be to look for ancient human DNA at the site where the bones were found or in areas nearby.
+“A natural thing to do is start looking in sediments,” said Jonathan Pritchard, a professor of genetics and biology at Stanford.
+Another application of the discovery, said Dr. Reich, would be to start looking for evidence of ancient human DNA in open air sites, instead of looking for bones in caves.
+“If it worked, it would provide a much richer picture of the geographic distribution and migration patterns of ancient humans, one that was not limited by the small number of bones that have been found,” he said.

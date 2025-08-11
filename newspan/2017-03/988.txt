@@ -1,0 +1,36 @@
+SpaceX did something on Thursday that really hadn’t been done before: launch a cheaper, partially-used rocket into orbit.
+That may be a stride toward slashing the price tag of sending payload to space. For Elon Musk, the company’s billionaire founder, successfully flying reusable rockets over and over is a crucial step toward his dream of sending people to Mars.
+The rocket, carrying a telecommunications satellite, launched from the Kennedy Space Center in Florida.
+What’s a ‘Pre-Flown’ Rocket?
+After multiple failed attempts, SpaceX successfully landed a rocket on a drone ship.
+The first stage, or booster, is the big segment of the Falcon 9 rocket with nine engines that get the rocket off the ground. The booster used Thursday was the same one that lifted cargo for NASA to the International Space Station in April 2016 and then landed on a floating platform in the Atlantic.
+The recovered booster was ferried to port in Jacksonville. Company officials have not provided many details about the refurbishment. In January, the booster, securely held down, was test-fired at SpaceX’s facility in Texas. It was then shipped to Florida to be prepared for launch.
+The used booster indeed worked just as well as a new one. “We just had an incredible day today,” Mr. Musk said.
+It is cheaper than using a new rocket, potentially much cheaper.
+Until now, rockets have almost all been single-use. Once the fuel is expended, a rocket stage plummets to Earth, a quick demise for a complex machine that cost tens of millions of dollars to build.
+Mr. Musk has likened that to scrapping a 747 jet after one flight, which would make air travel impossibly expensive.
+We do not know. Ms. Shotwell, the SpaceX executive, has suggested launches with reused boosters could be discounted, to 30 percent off the usual $62 million price tag. SES asked for 50 percent off. Both SpaceX and SES are private companies, and they have not divulged the negotiated going rate, except to acknowledge there was a discount.
+Mr. Musk has suggested that rocket launches could eventually be much cheaper since the cost of the rocket propellants are less than 1 percent of the full-price ticket for a launch. So, if a rocket could be simply refueled like a jetliner for another flight, the cost of space travel could drop to a fraction of what it is now.
+But the stresses of spaceflight on reused boosters — like the rising mileage on a used car, sometimes called “pre-owned” in today’s parlance — are much greater. The economics will depend on how many times a booster can be flown, and how much the individual expense will be to refurbish the booster — and particularly the engines — each time.
+Weren’t NASA’s Space Shuttles Reusable?
+Reusable spaceships are not a new idea. Science fiction writers have long imagined spacecraft crisscrossing the solar system, like in the latest TV series “The Expanse,” not throwaway rockets. Even in the 1960s, engineers were contemplating reusable rockets.
+NASA’s space shuttles were the first real attempt at a reusable spaceship, but the shuttles proved more delicate than hoped, requiring an army of technicians to refurbish them between flights. As a result, they ended up to be more expensive, not cheaper, than expendable rockets — close to half a billion dollars a flight.
+How Do You Land a Booster?
+From the start, SpaceX engineers designed the Falcon 9 boosters to be reusable. The engines can be fired many times, and the bottom of the rocket is shielded to protect against the heat of re-entry into the atmosphere.
+On the first Falcon 9 launches, SpaceX attempted to use parachutes to recover the boosters, but that failed. The company then turned to using the booster’s nine engines to bring it down to a soft, precise landing. “Grid fins” and cold-jet thrusters on the booster are used to flip the booster and help steer it to its destination.
+Is There a Rocket Race?
+New Shepard has already made repeated hops above 62 miles, the altitude considered the boundary of outer space. However, unlike Falcon 9, it has not and cannot accelerate to the speeds needed to orbit Earth.
+Its strategy is to perfect the technology through many New Shepard launches, and then apply it to New Glenn, an orbital rocket bigger than Falcon 9, that is to start launching from Cape Canaveral around 2020. The first stage of New Glenn is to land similar to the way SpaceX recovers the Falcon 9 boosters.
+Older rocket companies like United Launch Alliance, a joint venture between Boeing and Lockheed Martin, have studied reusable rocket concepts in the past but concluded the trade-offs were not worth the benefits. For example, saving fuel for the booster landing reduces the amount of payload the rocket can take to orbit, and reusing rockets could raise the cost of building new ones, because fewer would be built.
+The United Launch Alliance is planning a bit of reusability for its next rocket, the Vulcan. But instead of landing the entire first stage, the plan is for the engine compartment — the most valuable piece — to eject and descend via parachute, and then be plucked out of the air by a helicopter.
+Blue Origin and SpaceX appear to be betting that cheaper launches will lead to many more flights into space, for commercial and tourism jaunts.
+What About NASA’s Big New Rocket?
+NASA is currently developing the Space Launch System, which is to become the most powerful rocket ever, to take astronauts to deep space and eventually Mars. The booster stage, with four engines, and two additional boosters on the sides, will all be thrown away every launch.
+Daniel Dumbacher, a former NASA official who oversaw development of S.L.S. and now a professor at Purdue University, said the agency did study the possibility. But it concluded that the rocket’s immense size and the small number of launches — one every year or two — were not worth the cost.
+Why Not Reuse the Second Stage?
+SpaceX originally intended to recover Falcon 9’s second stage, too. That is the piece that continues to lift the payload to space as the booster falls away. But the second stage goes much higher and faster, making it much more difficult to bring it back down in one piece. Given that it’s a smaller, less expensive part of the rocket with one engine instead of nine, the company gave up that effort.
+So Does This Get SpaceX to Mars?
+Not directly. The Falcon 9 is far too small for interplanetary trips. Even the larger Falcon Heavy that SpaceX plans to start launching this summer is too small for taking people there. (SpaceX wants to use the Falcon Heavy to send a Dragon capsule without people to Mars in 2020.) But Mr. Musk envisions a gargantuan spaceship he calls the Interplanetary Transport System that will someday transport humans. That would be far too expensive to be thrown away, so he needs to solve the reusability problem.
+What Did This Rocket Take to Space, Anyway?
+The satellite is SES-10, which will end up in a geostationary orbit to provide telecommunication services for Latin America. The satellite was deployed about a half-hour after launch.
+SpaceX’s next launch for NASA, a cargo mission currently scheduled for May, will continue the reusability theme. The rocket will be entirely new, but the mission will reuse one of the capsules from one of the earlier cargo runs.

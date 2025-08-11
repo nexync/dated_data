@@ -1,0 +1,27 @@
+Sometimes an emoji is just an emoji. Sometimes it may be a threat.
+And with only a few seconds to spare, Facebook moderators have to make the call — even if the text that accompanies the laughing yellow face is in an unfamiliar language.
+To help with those decisions, Facebook has created a list of guidelines for what its two billion users should be allowed to say. The rules, which are regularly updated, are then given to its moderators.
+For Facebook, the goal is clarity. But for the thousands of moderators across the world, faced with navigating this byzantine maze of rules as they monitor billions of posts per day in over 100 languages, clarity is hard to come by.
+Facebook keeps its rulebooks and their existence largely secret. But The New York Times acquired 1,400 pages from these guidelines, and found problems not just in how the rules are drafted but in the way the moderation itself is done.
+Facebook is experimenting on the fly.
+The rules are discussed over breakfast every other Tuesday in a conference room in Menlo Park, Calif. — far from the social unrest that Facebook has been accused of accelerating.
+Though the company does consult outside groups, the rules are set largely by young lawyers and engineers, most of whom have no experience in the regions of the world they are making decisions about.
+The rules they create appear to be written for English speakers who at times rely on Google Translate. That suggests a lack of moderators with local language skills who might better understand local contexts.
+Facebook employees say they have not yet figured out, definitively, what sorts of posts can lead to violence or political turmoil. The rulebooks are best guesses.
+The rules contain biases, gaps and errors.
+Some of the rules given to moderators are inaccurate, outdated or missing critical nuance.
+One presentation, for example, refers to the Bosnian war criminal Ratko Mladic as a fugitive, though he was arrested in 2011.
+Another appears to contain errors about Indian law, advising moderators that almost any criticism of religion should be flagged as probably illegal. In fact, criticizing religion is only illegal when it is intended to inflame violence, according to a legal scholar.
+In Myanmar, a paperwork error allowed a prominent extremist group, accused of fomenting genocide, to stay on the platform for months.
+The moderators feel overwhelmed.
+Facebook outsources moderation to companies that hire the thousands of workers who enforce the rules. In some of these offices, moderators say they are expected to review many posts within eight to 10 seconds. The work can be so demanding that many moderators only last a few months.
+The moderators say they have little incentive to contact Facebook when they run across flaws in the process. For its part, Facebook largely allows the companies that hire the moderators to police themselves.
+Facebook is edging into countries’ politics.
+Facebook is growing more assertive about barring groups and people, as well as types of speech, that it believes could lead to violence.
+In countries where the line between extremism and mainstream politics is blurry, the social network’s power to ban some groups and not others means that it is, in essence, helping pick political winners and losers.
+Sometimes it removes political parties, like Golden Dawn in Greece, as well as mainstream religious movements in Asia and the Middle East. This can be akin to Facebook shutting down one side in national debates, one expert argues.
+And its decisions often skew in favor of governments, which can fine or regulate Facebook.
+Facebook is taking a bottom-line approach.
+Even as Facebook tries to limit dangerous content on its platform, it is working to grow its audience in more countries.
+That tension can sometimes be seen in the guidelines.
+And by relying on outsourced workers to do most of the moderation, Facebook can keep costs down even as it sets rules for over two billion users.

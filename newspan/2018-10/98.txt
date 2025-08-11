@@ -1,0 +1,34 @@
+Over the past five years, the Israeli author and historian Yuval Noah Harari has quietly emerged as a bona fide pop-intellectual. His 2014 book “Sapiens: A Brief History of Humankind” is a sprawling account of human history from the Stone Age to the 21st century; Ridley Scott, who directed “Alien,” is co-leading its screen adaptation. Mr. Harari’s latest book, “21 Lessons for the 21st Century,” is an equally ambitious look at key issues shaping contemporary global conversations — from immigration to nationalism, climate change to artificial intelligence. Mr. Harari recently spoke about the benefits and dangers of A.I. and its potential to upend the ways we live, learn and work. The conversation has been edited and condensed.
+A.I. is still so new that it remains relatively unregulated. Does that worry you?
+There is no lack of dystopian scenarios in which A.I. emerges as a hero, but it can actually go wrong in so many ways. And this is why the only really effective form of A.I. regulation is global regulation. If the world gets into an A.I. arms race, it will almost certainly guarantee the worst possible outcome.
+A.I. is still so new, is there a country already winning the A.I. race?
+China was really the first country to tackle A.I. on a national level in terms of focused, governmental thinking; they were the first to say “we need to win this thing” and they certainly are ahead of the United States and Europeans by a few years.
+Have the Chinese been able to weaponize A.I. yet?
+Everyone is weaponizing A.I. Some countries are building autonomous weapons systems based on A.I., while others are focused on disinformation or propaganda or bots. It takes different forms in different countries. In Israel, for instance, we have one of the largest laboratories for A.I. surveillances in the world — it’s called the Occupied Territories. In fact, one of the reasons Israel is such a leader in A.I. surveillance is because of the Israeli-Palestinian conflict.
+Explain this a bit further.
+Part of why the occupation is so successful is because of A.I. surveillance technology and big data algorithms. You have major investment in A.I. (in Israel) because there are real-time stakes in the outcomes — it’s not just some future scenario.
+A.I. was supposed to make decision-making a whole lot easier. Has this happened?
+A.I. allows you to analyze more data more efficiently and far more quickly, so it should be able to help make better decisions. But it depends on the decision. If you want to get to a major bus station, A.I. can help you find the easiest route. But then you have cases where someone, perhaps a rival, is trying to undermine that decision-making. For instance, when the decision is about choosing a government, there may be players who want to disrupt this process and make it more complicated than ever before.
+Is there a limit to this shift?
+Well, A.I. is only as powerful as the metrics behind it.
+And who controls the metrics?
+Humans do; metrics come from people, not machines. You define the metrics — who to marry or what college to attend — and then you let A.I. make the best decision possible. This works because A.I. has a far more realistic understanding of the world than you do. It works because humans tend to make terrible decisions.
+But what if A.I. makes mistakes?
+The goal of A.I. isn’t to be perfect, because you can always adjust the metrics. A.I. simply needs to do better than humans can do — which is usually not very hard.
+What remains the biggest misconception about A.I.?
+People confuse intelligence with consciousness; they expect A.I. to have consciousness, which is a total mistake. Intelligence is the ability to solve problems; consciousness is the ability to feel things — pain, hate, love, pleasure.
+Can machines develop consciousness?
+Well, there are “experts” in science-fiction films who think you can, but no — there’s no indication that computers are anywhere on the path to developing consciousness.
+Do we even want computers with feelings?
+Generally, we don’t want a computer to feel, we want the computer to understand what we feel. Take medicine. People like to think they’d always prefer a human doctor rather than an A.I. doctor. But an A.I. doctor could be perfectly tailored to your exact personality and understand your emotions, maybe even better than your own mother. All without consciousness. You don’t need to have emotions to recognize the emotions of others.
+So what’s left that A.I. hasn’t touched?
+In the short term, there’s still quite a bit. For now, most of the skills that demand a combination between the cognitive and the manual are beyond A.I.’s reach. Take medicine once again; if you compare a doctor with a nurse, it’s far easier for A.I. to replace a doctor — who basically just analyzes data for diagnoses and suggests treatments. But replacing a nurse, who injects medications and changes bandages, is far more difficult. But this will change; we are really at the beginning of A.I.’s full potential.
+So is the A.I. revolution almost upon us?
+Not exactly. We won’t see this massive disruption in say, five or 10 years — it will be more of a cascade of ever-bigger disruptions.
+And how will this affect the work force?
+The economy is having to face ever-greater disruptions in the work force because of A.I. And in the long run, no element of the job market will be 100 percent safe from A.I. and automation. People will need to continually reinvent themselves. This may take 50 years, but ultimately nothing is safe.
+A.I. is forcing people to reinvent themselves. Can it also make the reinvention process less scary?
+A.I. can make the process both better and worse. Worse, because A.I. itself is compelling us to adapt; as A.I. develops, jobs disappear and people need to adapt professionally. On the other hand, A.I. can help revolutionize and customize education.
+Instead of students being part of a big education cohort processed in the industrial way, you could work with an A.I. mentor who not just teaches you, but studies you, as well. The mentor gets to know your particular strengths and weaknesses — can learn if, say, you learn better with words or with images; through spatial metaphors or temporal metaphors. And then customizes education for you. Learning new skills can be very difficult after the age of 40. But even as A.I. forces people to reinvent themselves, it can help them get through this process far better than any human teacher.
+So has A.I. forced you to reinvent yourself?
+Well, writing about A.I. certainly has. A decade ago I was an anonymous professor writing about medieval history; today I am meeting with journalists and politicians and heads of state talking about cyborgs and A.I. I certainly had to reinvent myself along the way.

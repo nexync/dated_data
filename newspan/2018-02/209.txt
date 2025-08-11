@@ -1,0 +1,23 @@
+Two types of bacteria commonly found in the gut work together to fuel the growth of colon tumors, researchers reported on Thursday.
+If the microbes are present, the patients might warrant more frequent screening; eventually people at high risk for colon cancer may be vaccinated against at least one of the bacterial strains.
+“I can’t guarantee you these bacteria will be the holy grail of colon cancer, but they should be high on the list” of possible culprits, said Christian Jobin, a professor of medicine at the University of Florida who studies bacteria in the gastrointestinal tract.
+ The new study focused on the earliest stages of the disease.
+E. coli then releases a toxin that damages DNA of colon cells, while B. fragilis produces another poison that both damages DNA and inflames the cells. Together they enhance the growth of tumors.
+The bacteria seem to be able to induce colon cancer, or to take precancerous cells and drive them faster toward cancer, said Dr. Drew Pardoll, director of Johns Hopkins’s Bloomberg-Kimmel Institute for Cancer Immunotherapy and an author of the new paper.
+The study’s lead researcher, Dr. Cynthia Sears, an infectious disease specialist at the Bloomberg-Kimmel Institute, did not expect to be investigating colon cancer.
+She and her colleagues were looking at a toxin that is produced by B. fragilis. It was a familiar poison, a common cause of diarrhea.
+In petri dishes, however, the toxin damages DNA and triggers cancerous changes in the epithelial cells that give rise to colon cancer. When the investigators put these toxin-secreting bacteria into mice, the animals’ colons became spotted with tumors.
+The scientists chose to focus on two groups of patients: those who had no particular genetic risk for colon cancer but developed it anyway; and those who had a rare inherited genetic condition, familial adenomatous polyposis, or F.A.P., that almost inevitably leads to colon cancer.
+In both groups, cancer begins with polyps, benign growths of colon cells that carry a mutation or two that can set them on the path to cancer. Most of the time, however, the polyps never progress and remain harmless.
+But if a polyp develops a few more mutations, cancer can begin to develop. So to protect patients, doctors remove any polyps they find during a colonoscopy.
+People with F.A.P. can have hundreds of polyps, their colons lined with growths. It is impossible for doctors to take them all out; instead, they may remove the patient’s entire colon.
+Dr. Sears and her group examined six whole colons lined with polyps that had been removed from people with F.A.P. The researchers discovered biofilms — sheets of bacteria that had invaded the mucus covering the colons.
+But the biofilms were made up of just two species of bacteria, B. fragilis and a strain of E. coli. In samples of colon tissue from healthy people, only a few had these bacteria.
+The researcher also examined 25 tumor samples taken from people with F.A.P. — and found the two bacterial species again.
+Then the team tried a mouse experiment, giving the animals a cancer-causing agent to elicit changes in the DNA of colon cells and then infecting them with one or the other of the bacteria. There were few or no tumors.
+But when the researchers infected the animals with both types of bacteria, tumor growth took off.
+The results might help explain why people with F.A.P., even individuals in the same family, can develop colon cancer at very different ages: patients who get the disease early may be carrying these two bacterial species.
+Now Dr. Sears is trying to find out whether the bacteria always, or sometimes, are drivers of colon cancer in the general population.
+Working with nearby community medical practices, she is examining colon tissue from every patient having a colonoscopy. She hopes to review 2,000 pathology samples.
+The drugs kill a wide variety of bacteria in gut, he added, many of which are needed for health.
+The bacteria described in the new study are not the first implicated in colon cancer. Researchers have discovered a different type, fusobacteria, in more advanced colon cancer. In a recent study they reported that fusobacteria had burrowed into tumors and stayed with them as they spread throughout the body.

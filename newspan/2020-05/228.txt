@@ -1,0 +1,19 @@
+A clinical trial led to the authorization of the only drug shown to work in Covid-19 patients. But until now, few experts had seen the numbers.
+Nearly a month after federal scientists claimed that an experimental drug had helped patients severely ill with the coronavirus, the research has been published.
+The drug, remdesivir, was quickly authorized by the Food and Drug Administration for treatment of coronavirus patients, and hospitals rushed to obtain supplies.
+But until now, researchers and physicians had not seen the actual data. And remdesivir, made by Gilead Sciences, has a spotty history. It was originally intended to treat hepatitis, but it failed to. It was tested against Ebola, but results were lackluster.
+So far, remdesivir has not been officially approved for any purpose. The F.D.A.’s emergency use authorization was not a formal approval.
+The trial was rigorous, randomly assigning 1,063 seriously ill patients to receive either remdesivir or a placebo. Those who received the drug not only recovered faster but also did not have serious adverse events more often than those who were given the placebo.
+It was an international trial, although most sites were in the United States. Patients were assessed daily, and those administering the evaluations did not know whether a patient had been given remdesivir or the placebo.
+A monitoring board reviewed the data at specified intervals and called for a halt to the study when there was clear evidence that the drug was effective.
+On April 29, N.I.A.I.D. issued a news release stating as much. But infectious disease doctors were frustrated, because they did not have access to the findings, which might have affected how patients were treated.
+“For God’s sake, this is a pandemic — we need some data,” said Dr. Judith Feinberg, vice chair of research at West Virginia University School of Medicine.
+Publication of the paper has brought some relief. Doctors had been wondering, for instance, whether they should give remdesivir to patients with the most serious Covid-19 cases or to those who weren’t as sick, especially if there were not enough to go around.
+Dr. Andre Kalil of the University of Nebraska, a principal investigator of the study, noted that not only do sicker patients fare as well on remdesivir, but their average time to recovery is also slightly faster.
+He added that Hispanics, black people and white patients all derived equal benefit from the drug, as did men and women as well as adults in every age group.
+The results were the same for patients regardless of whether they had received the drug treatment before or after 10 days of symptoms, said Dr. Helen Chu, of the University of Washington, who was also an investigator of the study.
+The study’s designers changed the outcome measures after the study had began, but they did not have access to the current data. Some critics questioned whether the change had altered the study’s conclusions, but a subsequent analysis determined that it did not.
+The disease had a more protracted course than the investigators had realized, federal officials said, and the original endpoints — the measures of success — were unworkable.
+The best outcome would have been a decline in the death rate among patients given remdesivir, but there were only hints that this had occurred.
+Despite generally positive results, the researchers caution that the drug is far from ideal.
+“Given high mortality despite the use of remdesivir, it is clear that treatment with an antiviral drug alone is not likely to be sufficient,” they concluded.

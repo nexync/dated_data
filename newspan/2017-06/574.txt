@@ -1,0 +1,5 @@
+Q. I read somewhere that the gravitational force exerted by Jupiter is so great that it makes the sun move in its direction. Is this true?
+A. All the planets in the solar system interact gravitationally with the sun, but Jupiter’s great mass — nearly two and a half times that of the rest of the planets combined — makes this interaction visible to astronomers as a kind of dance rather than just a minuscule wobble.
+Any two objects in orbit around each other are actually in orbit around an invisible point called the center of mass, or barycenter.
+Jupiter is the only planet for which this barycenter is outside the radius of the sun.
+The traditional picture of the planets in an ordered parade around their star is much more complex.

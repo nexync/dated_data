@@ -1,0 +1,15 @@
+SEOUL, South Korea — After three straight losses, a South Korean expert rallied on Sunday for his first victory against a Google computer program playing Go, an ancient board game known as the most complex ever invented.
+Lee Se-dol, 33, a boyish South Korean Go master, was all smiles after a brilliant move forced the Google program, AlphaGo, to surrender the match in the middle of the contest.
+Hundreds of local Go enthusiasts and reporters who were gathered at the Four Seasons Hotel in downtown Seoul burst into applause over the human Go master’s dramatic comeback against the machine.
+Demis Hassabis, the chief executive of Google DeepMind, Google’s artificial intelligence company, said Mr. Lee’s victory was a reminder that AlphaGo still had room for improvement. A “creative genius” like Mr. Lee tests the limits of the machine, he said.
+Go has been seen as the last great challenge in computer programmers’ efforts to create software that can outwit humans in board games. Go is such a complex game, with an almost infinite possible sequence of moves, that artificial-intelligence experts had predicted that computer programs needed more than 10 more years before they would be able to beat Go legends like Mr. Lee, who has 18 international titles.
+Before the best-of-five series began on Wednesday, Mr. Lee had been upbeat. But the mood quickly sank after he lost the first three matches.
+After losing his third match — and $1 million in prize money — on Saturday, Mr. Lee admitted that the psychological pressure he felt in facing a nonhuman foe was a big handicap.
+But Mr. Lee also said AlphaGo was not perfect.
+“It was Lee Se-dol, not humans, who lost the matches,” he said defiantly on Saturday, adding that he would do his best to beat the machine in the remaining two games.
+On Sunday, Mr. Lee delivered.
+Go is a two-person strategy board game said to have been created in China more than 3,000 years ago. The players compete for territory by placing black and white stones on intersections of a board of 19 horizontal and 19 vertical lines. The first player in a match uses black stones; the other, white. On Sunday, AlphaGo held the black stone.
+During the post-match news conference on Sunday, Mr. Lee said he had found some weaknesses of AlphaGo.
+When he made a surprise move, AlphaGo acted as if it had “a bug,” he said. He also said AlphaGo seemed to do better when it held the white stone.
+Mr. Lee then offered to let AlphaGo play the white stone in the last match, scheduled for Tuesday.
+Google’s DeepMind team accepted the offer.

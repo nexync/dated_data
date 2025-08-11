@@ -1,0 +1,42 @@
+Unexplained “inconsistencies” in results, heated conference calls and firm denials of hacking left the contest in a strange state of almost suspended animation.
+DES MOINES — Sean Bagniewski had seen the problems coming.
+It wasn’t so much that the new app that the Iowa Democratic Party had planned to use to report its caucus results didn’t work. It was that people were struggling to even log in or download it in the first place. After all, there had never been any app-specific training for the many precinct chairs.
+So last Thursday Mr. Bagniewski, the chairman of the Democratic Party in Iowa’s most populous county, Polk, instructed his precinct chairs to simply call in the caucus results as they had always done. But during Monday night’s caucuses, those precinct chairs could not connect with party leaders via phone. Hold times stretched past 90 minutes. And when Mr. Bagniewski had his executive director to take pictures of the results with her smartphone and drive over to the Iowa Democratic Party headquarters to deliver them in person she was turned away without explanation.
+“I don’t even know if they know what they don’t know,” Mr. Bagniewski said of the state party shortly before 2 a.m. on Tuesday.
+Inside the party’s boiler room, the warning signs flashed almost as soon as results came in from the new app — as early as 8:15 p.m. The error rate was high, even as raw data seemed fine. Somehow it was mangled in the process of transmitting it for display. No one could figure out why.
+And so, for nearly 22 hours after the Iowa caucuses had begun — with much fanfare, live cable coverage and deep consequences for the Democratic Party and the country — the state party remained silent.
+This surreal opening act for the voting portion of the 2020 primary season included unexplained “inconsistencies” in results that were not released to the public until late Tuesday afternoon, heated conference calls where state party officials hung up on campaign staff members and a state of suspended animation in the immediate aftermath of the first presidential nominating contest.
+“A systemwide disaster,” said Derek Eadon, a former Iowa Democratic Party chairman.
+It wasn’t until late Tuesday afternoon that the state party released even incomplete results, showing former Mayor Pete Buttigieg with a narrow lead over Senator Bernie Sanders, followed by Senator Elizabeth Warren and, more distant still, former Vice President Joseph R. Biden Jr.
+Amid Monday’s chaos, there were conflicting candidate speeches declaring various degrees of victory, as the Sanders campaign released its own set of favorable partial results, and multiple campaigns hoped that the mess would not lessen the eventual impact of what they said appeared to be a disappointing first test for Mr. Biden.
+indicate support for candidates.
+worksheet with results.
+reported one of two ways.
+Many caucus chairs had difficulty downloading the app, did not try or had other problems.
+Many caucus chairs called the hotline, overloading the phone lines. Unlike past years, there were three sets of numbers that were reported, instead of one.
+Caucus chairs fill out a worksheet with results. The results could be reported one of two ways.
+Democratic candidates tried to spin the chaotic situation at the Iowa caucuses, and campaigned in New Hampshire as they awaited the results.
+In a heated private call between party leaders and the campaigns on Tuesday morning, Biden representatives had raised questions about the trustworthiness of the coming results and pushed back against releasing partial tallies.
+Jeff Weaver, a top adviser to Mr. Sanders, objected to their objection, noting there are ultimately paper records. “Folks who are just trying to delay the return of this because of their relative positioning in the results, last night, I think that’s a bit disingenuous,” he said.
+The clearest loser was Iowa and its increasingly precarious caucuses. For the third consecutive presidential cycle, the results here are riddled with questions, if not doubt. First it was the Republicans, when Mitt Romney was initially declared the winner in 2012 before that was later reversed, and then the Democrats suffered when a virtual tie between Hillary Clinton and Mr. Sanders in 2016 set off a number of rule changes that culminated in the 2020 debacle.
+Iowa Democrats said that turnout had been strong and that the caucuses themselves — held from the Missouri River to the Mississippi River — had mostly proceeded smoothly. For the first time, there would be not just one measure recorded but three: the initial alignment of caucusgoers, the realignment of those who were with candidates below 15 percent support, and then the final delegates won at each site.
+The added detail was the result of complaints from four years ago about the opaqueness of Mr. Sanders’s narrow loss in the Iowa delegate chase to Mrs. Clinton.
+Some precinct leaders said they had filed their results on Monday with little struggle. Jerry Depew, the county chair in rural Pocahontas, said he had called in his results after a five-minute hold, at 8:05 p.m.
+But soon the party phone lines were completely jammed. Operators were overwhelmed. Only a quarter of nearly 1,700 precinct chairs even successfully downloaded the app, according to a Democrat familiar with the matter.
+“When you have an app that you’re sending out to 1,700 people and many of them might be newer to apps and that kind of stuff, it might have been worth doing a couple months’ worth of testing to make sure it is working correctly,” said Mr. Bagniewski, the Polk County chairman.
+Unlike a primary run by the state government, caucuses are party affairs and they are powered by the dedication of a small army of volunteers.
+Mr. Depew, who had filed shortly after 8 p.m., said he had received a call from the state party almost three hours later asking for the results he had long since filed. “I said, ‘I already reported nearly three hours ago.’ She took my word for it and moved on without explaining the apparent snafus,” he said.
+But those delays and confusion did not explain why the state party waited until Tuesday afternoon to release any results — including from the precincts that had successfully filed their results either via phone or the app.
+The party said at first that it was conducting “quality control” efforts.
+Much of the chaos unfolded off the main room at the Iowa Events Center, where campaigns struggled to figure out what was going on as party officials worked upstairs but refused to actually come down to discuss the unfolding madness, according to a person in the room.
+At 10:26 p.m., the Iowa Democratic Party issued a longer statement.
+Around that time, the state party tried to brief the campaigns in a phone call. It did not go well. Party officials mostly reiterated their public statements: that the delays were related to issuing three metrics per precinct for the first time. Party officials hung up after being pressed for more by the campaigns, according to two people on the call.
+He spoke for less than a minute.
+Even before Monday, there were concerns with the app itself, which was developed by a private firm called Shadow. Cybersecurity experts worried that it had not been vetted, tested at scale, or even shown to independent analysts before being introduced in Iowa.
+Christopher C. Krebs, the director of the Homeland Security Department’s cybersecurity agency, said late Monday that the mobile app had not been evaluated by the agency.
+On Tuesday, Shadow issued a series of tweets expressing “regret” for the delay.
+“We will apply the lessons learned in the future,” the company said.
+It does not appear likely that it will get the chance soon. The Nevada Democratic Party, which will hold caucuses this month, announced on Tuesday that it was scrapping Shadow as its vendor.
+On Monday night, the candidates decided not to wait for any results, one by one giving variations of a victory speech. None were quite as bold in their proclamations of success as Mr. Buttigieg.
+He was giving a speech in New Hampshire when the actual first results arrived a day later.
+Reporting was contributed by Sydney Ember and Reid J. Epstein from Des Moines, Sheera Frenkel from San Francisco, and Nicole Perlroth from Austin, Texas.

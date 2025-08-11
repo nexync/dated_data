@@ -1,0 +1,16 @@
+I was beginning to get frustrated by how much of our lives are spent arguing about music. So I decided to do something about it the only way I know how: I analyzed data.
+I couldn’t think of a way to use data to prove how great “Born to Run” is. But I thought data might give me clarity on why my brother and I never seem to agree on music.
+In particular, I wanted to see to what extent the year we were born influences the music we listen to, the extent to which different generations are bound to disagree on music.
+For this project, the music streaming service Spotify gave me data on how frequently every song is listened to by men and women of each particular age.
+The patterns were clear. Even though there is a recognized canon of rock music, there are big differences by birth year in how popular a song is.
+Consider, for example, the song “Creep,” by Radiohead. This is the 164th most popular song among men who are now 38 years old. But it is not in the top 300 for the cohort born 10 years earlier or 10 years later.
+Note that the men who most like “Creep” now were roughly 14 when the song came out in 1993. In fact, this is a consistent pattern.
+I did a similar analysis with every song that topped the Billboard charts from 1960 to 2000. In particular, I measured how old their biggest fans today were when these songs first came out.
+It turns out that the “Creep” situation is pretty much universal. Songs that came out decades earlier are now, on average, most popular among men who were 14 when they were first released. The most important period for men in forming their adult tastes were the ages 13 to 16.
+What about women? On average, their favorite songs came out when they were 13. The most important period for women were the ages 11 to 14.
+Granted, some results of my research are not surprising. One of the facts I discovered is that Coolio’s “Gangsta’s Paradise” is extremely unpopular among women in their 70s. Thank you, Big Data, for uncovering that nugget of wisdom!
+But I did find it interesting how clear the patterns were and how much early adolescence matters. The key years, in fact, match closely with the end of puberty, which tends to happen to girls before boys. This also adds one more piece of evidence to the growing scientific consensus that we never really leave middle school and high school.
+For both men and women, their early 20s were half as influential in determining adult musical tastes as their early teens.
+In fact, my data analysis couldn’t explain where I got most of my musical taste. O.K., maybe I caught the Springsteen bug because I grew up in New Jersey. But why my obsession with Bob Dylan? Or Leonard Cohen? Or Paul Simon? Most songs I listen to came out well before I was born.
+This research tells us that the majority of us, when we are grown men and women, predictably stick with the music that captured us in the earliest phase of our adolescence.
+But it also adds one more piece to the central puzzle of my adult life: Why did I develop so abnormally?

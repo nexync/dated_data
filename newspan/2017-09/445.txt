@@ -1,0 +1,3 @@
+The sticking point was the central mirror. The diameter of the mirror, a giant round disk of glass whose surface is exquisitely polished to ensure maximum accuracy, determines how much light the telescope can capture and how sharp an image it can create.
+Building a mirror larger than five meters is a Catch-22: It needs to be thick enough to support its weight and not collapse, but the mass required to do that can cause gravity to change the shape of the mirror when it moves.
+Rather than use a single concave mirror, Mr. Nelson, along with the physicist Terry Mast and the engineer George Gabor, proposed using 36 smaller hexagonal mirrors, arranged in a honeycomb-like pattern, to make one large one.

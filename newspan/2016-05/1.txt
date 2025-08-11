@@ -1,0 +1,26 @@
+If there is ever a contest for Least Appreciated Creature on Earth, first prize should go to a microbe called Wolbachia.
+The bacterium infects millions of invertebrate species, including spiders, shrimps and parasitic worms, as well as 60 percent of all insect species. Once in residence, Wolbachia co-opts its hosts’ reproductive machinery and often greedily shields them from a variety of competing infections.
+Ever since the Zika outbreak began in Brazil last year, scientists have suspected that Wolbachia might protect mosquitoes from the virus. Now, researchers have confirmed this hunch, providing the first solid evidence that releasing Wolbachia-infected mosquitoes into the wild could help quell the epidemic.
+“We are pretty sure that mosquitoes carrying Wolbachia will have a great impact on Zika transmission in the field,” said Luciano A. Moreira, a biologist at the Oswaldo Cruz Foundation in Belo Horizonte, Brazil, and the lead author of a new report on the researchers’ findings, published on Wednesday in the journal Cell Host & Microbe.
+Wolbachia was first discovered in 1924, lurking in a mosquito caught near Boston, but it was decades before researchers understood how bizarre it really was.
+Instead of floating freely in the blood, it nestles inside individual cells. As a result, the bacterium cannot easily jump from one host to another. An infected female carries Wolbachia in her eggs, and her offspring are born infected.
+The species has evolved into a vast number of strains, with a range of cunning tricks intended to increase its numbers. Most involve increasing the number of infected female hosts.
+Some strains make it impossible for an infected male to reproduce with an uninfected female — when his sperm fertilizes one of her eggs, it fails to develop.
+This strategy, called cytoplasmic incompatibility, gives Wolbachia-infected females a competitive advantage in the race to reproduce, since they can mate successfully with infected or uninfected males.
+In 2009, Scott L. O’Neill, a professor at Monash University in Australia, and his colleagues reported that a type of Wolbachia normally found in flies could also infect mosquitoes — and that once in residence, the bacterium blocked dengue viruses from attacking its new hosts.
+“It was just curiosity-based work, totally serendipity,” Dr. O’Neill said.
+An estimated 390 million people are infected with dengue each year. But if mosquitoes carrying the infection are protected from it, they cannot transmit the virus to humans. So through a program called Eliminate Dengue, Dr. O’Neill has led experiments to test Wolbachia in the field.
+In 2011, the program’s team released hundreds of thousands of Wolbachia-carrying mosquitoes in two towns in northern Australia. The microbe quickly established itself in the wild population: Five years later, most of the mosquitoes — Aedes aegypti, the species that also transmits the Zika virus — continue to carry Wolbachia.
+The scientists have begun similar experiments in other countries, including Vietnam, Indonesia and Brazil. When the Wolbachia-carrying mosquitoes take over, researchers no longer find locally acquired cases of dengue.
+The program is introducing a large-scale trial next month in the Indonesian city of Yogyakarta to quantify Wolbachia’s impact on dengue infections.
+When Zika broke out in Brazil last year, a number of researchers — including Dr. O’Neill — suspected that Wolbachia might work against that virus, too, since Zika and dengue are closely related.
+In Brazil, Dr. Moreira began an experiment. He and his colleagues fed human blood spiked with Zika to mosquitoes, some of which carried the dengue-blocking Wolbachia strain.
+The scientists waited up to two weeks and then checked the mosquitoes for signs of Zika. As they had hoped, mosquitoes with Wolbachia ended up with drastically lower levels of Zika genes.
+To see how infectious they were, the scientists injected their saliva into mosquitoes not infected with Zika. In 80 trials, the saliva failed to cause any new infections. In 80 trials with Wolbachia-free mosquitoes, Zika infections sprang up in 85 percent of the insects.
+“We have very good results, comparable to the best results we got for dengue,” Dr. Moreira said.
+Dr. O’Neill, who was not involved in the new experiment, said two other unpublished studies were yielding similar results.
+Jason L. Rasgon, an entomologist at Pennsylvania State University, agreed that the results in Brazil demonstrated that Wolbachia suppressed the Zika virus.
+But he said it would be useful to see if Wolbachia kept blocking Zika infections for more than two weeks. And in addition to detecting genetic material from viruses, he said, it may be important to count Zika viruses with more traditional methods.
+Dr. Moreira and his colleagues are moving forward with the studies Dr. Rasgon described.
+Dr. Moreira said he hoped the new study would lead to experiments to see if Wolbachia can prevent human infections with Zika, not just dengue. It is also possible that Wolbachia could work against other diseases spread by mosquitoes, including yellow fever and malaria.
+Ary Hoffmann, a microbiologist at the University of Melbourne, predicted that there would be uses for this strange parasite that we have yet to imagine.

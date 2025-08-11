@@ -1,0 +1,22 @@
+America is getting a new stock exchange from the most prominent critics of high-frequency trading.
+After months of delays and a brutal lobbying battle that divided Wall Street, the IEX Group won approval on Friday from the Securities and Exchange Commission to become the nation’s 13th official stock exchange.
+IEX is run by the people at the center of the Michael Lewis book, “Flash Boys: A Wall Street Revolt,” which profiles the early efforts of the IEX team to create a trading exchange that would be somewhat shielded from high-frequency traders.
+Other exchanges and trading firms had urged the S.E.C. to reject the IEX application to become an exchange.
+Opponents of IEX, including the other stock exchanges, have argued that the structure of the new exchange will add unnecessary new complexities into an already complex stock market, and potentially end up hurting small investors.
+But the three S.E.C. commissioners all voted on Friday to approve the IEX exchange, with one commissioner, Michael S. Piwowar, a Republican, dissenting on a few points.
+“Today’s actions promote competition and innovation, which our equity markets depend on to continue to deliver robust, efficient service to both retail and institutional investors,” Mary Jo White, the S.E.C. chairwoman, said in a statement.
+The most novel and controversial feature of the IEX exchange is a so-called speed bump that would slow down trading slightly to throw off traders that rely only on speed.
+The speed bump slows trades down by only 350 microseconds — or millionths of a second — but that is an eternity in a stock exchange universe in which computers can buy and sell stocks in nanoseconds — or billionths of a second.
+The Nasdaq, and other existing exchanges, have said that the IEX’s speed bump will violate rules mandating that exchanges make their prices available to all parties at the same time.
+IEX’s critics have also said that the speed bump could add new complications into a stock market infrastructure that is already criticized for its complexity.
+The S.E.C. did say, though, that within two years it will do a study to examine whether the delays lead to problems in the markets.
+If nothing else, the approval of the exchange will provide an opportunity to test the many competing theories about what impact the IEX’s speed bump will have on the pattern of trading.
+The IEX has been a flash point in the broader debate over technological changes that have altered the basic functioning of the American stock markets over the last two decades.
+IEX won support — and financial backing — from several large mutual fund companies, which said that the exchange would help them trade more cheaply and efficiently, as well as from hundreds of small investors, many of whom read “Flash Boys” and wrote in to the S.E.C.
+In addition to the speed bump, the IEX has said it will not offer the same fees or rebates that other exchanges do to attract traders, a common practice at other exchanges that has been criticized for distorting trading incentives. The IEX also offers fewer complicated ways to enter trades than other exchanges, in an effort to simplify trading.
+Mr. Katsuyama has argued throughout the application process that IEX would provide a market-based solution to the problems created by high-frequency trading rather than requiring the S.E.C. to change the rules governing the markets.
+The other exchanges have complained that the IEX was essentially asking to be exempt from rules that governed them.
+In a letter written in May, Nasdaq’s lawyers suggested that the S.E.C. could face a lawsuit if it approved the IEX application. A spokesman for Nasdaq said on Friday that the exchange company had no comment on the S.E.C.’s decision.
+Larry Tabb, a market analyst with the Tabb Group, said the IEX speed bump could end up benefiting more sophisticated traders, like high-frequency traders, who can find ways to take advantage of the small delays.
+“It hurts the broad middle who may not have access to the best tools,” Mr. Tabb said.
+IEX has already been operating as a private trading pool and has recently been attracting about 1.6 percent of all daily trading volume.

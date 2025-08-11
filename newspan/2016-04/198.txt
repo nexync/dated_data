@@ -1,0 +1,23 @@
+A team of scientists unveiled a new tree of life on Monday, a diagram outlining the evolution of all living things. The researchers found that bacteria make up most of life’s branches. And they found that much of that diversity has been waiting in plain sight to be discovered, dwelling in river mud and meadow soils.
+“It is a momentous discovery — an entire continent of life-forms,” said Eugene V. Koonin of the National Center for Biotechnology Information, who was not involved in the study.
+The study was published in the journal Nature Microbiology.
+Ever since, biologists have sought to draw the tree of life. The invention of DNA sequencing revolutionized that project, because scientists could find the relationship among species encoded in their genes.
+In the 1970s, Carl Woese of the University of Illinois and his colleagues published the first “universal tree of life” based on this approach. They presented the tree as three great trunks.
+Our own trunk, known as eukaryotes, includes animals, plants, fungi and protozoans. A second trunk included many familiar bacteria like Escherichia coli.
+The third trunk that Woese and his colleagues identified included little-known microbes that live in extreme places like hot springs and oxygen-free wetlands. Woese and his colleagues called this third trunk Archaea.
+Scientists who wanted to add new species to this tree of life have faced a daunting challenge: They do not know how to grow the vast majority of single-celled organisms in their laboratories.
+A number of researchers have developed a way to get around that. They simply pull pieces of DNA out of the environment and piece them together.
+In recent years, Jillian F. Banfield of the University of California, Berkeley and her colleagues have been gathering DNA from many environments, like California meadows and deep sea vents. They have been assembling the genomes of hundreds of new microbial species.
+The scientists were so busy reconstructing the new genomes that they did not know how these species might fit on the tree of life. “We never really put the whole thing together,” Dr. Banfield said.
+Recently, Dr. Banfield and her colleagues decided it was time to redraw the tree.
+They selected more than 3,000 species to study, bringing together a representative sample of life’s diversity. “We wanted to be as comprehensive as possible,” said Laura A. Hug, an author of the new study and a biologist at the University of Waterloo in Canada.
+The researchers studied DNA from 2,072 known species, along with the DNA from 1,011 species newly discovered by Dr. Banfield and her colleagues.
+The scientists needed a supercomputer to evaluate a vast number of possible trees. Eventually, they found one best supported by the evidence.
+It’s a humbling thing to behold. All the eukaryotes, from humans to flowers to amoebae, fit on a slender twig. The new study supported previous findings that eukaryotes and archaea are closely related. But overshadowing those lineages is a sprawling menagerie of bacteria.
+Remarkably, the scientists didn’t have to go to extreme places to find many of their new lineages. “Meadow soil is one of the most microbially complex environments on the planet,” Dr. Hug said.
+Another new feature of the tree is a single, large branch that splits off near the base. The bacteria in this group tend to be small in size and have a simple metabolism.
+Dr. Banfield speculated that they got their start as simple life-forms in the first chapters in the history of life. They have stuck with that winning formula ever since.
+Brian P. Hedlund, a microbiologist at the University of Nevada, Las Vegas who was not involved in the new study, said that one of the most striking results of the study was that the tree of life was dominated by species that scientists have never been able to see or grow in their labs. “Most of life is hiding under our noses,” he said.
+Patrick Forterre, an evolutionary biologist at the Pasteur Institute in France, agreed that bacteria probably make up much of life’s diversity. But he had concerns about how Dr. Banfield and her colleague built their tree. He argued that genomes assembled from DNA fragments could actually be chimeras, made up of genes from different species. “It’s a real problem,” he said.
+Dr. Banfield predicted that the bacterial branches of the tree of life may not change much in years to come. “We’re starting to see the same things over and over again,” she said.
+Instead, Dr. Banfield said she expected new branches to be discovered for eukaryotes, especially for tiny species such as microscopic fungi. “That’s where I think the next big advance might be found,” Dr. Banfield said.

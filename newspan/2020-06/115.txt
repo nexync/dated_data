@@ -1,0 +1,106 @@
+Today: Facial recognition is becoming an increasingly popular tool for solving crimes. The Daily’s Annie Brown speaks to Kashmir Hill about how that software is not treating everybody equally.
+It’s Monday, August 3.
+I’m just going the tape record with an app that I use. Do you guys have any questions or concerns before we start talking about what happened?
+OK. So where do you think we should start the story of this case, Kashmir?
+The story started, for the Williams family, in January of 2020.
+Melissa got the call first. I got the call from her.
+It’s a Thursday afternoon in Farmington Hills, Michigan, which is just outside of Detroit.
+So I picked up Julia from school. Regular Thursday.
+And Melissa Williams, a realtor, is driving home from work. She’s picking up her daughter.
+And so it was right around, like, 4 o’clock. And I got a call.
+And she gets a call from somebody who says they’re a police officer.
+They immediately said, we’re calling about Robert from an incident in 2018. He needs to turn himself in. So I was confused off the bat.
+She is white. And her husband, Robert Williams, is Black.
+Yeah. I said, that’s my husband. And what is this regarding? And they said, we can’t tell you. But he needs to come turn himself in. And I said, well, why didn’t you call him? And they said, can’t you just give him a message?
+Wait. So why is this officer calling her?
+She doesn’t know why the officer is calling her. All she knows is that the police want to be in touch with her husband. So she gives the officer her husband’s number. And then she calls Robert.
+And I said, I just got a really weird call. I was like, what did you do? Like, what is this about?
+And while they’re talking, Robert Williams gets a call from the police department.
+Of course, I answered the other line. And he said he was a detective from Detroit and that I need to come turn myself in. So of course I’m like, for what? And he’s like, well, I can’t tell you over the phone. So I’m like, well, I can’t turn myself in then.
+It was a couple of days before his birthday. So he thought maybe it was a prank call. But it became pretty clear that the person was serious.
+About, uh, probably ten minutes later, I pull in the driveway.
+And when he pulls into his driveway, a police car pulls in behind him, blocking him in. And two officers get out.
+Yeah. So I get out of the car. And the driver, like, runs up. And he’s like, are you Robert Williams? I’m like, yeah. He’s like, you’re under arrest. I’m like, no I’m not. And the guy comes up with, like, a white sheet of paper. And it’s said “felony warrant” on the top, “larceny.” And I’m confused, like, isn’t larceny stealing?
+His wife comes out with his two young daughters. And his oldest daughter, who’s 5, is watching this happen.
+I said, Juju (ph), go back in the house. I’ll be back in a minute. They’re just making a mistake. The guy, the other cop, is behind me with his handcuffs out already. So he’s like, come on, man. You already — you know the drill. And I’m like, what?
+The officers arrest him. They have to use two pairs of handcuffs to get his hands behind his back, because he’s a really big guy.
+We started moving seats around, trying to get me in the back of this little bitty Impala. And off we go.
+And then they drive to the detention center.
+Your mug shot.
+Mug shot pictures.
+Then he’s put in a cell to sleep overnight.
+At this point, I’m in a holding cell with two other guys. And they’re like, what you in here for? And I’m like, I don’t know.
+So when do you actually find out why you’ve been arrested, beyond this kind of vague larceny?
+Um, so — well, maybe like noon the next day.
+Around noon the next day, he is taken to an interrogation room. And there’s two detectives there.  And they turn over the first sheet of paper.  And the detectives ask, is this you?
+I laugh a little bit, and I say, no, that’s not me. So then he turns over another paper.
+And they turn over a second piece of paper, which is just a close up of that same guy’s face.
+And he says I guess that’s not you either. And I said, no. This is not me.
+I was like, what you think, all Black men look alike?
+— and says, do all Black men look the same to you?
+So what’s your understanding, Kashmir, of what happened to bring Robert Williams into that police department?
+So Robert Williams had no idea what was happening. But two years earlier, in October 2018, a man who was not him walked into a Shinola store in downtown Detroit. And Shinola is kind of like a high-end store that sells expensive watches and bikes. So this man came in. He was there for a few minutes. He stole five watches worth $3,800 and walked out. None of the employees there actually saw the theft occur. And so they had to review the surveillance footage. And they found the moment it happened. So they sent that surveillance footage picture that Robert Williams had been shown to the Detroit police. And the police turned to what a lot of police turn to these days when they have a suspect that they don’t recognize — a facial recognition system. So they ran a search on this, what they call a probe image, this picture for the surveillance video, which is really grainy. It’s not a very good photo. And the way these systems work is that they have access not just to mug shots but also to driver’s license photos.  And there’s a human involved who decides which of the results looks the most like the person who committed the crime.
+Mm. So you’re saying the facial recognition algorithm basically created a lineup of potential suspects. And then from that lineup, someone picks the person that they think looks the most like the man in the surveillance video.
+Right. And so that is how they wound up arresting Robert Williams.
+So back in this room, the two detectives now have the real Robert Williams in front of them. And he doesn’t look like this guy.
+You know, they sat back and looked at each other and was like, with the oops face, right? Says, so I guess the computer got it wrong too.
+And so they kind of leaned back and said, I guess the computer got it wrong.
+Well, the computer got it wrong is what threw me off. And I’m like, computer got it wrong?
+And what is the significance of that statement, “that the computer got it wrong“?
+So this was an admission by the detectives that it was a computer that had pointed the finger at Robert Williams. And that’s significant, because this is the first documented case of an innocent person being arrested because of a flawed facial recognition match.
+And just to put all of this into context for a second, the last time that you and I talked, Kashmir, we were talking about a different development in facial recognition — this new algorithm being used by some police departments that drew from pictures all over social media and all over the internet to make a kind of super algorithm. But the fear wasn’t that it wasn’t accurate. It was almost that it was too accurate, that it knew too much. But what you’re describing is something altogether different. Right?
+So when we talk about facial recognition, we often think of it as a monolith, that there’s kind of one facial recognition. But in fact, there’s a bunch of different companies that all have their own algorithms. And some work well. And some don’t work well. And some work well sometimes. Like, identifying a really clear photo is a lot easier than identifying surveillance footage.
+And why wouldn’t police departments be using the most sophisticated, the most kind of up-to-date version of this software?
+I mean, this is where you run into just bureaucracy. Right? You have contracts with companies that go back years and just a lot of different vendors. And so in this case, I tried to figure out exactly whose algorithms were responsible for Robert Williams getting arrested. And I had to really dig down. And I discovered the police had no idea. You know, they contract out to a company called DataWorks Plus. And DataWorks Plus contracts out to two other companies called N.E.C. and Rank One that actually supply the algorithm. It’s this whole chain of companies that are involved. And there is no standardized testing. There’s no one really regulating this. There’s just nobody saying which algorithms, you know, pass the test to be used by law enforcement. It’s just up to police officers, who, for the most part, seem to be just testing it in the field to see if it works, if it’s identifying the right people.
+But the really big problem is that these systems have been proven to be biased.
+So, Kashmir, help me understand how an algorithm can become biased.
+Well, the bias tends to come from how the algorithm is trained.  But the problem with the algorithms is that they tended to be trained with non-diverse data sets.
+So one good example is that many of the algorithms used by law enforcement in the U.S., by government in the U.S., are very good at recognizing white men and not as good at recognizing Black people or Asian-Americans. But if you go to an algorithm from a company in China, where they fed it with a lot of images of Asian people, they’re really good at recognizing Asian people and not as good at recognizing white men. So you can just, you can see the biases that come in from the kind of data that we feed into these systems.
+And is this a widely agreed upon reality — that because of these methods, the algorithms used in the U.S. are just worse at identifying faces that aren’t white men?
+Yeah. A few years ago, an M.I.T. researcher did this study and found that facial recognition algorithms were biased to be able to recognize white men better. And shortly after that, NIST, the National Institute of Standards and Technology, decide to run its own study on this. And it found the same thing. It looked at over 100 different algorithms. And it found that they were biased. And actually, the two algorithms that were at the heart of this case — the Robert Williams’s case — were in that study.
+So the algorithm that was used by this police department was actually studied by the federal government and was proven to be biased against faces like Robert Williams.
+So given these widely-understood problems with these algorithms, how can police departments justify continuing to use them?
+So police departments are aware of the bias problem. But they feel that face recognition is just too valuable a tool in their tool set to solve crimes. And their defense is that they never arrest somebody based on facial recognition alone, that facial recognition is only what they call an investigative lead. It doesn’t supply probable cause for arrest.
+So what police are supposed to do is they get a facial recognition match, and you’re supposed to do more investigating. So you could go to the person’s social media account and see if there are other photos of them wearing the same clothes that they were wearing on the day they committed this crime. Or, you know, you can try to get proof that they were in that part of town on the day that the theft occurred. You know, try to get location data. Basically, find other evidence that this person is the person that committed the crime.
+The detectives just went to the woman who had spotted the theft on the video and showed her a photo of six people — they call it a six pack. And she said Robert Williams looked the most like the person that was in the video.
+Mm. So they’re supposed to use the facial recognition match as a kind of clue. And then the protocol calls for them to do more police work to verify it. But in this case, they basically just had someone watch the video and then identify Robert Williams as the one who looks most like the guy in the video.
+Yeah, they just did facial recognition a second time, but with a human who’s not actually trained. And they didn’t do any other investigating. Based on that, they went out and they arrested Mr. Williams.
+But if the police had done their job correctly — if they had looked into his social media accounts, if they had tried to get his location data from his phone records, essentially surveilling him more closely — wouldn’t that be its own sort of violation? Just because their technology wrongfully identified this man, he gets more closely watched by the police without his knowledge.
+Right. And this is actually what police asked the facial recognition vendors to do. They want to have more, what you call false positives, because they want to have the greatest pool of possible suspects that they can, because they want to find the bad guy.
+But there’s a real toll from that.
+I just, you know, as a person who’s been reporting on technology for a decade, I just think people trust computers. And even when we know something is flawed, if it’s a computer telling us to do it, we just think it’s right. And this is why we always used to see, for a long time, when mapping technology was first being developed and it wasn’t that great, you know, people would drive into lakes. They would drive over cliffs, because a mapping app said, you’re supposed to go straight here.
+And even though they could look and see that their life is going to be in danger, they would think, well, this app must know what it’s talking about. That’s facial recognition now. And when I was reporting this story, all the experts I talked to said this is surely not the first case where somebody has been mistakenly — an innocent person has been mistakenly arrested because of a bad face recognition match. But usually people don’t find out about it. Police don’t tell people that they’re there because of face recognition.
+Usually, when they charge them, they’ll just say they were identified through investigative means. It’s kind of a vague, “There were clues that pointed at you.” In that way, Robert’s case was unusual, because there was so little evidence against him. They basically had to tell him that they used facial recognition, you know, to put him there.
+Right. They showed him what most people don’t get to see, which is this false match between his photo and the photo of the crime.
+And what’s happened since Robert was arrested?
+So Robert had to hire a lawyer to defend himself. But when he went to the hearing, the prosecutor decided to drop the case. But they dropped it without prejudice, which meant that they could charge him again.
+For the same crime?
+With the same crime. So as I was reporting out the story, you know, I went to the prosecutor’s office. I went to the Detroit Police Department. And I said, you know, what happened here? Did you have any other evidence? This just seems like a clear misfire and misuse of facial recognition. And everyone involved was pretty defensive and said, well, you know, there might be more evidence that proves that Robert Williams did it.
+But after the story came out, everybody’s tune changed dramatically. Prosecutors office apologized, said that Robert Williams shouldn’t have spent any time in jail. The Detroit Police Department said this was a horrible investigation. The police officers involved just did this all wrong. This isn’t how it’s supposed to work. And they said that Robert Williams would have his information expunged from the system — his mug shot, his DNA. And they personally apologized to the Williams family, though the Williams family told me that no one ever actually called them to personally apologize.
+But he can no longer be charged in the future for this crime?
+And what about their use of facial recognition software? Has there been any change there?
+So one thing the Detroit Police Department said was, well, this was a case that predates this new policy we have that says, you know, we’re only supposed to be using facial recognition for violent crimes.
+Hmm. And what do you make of that? Why only use this tool for that?
+Well, their justification is that when it comes to violent crimes, when it comes to murder, you know, rape, they need to solve these cases. And they’ll use any clue they can to do it, including facial recognition. But I think about something that Robert’s wife said.
+When they pulled up to our house, they were already combative on the phone. They were aggressive in the doorway to me. What if he had been argumentative? If he’d been defensive, if he hadn’t complied, you know, what could that have turned into in our yard? Like, it could have went a different way. And the recent news has shown us that it definitely could have went a different way.
+Do you feel like there’s a shame to this, that the police arrested you even though you did nothing?
+It’s a little humiliating.  I got arrested.
+And what about for Robert himself? What has life been like for him after the arrest?
+So this was very embarrassing for him and kind of painful in some ways. So he had a perfect attendance at work until that day that he was arrested. And his wife had to email his boss and say that they had a family emergency and that he couldn’t show up that day.  You know, it could be bad for you. The night he got home, his daughter — his 5-year-old was still awake.
+She started wanting to play cops and robbers. And she would always pretend like he was the robber who stole something, and she would need to lock him up in the living room.
+Oh yeah. She told us that she told one of her — Jackson, her friend at school. And we weren’t sure, did she tell her teacher? Did she tell her friends? We were not sure. And we didn’t know what to say to people. Like, just bring it up out of nowhere, like, oh yeah, in case anyone mentioned it, he was arrested, but he didn’t do anything.
+Has this made you look back to see where you — like, where you were October 2018?
+Yeah. I pulled it up. At the time, I was on my Facebook or on my Instagram Live.
+He has since looked back and realized that he had posted to Instagram at basically the same time as the shoplifting was occurring. He was driving home from work, and a song came on the radio that his mother loved: the song “We Are One” by Maze and Frankie Beverly.
+I was singing songs on my way home in the car.
+So if the cops had looked in to his social media, if they had tried to verify that it was possible that he could have committed this crime, they could have found this video.
+Right. If the police had done a real investigation, they would have found out he had an alibi that day.
+Kashmir, thank you so much.
+Here’s what else you need to know today. Federal unemployment benefits have expired for tens of millions of Americans after Congress failed to reach a deal to renew them last week.
+So what do you say to those 30 million Americans who are now without federal unemployment help?
+In interviews on Sunday with ABC’s “This Week,” House Speaker Nancy Pelosi blamed Republicans for demanding a drastic cut in the weekly benefit, while Treasury Secretary Steve Mnuchin claimed that the $600 payments risked overpaying unemployed workers.
+So you do think it is a disincentive to find a job if you have that extra $600?
+There’s no question. In certain cases where we’re paying people more stay home than to work, that’s created issues in the entire economy.
+And The Times reports that July was a devastating month for the pandemic in the U.S. The country recorded nearly 2 million new infections, twice as many as any previous month.
+I want to be very clear. What we’re seeing today is different from March and April. It is extraordinarily widespread. It’s into the rural as equal urban areas.
+In an interview on Sunday with CNN, Dr. Deborah Birx, a top White House adviser on the pandemic, acknowledged that the United States has failed to contain the virus.

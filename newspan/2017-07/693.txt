@@ -1,0 +1,19 @@
+A Russian man was charged with overseeing a black market Bitcoin exchange that helped launder billions of dollars and stood at the nexus of several criminal enterprises, according to a federal indictment.
+The indictment, which was unsealed in California on Wednesday, gave a long list of illegal activities that the Bitcoin exchange, known as BTC-E, facilitated, including ransomware fraud, identity theft, drug trafficking and public corruption.
+The Russian man charged in the case, Alexander Vinnik, 37, was arrested in Greece on Tuesday. Mr. Vinnik had “directed and supervised” BTC-E’s operations, according to the indictment, and is said to have had co-conspirators.
+Criminals who stole or extorted Bitcoin from their victims would transfer the virtual currencies to BTC-E, which would then convert the virtual currency into traditional currency using a host of bank accounts registered under shell companies.
+Justice Department officials said that the exchange appeared to have been responsible for laundering more than $4 billion for criminals, with most of the money turned into American dollars and Russian rubles.
+The site served 700,000 customers around the world, the officials said.
+Users of BTC-E had noted this week that the exchange’s website was down, though the site’s administrators had said on social media that they were working to get it back up.
+The arrest of Mr. Vinnik came shortly after law enforcement authorities in the United States and Europe took down two big online drug markets in which Bitcoin was the primary currency.
+Within the Bitcoin community, it has been common knowledge that drug dealers could use BTC-E to turn their Bitcoin proceeds into dollars.
+The indictment may offer an explanation for a shock to the digital coin market in 2014. Mr. Vinnik and his partners are accused of stealing funds from the Tokyo-based Bitcoin exchange Mt. Gox, which declared bankruptcy in 2014 after disclosing a hacker intrusion.
+Mt. Gox’s chief executive, Mark Karpeles, said that year that it had lost more than 800,000 Bitcoins, some of which the company later said it had recovered.
+The indictment unsealed on Wednesday said that hundreds of thousands of Bitcoins moved from Mt. Gox into accounts at BTC-E that were directly controlled by Mr. Vinnik.
+The stolen Bitcoins were then moved to a different virtual currency exchange, Bitstamp, and sold for traditional currencies, which were deposited in bank accounts that Mr. Vinnik controlled in Latvia and Cyprus.
+At least 300,000 Bitcoins followed this path. Those coins would be worth nearly $800 million today.
+Soon after news of Mr. Vinnik’s arrest became public, WizSec, a Japanese computer security firm that has been tracking the Mt. Gox theft, announced that it had traced the stolen funds to Mr. Vinnik and had provided its findings to law enforcement authorities.
+WizSec said on Wednesday that the theft of Mt. Gox’s funds began in September 2011 and continued until 2014, with most of the money ending up at BTC-E. The report from WizSec appeared to be the most complete explanation yet of the theft.
+BTC-E was founded in 2011, just as Bitcoin began to gain significant value for the first time. The identity of the exchange’s operators was kept secret, even as other large Bitcoin exchanges tried to make their businesses more transparent and friendly to regulators.
+BTC-E announced on its website that the exchange was complying with regulators by collecting identifying documents from all of its customers. In practice, however, BTC-E did not require anything from customers opening a new account, the indictment said.
+BTC-E customers kept accounts under user names like “CocaineCowbays,” “ISIS” and “dzkillerhacker,” according to the indictment.

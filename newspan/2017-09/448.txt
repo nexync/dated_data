@@ -1,0 +1,3 @@
+Last year, my lab at Georgia Tech created Jill Watson, an A.I.-powered virtual teaching assistant designed to help answer students’ questions in the discussion forum of an online class on artificial intelligence. To assess Jill’s performance properly, we chose not to reveal her identity until the conclusion of the class.
+We believe that experiments like Jill are critical for deeply understanding the emerging ethics of artificial intelligence.
+The writer is a professor of computer science at Georgia Institute of Technology.

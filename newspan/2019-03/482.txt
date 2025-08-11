@@ -1,0 +1,5 @@
+Science|Space Is Very Big. Some of Its New Explorers Will Be Tiny.
+Last year, two satellites the size of cereal boxes sped toward Mars as though they were on an invisible track in space. Officially called MarCO A and MarCO B, they were nicknamed Wall-E and EVE, after the animated robots from the Pixar movie, by engineers at NASA.
+Constellations of small satellites like the MarCOs now orbit Earth, used by scientists, private companies, high school students and even governments seeking low-budget eyes in the skies. But never before had a cubesat traveled 300 million miles into space.
+The engineers even managed to get around one of the trickier issues with how to collect data and talk to the cubesats. Typically, when a spacecraft calls home, it will spend several hours using NASA’s Deep Space Network, the very expensive phone system for calls beyond the moon.
+As it passed Mars, MarCO B returned the first photo ever taken of Mars from a cubesat. It revealed the copper-colored entirety of the planet in the dark of space, and a small section of the spacecraft’s antenna.

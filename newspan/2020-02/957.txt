@@ -1,0 +1,6 @@
+A cybersecurity expert says businesses should not be relying on social media to communicate.
+“If Bezos Can Get Hacked, You Can, Too” (Wealth Matters column, Business Day, Feb. 1) lays out simple steps wealthy industry leaders can take to protect themselves against malicious actors.
+The hacking of the Amazon chief Jeff Bezos highlights a critical issue in corporate security: Consumer-based apps, like WhatsApp, are developed for entertainment and shouldn’t be relied upon by senior executives for sensitive communications. Global companies need to use security products designed for corporate use that prioritize security and privacy.
+The Bezos hack also underscores the fundamental issue of education. Businesses of all sizes, small and large, must ensure that employees are educated in threats, like mobile phishing, and offer guidelines on secure behavior.
+Good cybersecurity is not a one-time event, but an ongoing set of ingrained behaviors by every employee, at every level, in the business.
+The writer, managing director of the Cyber Readiness Institute, is a former executive director of the Presidential Commission on Enhancing National Cybersecurity.

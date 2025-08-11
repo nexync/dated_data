@@ -1,0 +1,18 @@
+Europe|Does the Messaging Service Telegram Take Privacy Too Far?
+Does the Messaging Service Telegram Take Privacy Too Far?
+PARIS — The encryption of digital information is considered the best protection against hackers, snoops or potential enemies looking to poke around into private exchanges of all sorts.
+That is why technology experts and privacy advocates in Europe went on high alert last month when the French Ministry of the Interior suggested that it might limit encryption as part of the fight against terrorist threats.
+That fear abated somewhat on Aug. 23 when the French interior minister, Bernard Cazeneuve, at a joint news conference with his German counterpart, Thomas de Maizière, stepped back from a more sweeping proposal. Instead, he pressed for a coordinated international effort to get messaging services to comply with judicial warrants for information.
+Mr. Cazeneuve named one such service: Telegram, a three-year-old messaging application, that is a favorite of the Islamic State, also known as ISIS or ISIL, which has claimed responsibility for a series of terrorist attacks in Europe in recent years.
+According to news reports, killers in two attacks in France this summer — one against two police officers and the other in a church in Normandy, during which they slit the throat of a Catholic priest — were exchanging messages on Telegram, even boasting of their plans. In August, Telegram was again used in two abortive cases, one involving a 16-year-old girl.
+Telegram’s vaunted privacy safeguards, involving multiple servers in different countries, are designed to prevent access to information about its users, even by the service itself.
+At the news conference, Mr. Cazeneuve admitted as much but claimed that French investigators, armed with a court order, had been unable to even contact “an interlocutor” at Telegram.
+In response to a query on his Telegram account, Pavel Durov, co-founder of the service, batted back the widely reported French claims.
+Last November, after attacks in Paris that left 130 people dead, Telegram scrubbed 78 Islamic State- related public channels hosted on its servers, but Mr. Durov insisted that privacy would remain paramount on the rest of the service.
+Mr. Durov’s background explains his die-hard libertarian attitude on privacy. He left his native Russia in 2014 after refusing to give intelligence information about Ukrainian protesters.
+However, most privacy advocates agree that messaging services should cooperate with court-issued warrants, even if they are unable to provide investigators with complete information about their users.
+At a time of heightened public anxiety over terrorism, technology companies and privacy advocates are wary about politicians looking to mandate “back door” access to encrypted data.
+This, they say, would not only violate privacy rights but put the wider public at an even greater risk, leaving users even more vulnerable to terrorists and other criminals.
+Mr. Mahjoubi, for one, supports alternative approaches, such as an international network that could call on judges in individual countries to swiftly react to requests from antiterrorism investigators.
+These ideas also are also backed by the Computer and Communications Industry Association, a lobbying organization that counts Amazon, Google and Microsoft among its members.
+That kind of targeted approach — aimed at criminals, not at privacy — would be more effective than a blank check for law enforcement to break open encoded messages, Mr. Mahjoubi said.

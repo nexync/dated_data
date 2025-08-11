@@ -1,0 +1,27 @@
+The European Space Agency’s ExoMars mission delivered the Schiaparelli lander to Mars's orbit on Wednesday. An animated video shows the spacecraft’s projected journey to the surface of the planet.
+Mars has a new visitor — at least, in orbit.
+ExoMars 2016, a joint mission of the European and Russian space agencies that launched in March on a Russian rocket from Kazakhstan, consists of an orbiter and a lander that arrived at the red planet on Wednesday.
+The Trace Gas Orbiter pulled in around Mars as planned, to cheers and fist pumps at the mission’s center in Darmstadt, Germany.
+“We have a good capture,” Michel Denis, the ExoMars flight director, said shortly after the signal arrived at 12:35 p.m. Eastern.
+A couple of hours later, Mr. Denis confirmed that the orbiter was almost exactly in the targeted orbit and that everything appeared to be operating well. “We have a mission around Mars,” he said.
+But the fate of the lander remains unknown. No radio signal has yet been received to indicate the spacecraft made it to the surface in working order.
+The European Space Agency, which built the Schiaparelli lander, has never successfully planted a spacecraft on Mars. Schiaparelli separated from the orbiter on Sunday and was to have set down just before 11 a.m. Eastern time.
+The spacecraft had been sending information back during its descent, and officials say the parachutes deployed. But then the signal, received by a radio dish in Pune, India, disappeared.
+Schiaparelli also sent its data to Mars Express, an older European orbiter, and Mars Express relayed what it heard to Earth. Again, the signal ended abruptly.
+The Trace Gas Orbiter recorded full telemetry information from Schiaparelli during the landing attempt, and that was to be sent back to Earth later on Wednesday. Engineers were to spend the night analyzing the data, and Dr. Ferri said he was confident that there would be answers in time for a morning news conference.
+Mars is littered with the wreckage of crashed landers, including the European Beagle 2 probe, lost in 2003. So far, there have been seven successful missions on the surface of Mars — all by NASA.
+The Soviet Union came close in December 1971 with its Mars 3 mission. The lander made it down in one piece, but then malfunctioned 20 seconds after landing.
+The thin atmosphere of Mars makes landing tricky. It is thick enough to heat an arriving spacecraft to thousands of degrees, yet too thin for parachutes to provide a gentle descent.
+Thus, spacecraft designers have to devise more complex landing systems like retrorockets, the airbags used for NASA’s Spirit and Opportunity rovers, and the Rube Goldberg-esque “sky crane” that lowered the Curiosity rover to the Martian surface.
+The ExoMars spacecraft is now orbiting Mars.
+Even if the lander Schiaparelli failed, it will not have a major impact on the overall success of the mission. The main purpose of Schiaparelli is to test landing technologies for future missions, and its batteries were expected to be drained after a few days.
+The primary scientific value of ExoMars was expected to come from the orbiter’s observations as it searches for methane and other gases in the Martian atmosphere.
+Transient methane has been detected on the planet, presumably produced by a geological process requiring heat and liquid water or, even more exciting, by microbes. More evidence of the gas on Mars could provide important clues about the planet’s geology, or even offer hints of life there.
+Neither the orbiter nor the lander — if it is intact — will want for company.
+On the surface, two rovers sent by NASA are exploring Mars’s dunes and craters. Opportunity, active since 2004, has lasted 12 years beyond its planned expiration date. Curiosity, which landed in 2012, has drilled into the planet’s surface and discovered organic chemicals essential to life.
+The company in orbit includes the Mars Express orbiter, launched in 2003, and three NASA craft: the Mars Reconnaissance Orbiter, the Mars Odyssey and the Mars Atmosphere and Volatile Evolution Mission, or Maven.
+An Indian probe, the Mars Orbiter Mission, has also orbited the planet since 2014.
+In the years ahead, a variety of space agencies and private companies have announced plans for further exploration of the solar system’s fourth planet.
+In 2018, NASA plans to land the InSight probe on Mars to study the planet’s interior processes. SpaceX also is looking to drop one of its Dragon capsules on the surface, a test that could lead to a much larger spacecraft carrying colonists there.
+Europe and Russia have an ambitious follow-up to the ExoMars collaboration that is to launch in 2020 and land in April 2021. That mission will consist of a rover and a surface science platform.
+That could be a busy period for Mars. NASA, India, China and the United Arab Emirates also are looking to launch spacecraft to the planet then.

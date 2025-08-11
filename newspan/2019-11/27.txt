@@ -1,0 +1,32 @@
+Technology|The Week in Tech: WhatsApp’s Spyware Fight Is at Least Good P.R.
+The messaging service is suing a cybersurveillance company. Whether it’s successful or not, it is a strong statement from WhatsApp and its owner, Facebook.
+WhatsApp sued the Israeli cybersurveillance firm NSO Group this week over the way spying technology had been used on its messaging service. NSO Group’s tools were used to spy on more than 1,400 people, including journalists and human-rights activists, from 20 countries, the lawsuit claims.
+The privacy intrusions used a WhatsApp call to embed spyware on phones that provided access to their contents, my colleague Nicole Perlroth explained. The target didn’t even need to answer the call.
+Whether the lawsuit, which accuses NSO Group of violating the Computer Fraud and Abuse Act as well as state-level violations, works for WhatsApp remains to be seen. Legal experts I spoke with this week said that with WhatsApp as the plaintiff, and not its users, the company’s lawyers will have to find interesting ways of arguing that it was the victim. And so far, it hasn’t detailed how it might do that convincingly.
+WhatsApp has, after all, marketed itself as a secure form of communication, an image it would no doubt like to keep. And a skeptic might go further and point out that this all happens against a backdrop of WhatsApp’s owner, Facebook, dealing with huge P.R. challenges of its own.
+If you’ve found it painful watching Mark Zuckerberg continually defend Facebook’s now weeks-old policy of letting politicians post any claims they want — even false ones — in ads, this week was surely torture.
+At least 250 of his employees this week told Mr. Zuckerberg that they “strongly object to this policy.” Then Facebook seemed to muddle its message by saying the rule wouldn’t be extended to Adriel Hampton, who on Monday announced a run for governor of California in protest of the policy, with a plan to post fake ads to prove his point.
+And on Wednesday, Jack Dorsey, the chief executive of Twitter, announced that his social network would ban political ads. In one tweet, he managed to needle at Mr. Zuckerberg’s seeming hypocrisy without even mentioning his name.
+“It‘s not credible for us to say: ‘We’re working hard to stop people from gaming our systems to spread misleading info, buuut if someone pays us to target and force people to see their political ad … well … they can say whatever they want!’” he wrote.
+Mr. Zuckerberg was on an earnings call with investors shortly after Mr. Dorsey made that announcement. He doubled down on his reasoning for the policy: the importance of free expression.
+There is no clear answer here. Mr. Dorsey’s decision drew mixed reactions: Democrats celebrated it, while those on the right suggested it would silence conservatives.
+But there’s a nagging familiarity to Mr. Zuckerberg’s contrarian tone. We’ve seen this kind of Facebook-is-right insistence before: over the first reports of 2016 election meddling and in the immediate wake of the Cambridge Analytica scandal last year. It’ll be interesting to see if the political ad issues have the same, troubled ending.
+Enterprise I.T. is boring. That’s the point: It’s reliable and predictable and undeniably dull. Well, the Pentagon didn’t get that memo.
+Last week, when it chose Microsoft to deliver its 10-year cloud computing contract, the Defense Department defied expectations — that is, having Amazon Web Services do it — and stoked the controversy that has surrounded this unusually compelling government procurement process.
+Need a recap?
+Amazon, Microsoft, IBM, Oracle and Google had all vied for the contract, which included intense lobbying efforts.
+IBM and Oracle didn’t meet the Pentagon’s criteria. Google pulled out. Microsoft had to add capabilities to stay in the running, which it did.
+Along the way, Oracle sued the Defense Department, claiming a conflict of interest that helped Amazon. The case was dismissed.
+President Trump stirred things up, and reportedly attempted to push Amazon out of the bidding.
+After all that, Microsoft won.
+Now, Amazon was the favorite because it had built cloud services for the C.I.A. and dominates the industry, while Microsoft is the runner-up. It’s great news for Microsoft, of course. But it’s a blow for Amazon, and not just because of one contract. Despite the runaway success of AW.S., it hasn’t been able to cement a position as de facto provider of federal cloud systems.
+Amazon is “evaluating” options, which means it will probably challenge the decision. Government Accountability Office rules say that Amazon has 10 days from the date of contract award, or five days from its official debriefing, in which to protest. I can only assume the next installment will be oddly compelling too.
+The Federal Communications Commission may clamp down on Huawei. It will vote in November on whether to bar cellular providers from using government subsidies to buy equipment from Huawei and ZTE.
+Russia has been testing new disinformation tactics in an enormous (and increasingly sophisticated) campaign waged on Facebook in Africa. The social network says it shut down the scheme.
+China set up a $29 billion national semiconductor investment fund to help it achieve technological independence. Also: It switched on its first 5G network.
+Robots will help companies deal with the holiday rush, according to The Wall Street Journal. Rented collaborative robots will be drafted, much like seasonal labor.
+A DeepMind A.I. can probably beat you at StarCraft II. The software, called “AlphaStar,” now ranks above 99.8 percent of human players of the computer game.
+Europe could get even harder on Big Tech. The E.U.’s antitrust chief, Margrethe Vestager, is considering higher standards of proof for internet companies in competition cases, according to the Financial Times.
+In the U.S., tech lobbying is skyrocketing. Facing political pressure in Washington, companies including Facebook, Amazon and Apple are spending record sums on the practice, The Wall Street Journal reports.
+Facebook launched a new preventive health tool that will give people personalized reminders about health checkups, vaccines and cancer screenings.
+There was a shortage of black turtlenecks in Silicon Valley this week, according to Business Insider, which claimed that it might be because people were dressing up as Elizabeth Holmes for Halloween.

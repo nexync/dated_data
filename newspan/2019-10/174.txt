@@ -1,0 +1,19 @@
+WASHINGTON — A federal appeals court upheld on Tuesday the government’s repeal of strict regulations for the companies that connect consumers to the internet. But the court also said the Federal Communications Commission had overstepped by broadly stopping state and local governments from writing their own rules.
+The mixed ruling, by the United States Court of Appeals for the District of Columbia Circuit, ensures that debate about so-called net neutrality rules will continue, including in state capitals.
+But over all, the decision Tuesday was a victory for the Trump administration, which has encouraged deregulation across the government. The F.C.C. chairman, Ajit Pai, who was appointed by President Trump, made the repeal of the rules a top priority, saying it would encourage innovation and help propel the economy.
+The agency voted to throw out the rules in a 3-to-2 party-line vote in 2017, reversing a decision made during the Obama administration. The rules had prohibited broadband internet providers like Comcast and AT&T from blocking websites or charging for higher-quality service or certain content.
+The appeals court upheld the F.C.C.’s decision to no longer regulate high-speed internet delivery as if it were a utility, or a “common carrier,” like phone service.
+Mr. Pai said the decision was “a victory for consumers, broadband deployment and the free and open internet.” He said the commission looked forward to addressing the “narrow issues” that the court sent back to the commission.
+Broadband providers also cheered the ruling.
+”The decision is a victory for U.S. broadband investment and broadband consumers everywhere,” David R. McAtee II, AT&T’s general counsel, said in a statement.
+But opponents of the repeal said the battle over the rules would continue.
+“Let’s keep up the fight,” she added.
+The decision on Tuesday raises the prospect that the long-running battle over how best to regulate the infrastructure of the internet will move to statehouses around the country, including in California, which has fought numerous changes by the Trump administration. Supporters of net neutrality rules say that because of the repeal, consumers will have more difficulty getting access to online content and start-ups will have to pay to reach consumers.
+Several legislatures have considered new rules on broadband companies. Last year, California approved a law effectively restoring the Obama-era federal rules at the state level. The Justice Department quickly challenged the move, pledging to “protect our constitutional order.” California agreed not to enforce the rules while challenges to the F.C.C.’s order went through the courts.
+Tuesday’s ruling may clear a major roadblock to California’s enforcement of the law, although it is still likely to face legal challenges.
+A senior F.C.C. official told reporters during a phone call that the agency was still analyzing how the opinion would affect its ability to block state and local regulations — but said the agency believed the court had not curtailed its efforts outright.
+But State Senator Scott Wiener, a Democrat who helped write California’s bill, said the ruling provided an opening.
+The court decision could also complicate the suit challenging the legitimacy of the repeal.
+In its lawsuit, Mozilla argued that the F.C.C. had violated the law and acted rashly in upending its 2015 rules. Some tech industry groups, including those representing companies like Google, Facebook and Amazon, supported Mozilla’s suit.
+The other issue the appeal court raised with the F.C.C. is how the agency handled subsidies for broadband to low-income consumers. The court said the F.C.C. must reassess how its repeal changed the government’s ability to offer those subsidies through a program called Lifeline.
+The agency expanded the program to cover internet service in addition to phone connections during the Obama administration.

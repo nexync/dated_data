@@ -1,0 +1,24 @@
+A “drug repurposing” strategy uncovers dozens of compounds that have the unexpected potential to combat the virus.
+But now scientists have discovered that the drug, also known as Thorazine, can do something entirely different. It can stop the new coronavirus that causes Covid-19 from invading cells.
+As researchers publish findings on these promising drugs, they’re starting tests on animals and people to see how well they perform. No one should try self-medicating with any of the drugs for Covid-19, the researchers warned, since they may have dangerous side effects and have yet to be proven effective in clinical trials.
+The strategy Dr. Chanda and other researchers are using is known as drug repurposing. It has a history that started decades before Covid-19 appeared. In 1987, for example, the cancer drug zidovudine became the first F.D.A.-approved drug against H.I.V.
+On Wednesday, Dr. Anthony S. Fauci, the federal government’s leading infectious diseases scientist, announced that a clinical trial showed that remdesivir may reduce the mortality rate of Covid-19 and can shorten the duration of the illness.
+In 2012, another coronavirus disease known as MERS emerged in the Middle East. Dr. Frieman responded by starting a drug-repurposing study. He and his colleagues tested 290 F.D.A.-approved drugs and found that 27 of them blocked the MERS virus from infecting cells. They also proved effective against the related coronavirus that causes SARS.
+Dr. Frieman and his colleagues have now tested those drugs against the new coronavirus, and made a preliminary report that 17 of them showed promise. Along with chlorpromazine, they include drugs for disorders as varied as Parkinson’s disease and leukemia.
+Recently, Dr. Chanda’s team in California began a mammoth search of their own for drugs to repurpose for Covid-19. They doused infected cells with 13,000 compounds and looked for ones that slowed down the virus. They then narrowed down these candidates by reducing their doses, in order to mimic the levels that would end up in a patient’s lungs.
+On April 17, Dr. Chanda’s team reported in a preprint, which has not yet been peer-reviewed by a journal, that six drugs showed particular promise, including one for osteoporosis and one that’s been investigated as treatment for arthritis.
+Dr. Krogan’s team found 69 drugs that target the same proteins in our cells the virus does. They published the list in a preprint last month, suggesting that some might prove effective against Covid-19.
+Brian Shoichet, a pharmaceutical chemist at U.C.S.F. who helped build the list, was keenly aware of how often drug repurposing fails.
+“The things we’re finding are 10 to a hundred times more potent than remdesivir,” Dr. Krogan said. He and his colleagues published their findings Thursday in the journal Nature.
+Dr. Shoichet speculated that these compounds starve the virus of the proteins it needs to make new copies of itself. This attack may suddenly halt the viral production line.
+Why does the new coronavirus need to manipulate Sigma receptors? “We don’t really know,” Dr. Shoichet said.
+In addition, Dr. Krogan said that all of Dr. Frieman’s candidates, including chlorpromazine, target Sigma receptors. A third of Dr. Chanda’s candidates do too, he said.
+The anti-malaria drugs chloroquine and hydroxychloroquine act on the Sigma receptor. Dr. Krogan’s team found that they also fought the virus in cells. Those compounds were extolled by President Trump for weeks despite no firm evidence they actually helped cure Covid-19.
+Dr. Frieman and Dr. Chanda also found that chloroquine-related drugs worked fairly well in slowing the virus in cell cultures. But Dr. Chanda found they didn’t work as well as the six compounds at the top of his list.
+Dr. Chanda expressed skepticism about the chloroquine drugs, noting their failure against other viruses.
+Last week, the F.D.A. issued a warning against using hydroxychloroquine or chloroquine for Covid-19 outside the hospital setting or a clinical trial. That’s because the drug has a well-known risk for causing irregular heart rhythms.
+In their new study, Dr. Krogan and his colleagues ran an experiment that might explain this risk at the molecular level.
+Dr. Krogan and his colleagues found that other compounds target Sigma proteins in a more promising way.
+Dr. Krogan said that studies are underway to test the drug in hamsters to see if that promise holds. Dr. Frieman and his colleagues are starting animal studies of their own, as well as testing drugs on a chip lined with human lung cells.
+Timothy Sheahan, a virologist at the University of North Carolina who was not involved in the new studies cautioned that it will take more testing to make sure these promising drugs are safe to give to patients ravaged by Covid-19.
+“Now we go crazy trying to make them more potent,” Dr. Krogan said.

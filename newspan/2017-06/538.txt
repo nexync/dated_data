@@ -1,0 +1,7 @@
+WASHINGTON — The Supreme Court agreed on Monday to decide whether the government needs a warrant to obtain information from cellphone companies showing their customers’ locations.
+The Supreme Court has limited the government’s ability to use GPS devices to track suspects’ movements, and it has required a warrant to search cellphones.
+The new case, Carpenter v. United States, No. 16-402, concerns historical data held by cellphone companies that shows users’ movements over time and could, for instance, place them at the scene of a crime.
+In 1979, in Smith v. Maryland, the Supreme Court ruled that a robbery suspect had no reasonable expectation that his right to privacy extended to the numbers dialed from his phone. The court reasoned that the suspect had voluntarily turned over that information to a third party: the phone company.
+In rejecting the argument that the relaxed standard violated the Fourth Amendment, which bans unreasonable searches, the United States Court of Appeals for the Fourth Circuit, in Richmond, Va., for instance, said it was bound by the Supreme Court’s ruling in the Smith case.
+“The Supreme Court may in the future limit, or even eliminate, the third-party doctrine,” Judge Diana Gribbon Motz wrote for the majority, adding that Congress could require a warrant for historical cell-site location information.
+“But without a change in controlling law, we cannot conclude that the government violated the Fourth Amendment in this case,” she wrote.

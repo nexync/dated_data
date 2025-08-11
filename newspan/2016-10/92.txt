@@ -1,0 +1,10 @@
+Facebook is using its enormous reach to get out the informed vote on Election Day.
+The social media giant has created a vote planner tool that shows users what candidates and issues will be on their ballots on Nov. 8, including local, state and national choices.
+The tool was created with data collected from election officials by the nonpartisan research group Center for Technology and Civic Life. It also shows where each candidate stands on major issues.
+“We wanted to help people prepare for the election and make it as easy as possible to prepare,” said Jeremy Galen, a product marketing manager at Facebook.
+According to Facebook, only about 20 states mail out samples before an election, making it hard for voters to be truly informed before they make their choices.
+The company has also made it possible for users to share their choices with friends because “many people look to friends and family for information and guidance about how to vote,” Mr. Galen said.
+But Facebook also realized that voting is a private matter for most people. While the company generally encourages people to make public the information they post to the platform, people must opt in to make their vote planner information visible to friends who have also used the tool.
+Facebook began working on the tool six months ago as part of its work to promote civic engagement.
+The company has sent out Election Day reminders since 2008, and it sends such notifications in 47 countries. In January, it introduced a voter registration reminder to coincide with the United States presidential primaries and it ran live broadcasts of this year’s presidential debates.
+Users can also save and print out their choices and bring them to the ballot box, where phones are generally prohibited.

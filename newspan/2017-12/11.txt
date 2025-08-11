@@ -1,0 +1,36 @@
+Technology|Bitcoin’s Price Has Soared. What Comes Next?
+Bitcoin’s Price Has Soared. What Comes Next?
+SAN FRANCISCO — Bitcoin has been in a bull market like few the world has ever seen.
+The latest price spike has been credited to signs that Wall Street companies plan on bringing their financial heft into the market.
+At the current cost, the value of all Bitcoin in circulation is about $300 billion. To get a sense of how big that is, all the shares of Goldman Sachs are worth about $90 billion.
+The gains have been driven by several other factors — perhaps the most important being the irrational mentality that can take over in speculative bubbles.
+But most people buying Bitcoin are doing so in the belief that others will want it even more in the future. The gains, though, have many people, even Bitcoin believers, anticipating a big crash.
+Bitcoin used to be all about libertarians and black-market trade. Are those still driving the price?
+The fringe communities that drove Bitcoin in its early years are playing a much less important role in the current rally.
+Many investors have said the most important factor driving the current enthusiasm is the entry of hedge funds and other institutional investors.
+The path for large investors has been smoothed by the Chicago Mercantile Exchange and Chicago Board Options Exchange, which have been racing to roll out Bitcoin futures contracts. Most banks are already signed up with these exchanges and consequently can immediately begin trading the contracts. The options exchange has said it plans to start trading on Sunday.
+It is still unclear how the arrival of Bitcoin futures will influence the demand for the digital tokens.
+With a futures contract, banks can bet on the price of Bitcoin without holding the underlying Bitcoins. This is expected to bring many new players into the market who don’t want to deal with the complications of holding Bitcoins.
+But the futures contract will also allow investors to short Bitcoin, or bet on the price’s going down, which has been hard to do until now. Some analysts think this could put downward pressure on the price. Other market participants have worried that Bitcoin futures could spread the risks of Bitcoin into the rest of the financial system.
+People still use Bitcoin and other virtual currencies to make ransom payments and buy illegal goods online, including synthetic opioids. But that activity has been on the wane since the authorities shut down some of the largest online black markets this year.
+What role are smaller investors playing in the virtual currency markets?
+Individual investors have been just as active as large investors.
+Nowhere has the phenomenon of ordinary people buying virtual currencies been more visible than in South Korea, where several exchanges have storefronts to help new customers. This is all the more remarkable because just a year ago, Koreans showed almost no interest in these markets.
+Small Japanese investors have also been investing in Bitcoin. They have been encouraged by laws passed this year that essentially legalized Bitcoin and allowed Bitcoin exchanges to get regulatory licenses.
+In the United States, most small-time investors have gone to the San Francisco company Coinbase, which provides a Bitcoin brokerage service, similar to Charles Schwab, as well as an exchange for larger investors. Coinbase now has more account holders than Schwab, and it has struggled to keep up with the growth.
+China used to be the most active country for Bitcoin trading and mining, but the authorities there have cracked down this year.
+Many of the largest exchanges, including in South Korea, are essentially unregulated. The lack of oversight means that no one is checking that the exchanges are properly securing their customers’ money or that large players are not able to manipulate the price. One of the largest exchanges in the world, Bitfinex, has been hacked numerous times and provides little transparency about where it is keeping its money.
+Even regulated exchanges, like Coinbase in the United States, have not been battle tested like larger financial institutions, and their operations have gone down at key moments.
+Once people buy Bitcoin or other virtual currencies, they are often targeted by hackers who have become experts at penetrating Bitcoin accounts. Bitcoin “wallets” are vulnerable to new kinds of attacks that are not a problem for ordinary financial accounts.
+Most important, in contrast to money in a bank account, when a Bitcoin is gone there is essentially no way to get it back and no insurance covering its loss.
+Are more people using Bitcoin to pay for things?
+When Bitcoin was released in 2009, it was described as a new kind of electronic cash.
+Recently, though, many programmers working on Bitcoin have said the system in its current form is not a particularly good way to pay for things. They argue that it is best designed to serve as a sort of scarce commodity, like digital gold, allowing people to keep their money outside the control of governments and companies.
+Many people who want to use virtual currencies for online payments are looking to Bitcoin competitors, like Bitcoin Cash and Monero.
+What role are the other virtual currencies playing in this frenzy?
+Earlier this year, bullish sentiment was focused on Ethereum, a virtual currency network that is more adaptable than Bitcoin. The price of Ether, the virtual currency on the Ethereum network, has continued to rise in recent months, but not as fast as Bitcoin.
+Many investors were also putting their money into custom virtual currencies released by entrepreneurs in so-called initial coin offerings. These new virtual currencies have generally been designed to serve as the internal payment mechanisms on new software the entrepreneurs are building.
+This fall, though, regulators have signaled that they are planning to crack down on coin offerings.
+Where did virtual currencies come from, and how do they work?
+The Bitcoin software was released in early 2009 by a mysterious creator who went by the name of Satoshi Nakamoto. The search is still on for the true identity of Satoshi.
+The software released by Satoshi set out the basic rules for Bitcoin and the computer network on which it lives. Unlike other forms of money, which are controlled by governments and financial institutions, Bitcoin operates on a decentralized network of computers that no one institution controls. For more details, see our Bitcoin explainer.

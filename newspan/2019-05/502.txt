@@ -1,0 +1,29 @@
+Science|Scientists Created Bacteria With a Synthetic Genome. Is This Artificial Life?
+In a milestone for synthetic biology, colonies of E. coli thrive with DNA constructed from scratch by humans, not nature.
+Scientists have created a living organism whose DNA is entirely human-made — perhaps a new form of life, experts said, and a milestone in the field of synthetic biology.
+Researchers at the Medical Research Council Laboratory of Molecular Biology in Britain reported on Wednesday that they had rewritten the DNA of the bacteria Escherichia coli, fashioning a synthetic genome four times larger and far more complex than any previously created.
+The bacteria are alive, though unusually shaped and reproducing slowly. But their cells operate according to a new set of biological rules, producing familiar proteins with a reconstructed genetic code.
+The achievement one day may lead to organisms that produce novel medicines or other valuable molecules, as living factories. These synthetic bacteria also may offer clues as to how the genetic code arose in the early history of life.
+Each gene in a living genome is detailed in an alphabet of four bases, molecules called adenine, thymine, guanine and cytosine (often described only by their first letters: A, T, G, C). A gene may be made of thousands of bases.
+Genes direct cells to choose among 20 amino acids, the building blocks of proteins, the workhorses of every cell. Proteins carry out a vast number of jobs in the body, from ferrying oxygen in the blood to generating force in our muscles.
+Nine years ago, researchers built a synthetic genome that was one million base pairs long. The new E. coli genome, reported in the journal Nature, is four million base pairs long and had to be constructed with entirely new methods.
+The new study was led by Jason Chin, a molecular biologist at the M.R.C. laboratory, who wanted to understand why all living things encode genetic information in the same baffling way.
+The production of each amino acid in the cell is directed by three bases arranged in the DNA strand. Each of these trios is known as a codon. The codon TCT, for example, ensures that an amino acid called serine is attached to the end of a new protein.
+Since there are only 20 amino acids, you’d think the genome only needs 20 codons to make them. But the genetic code is full of redundancies, for reasons that no one understands.
+Like many scientists, Dr. Chin was intrigued by all this duplication. Were all these chunks of DNA essential to life?
+“Because life universally uses 64 codons, we really didn’t have an answer,” Dr. Chin said. So he set out to create an organism that could shed some light on the question.
+After some preliminary experiments, he and his colleagues designed a modified version of the E. coli genome on a computer that only required 61 codons to produce all of the amino acids the organism needs.
+Instead of requiring six codons to make serine, this genome used just four. It had two stop codons, not three. In effect, the researchers treated E. coli DNA as if it were a gigantic text file, performing a search-and-replace function at over 18,000 spots.
+Now the researchers had a blueprint for a new genome four million base pairs long. They could synthesize the DNA in a lab, but introducing it into the bacteria — essentially substituting synthetic genes for those made by evolution — was a daunting challenge.
+The genome was too long and too complicated to force into a cell in one attempt. Instead, the researchers built small segments and swapped them piece by piece into E. coli genomes. By the time they were done, no natural segments remained.
+Much to their relief, the altered E. coli did not die. The bacteria grow more slowly than regular E. coli and develop longer, rod-shaped cells. But they are very much alive.
+Dr. Chin hopes to build on this experiment by removing more codons and compressing the genetic code even further. He wants to see just how streamlined the genetic code can be while still supporting life.
+The Cambridge team is just one of many racing in recent years to build synthetic genomes. The list of potential uses is a long one. One attractive possibility: Viruses may not be able to invade recoded cells.
+Many companies today use genetically engineered microbes to make medicines like insulin or useful chemicals like detergent enzymes. If a viral outbreak hits the fermentation tanks, the results can be catastrophic. A microbe with synthetic DNA might be made immune to such attacks.
+Recoding DNA could also allow scientists to program engineered cells so that their genes won’t work if they escape into other species. “It creates a genetic firewall,” said Finn Stirling, a synthetic biologist at Harvard Medical School who was not involved in the new study.
+Researchers are also interested in recoding life because it opens up the opportunity to make molecules with entirely new kinds of chemistry.
+Beyond the 20 amino acids used by all living things, there are hundreds of other kinds. A compressed genetic code will free up codons that scientists can use to encode these new building blocks, making new proteins that carry out new tasks in the body.
+James Kuo, a postdoctoral researcher at Harvard Medical School, offered a note of caution. Tacking bases together to make genomes remains enormously costly.
+“It’s just way too expensive for academic groups to keep pursuing,” Dr. Kuo said.
+But E. coli is a workhorse of laboratory research, and now it’s clear that its genome can be synthesized. It’s not hard to imagine that prices will fall as demands for custom, synthetic DNA rise. Researchers could apply Dr. Chin’s methods to yeast or other species.
+“In theory, you could recode anything,” said Mr. Stirling.
